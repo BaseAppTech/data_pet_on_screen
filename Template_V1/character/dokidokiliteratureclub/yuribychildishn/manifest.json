@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "doki-doki-literature-club",
+  "groupName": "Doki Doki Literature Club",
+  "groupUrl": "https://shimejis.xyz/directory/doki-doki-literature-club-shimeji-pack",
+  "shimeji": "doki-doki-literature-club-yuri-by-childish-n",
+  "shimejiName": "Yuri",
+  "sourceUrl": "https://childish-n.deviantart.com/art/DDLC-Shimeji-Pack-718209813",
+  "artistName": "ChildishN",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "Walk",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "Run",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "SitAndDangleLegs",
+      "frames": 1
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "Creep",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "Falling",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "Bouncing",
+      "frames": 1
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "ClimbWall",
+      "frames": 4
+    },
+    "top": {
+      "ok": true,
+      "source_action": "ClimbCeiling",
+      "frames": 4
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "Pinched",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "PullUpShimeji1",
+      "frames": 5
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "ThrowIe",
+      "frames": 1
+    }
+  }
+}

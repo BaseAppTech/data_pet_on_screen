@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "apex-legends",
+  "groupName": "Apex Legends",
+  "groupUrl": "https://shimejis.xyz/directory/apex-legends-shimeji-pack",
+  "shimeji": "apex-legends-caustic-by-the-kittle-kat",
+  "shimejiName": "Caustic",
+  "sourceUrl": "https://gumroad.com/thekittlekat",
+  "artistName": "TheKittleKat",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "Walk",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "Run",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "SitAndDangleLegs",
+      "frames": 4
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "Creep",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "Falling",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "Bouncing",
+      "frames": 2
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "ClimbWall",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "ClimbCeiling",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "Pinched",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "PullUpShimeji1",
+      "frames": 13
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "ThrowIe",
+      "frames": 1
+    }
+  }
+}

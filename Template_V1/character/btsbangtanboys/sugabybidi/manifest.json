@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "bts-bangtan-boys",
+  "groupName": "BTS (Bangtan Boys)",
+  "groupUrl": "https://shimejis.xyz/directory/bts-bangtan-boys-shimeji-pack",
+  "shimeji": "bts-bangtan-boys-suga-by-bidi-0103",
+  "shimejiName": "Suga",
+  "sourceUrl": "https://bidi0103.wordpress.com/2016/08/23/other-huong-dan-cach-cai-dat-shimeji-cua-bts-va-mot-so-loi-thuong-gap/",
+  "artistName": "bidi0103",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "Walk",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "Run",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "SitAndDangleLegs",
+      "frames": 4
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "Creep",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "Falling",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "Bouncing",
+      "frames": 2
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "ClimbWall",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "ClimbCeiling",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "Pinched",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "PullUpShimeji1",
+      "frames": 5
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "ThrowIe",
+      "frames": 1
+    }
+  }
+}

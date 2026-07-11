@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "yu-gi-oh",
+  "groupName": "Yu-Gi-Oh!",
+  "groupUrl": "https://shimejis.xyz/directory/yu-gi-oh-shimeji-pack",
+  "shimeji": "yu-gi-oh-new-yugi-by-burakbir",
+  "shimejiName": "New Yugi",
+  "sourceUrl": "https://burakbir.deviantart.com/art/Yugioh-Shimeji-s-293388504",
+  "artistName": "burakbir",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "歩く",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "走る",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "足をぶらぶらさせる",
+      "frames": 4
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "ずりずり",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "落ちる",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "跳ねる",
+      "frames": 2
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "壁を登る",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "天井を伝う",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "つままれる",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "跳ねる",
+      "frames": 2
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "IEを投げる",
+      "frames": 1
+    }
+  }
+}

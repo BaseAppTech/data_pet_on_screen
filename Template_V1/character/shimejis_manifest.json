@@ -1,0 +1,2650 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "groupCount": 61,
+  "characterCount": 443,
+  "groups": [
+    {
+      "groupSlug": "adventure-time",
+      "groupUrl": "https://shimejis.xyz/directory/adventure-time-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "adventure-time-beemo",
+          "name": "BMO",
+          "path": "Data\\adventuretime\\beemo"
+        },
+        {
+          "slug": "adventure-time-finn",
+          "name": "Finn",
+          "path": "Data\\adventuretime\\finn"
+        },
+        {
+          "slug": "adventure-time-fionna",
+          "name": "Fionna",
+          "path": "Data\\adventuretime\\fionna"
+        },
+        {
+          "slug": "adventure-time-jake",
+          "name": "Jake",
+          "path": "Data\\adventuretime\\jake"
+        },
+        {
+          "slug": "adventure-time-lumpy-space-princess",
+          "name": "Lumpy Space Princess",
+          "path": "Data\\adventuretime\\lumpyspaceprincess"
+        },
+        {
+          "slug": "adventure-time-marceline",
+          "name": "Marceline",
+          "path": "Data\\adventuretime\\marceline"
+        },
+        {
+          "slug": "adventure-time-marshall-lee",
+          "name": "Marshall Lee",
+          "path": "Data\\adventuretime\\marshalllee"
+        }
+      ]
+    },
+    {
+      "groupSlug": "alice-in-the-country-of-hearts",
+      "groupUrl": "https://shimejis.xyz/directory/alice-in-the-country-of-hearts-shimeji-pack",
+      "characterCount": 3,
+      "characters": [
+        {
+          "slug": "alice-in-the-country-of-hearts-ace",
+          "name": "Ace",
+          "path": "Data\\aliceinthecountryofhearts\\ace"
+        },
+        {
+          "slug": "alice-in-the-country-of-hearts-boris",
+          "name": "Boris",
+          "path": "Data\\aliceinthecountryofhearts\\boris"
+        },
+        {
+          "slug": "alice-in-the-country-of-hearts-julius",
+          "name": "Julius",
+          "path": "Data\\aliceinthecountryofhearts\\julius"
+        }
+      ]
+    },
+    {
+      "groupSlug": "apex-legends",
+      "groupUrl": "https://shimejis.xyz/directory/apex-legends-shimeji-pack",
+      "characterCount": 11,
+      "characters": [
+        {
+          "slug": "apex-legends-octane-by-the-kittle-kat",
+          "name": "Octane",
+          "path": "Data\\apexlegends\\octanebythekittlekat"
+        },
+        {
+          "slug": "apex-legends-revenant-by-the-kittle-kat",
+          "name": "Revenant",
+          "path": "Data\\apexlegends\\revenantbythekittlekat"
+        },
+        {
+          "slug": "apex-legends-wattson-by-the-kittle-kat",
+          "name": "Wattson",
+          "path": "Data\\apexlegends\\wattsonbythekittlekat"
+        },
+        {
+          "slug": "apex-legends-wraith-by-the-kittle-kat",
+          "name": "Wraith",
+          "path": "Data\\apexlegends\\wraithbythekittlekat"
+        },
+        {
+          "slug": "apex-legends-bangalore-by-the-kittle-kat",
+          "name": "Bangalore",
+          "path": "Data\\apexlegends\\bangalorebythekittlekat"
+        },
+        {
+          "slug": "apex-legends-bloodhound-by-the-kittle-kat",
+          "name": "Bloodhound",
+          "path": "Data\\apexlegends\\bloodhoundbythekittlekat"
+        },
+        {
+          "slug": "apex-legends-caustic-by-the-kittle-kat",
+          "name": "Caustic",
+          "path": "Data\\apexlegends\\causticbythekittlekat"
+        },
+        {
+          "slug": "apex-legends-crypto-by-the-kittle-kat",
+          "name": "Crypto",
+          "path": "Data\\apexlegends\\cryptobythekittlekat"
+        },
+        {
+          "slug": "apex-legends-lifeline-by-the-kittle-kat",
+          "name": "Lifeline",
+          "path": "Data\\apexlegends\\lifelinebythekittlekat"
+        },
+        {
+          "slug": "apex-legends-loba-by-the-kittle-kat",
+          "name": "Loba",
+          "path": "Data\\apexlegends\\lobabythekittlekat"
+        },
+        {
+          "slug": "apex-legends-pathfinder-by-the-kittle-kat",
+          "name": "Pathfinder",
+          "path": "Data\\apexlegends\\pathfinderbythekittlekat"
+        }
+      ]
+    },
+    {
+      "groupSlug": "assassins-creed",
+      "groupUrl": "https://shimejis.xyz/directory/assassins-creed-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "assassins-creed-cesare",
+          "name": "Cesare",
+          "path": "Data\\assassinscreed\\cesare"
+        },
+        {
+          "slug": "assassins-creed-desmond",
+          "name": "Desmond",
+          "path": "Data\\assassinscreed\\desmond"
+        },
+        {
+          "slug": "assassins-creed-ezio",
+          "name": "Ezio",
+          "path": "Data\\assassinscreed\\ezio"
+        },
+        {
+          "slug": "assassins-creed-kadar",
+          "name": "Kadar",
+          "path": "Data\\assassinscreed\\kadar"
+        },
+        {
+          "slug": "assassins-creed-leonardo-da-vinci",
+          "name": "Leonardo da Vinci",
+          "path": "Data\\assassinscreed\\leonardodavinci"
+        },
+        {
+          "slug": "assassins-creed-malik",
+          "name": "Malik",
+          "path": "Data\\assassinscreed\\malik"
+        },
+        {
+          "slug": "assassins-creed-yusuf",
+          "name": "Yusuf",
+          "path": "Data\\assassinscreed\\yusuf"
+        }
+      ]
+    },
+    {
+      "groupSlug": "attack-on-titan",
+      "groupUrl": "https://shimejis.xyz/directory/attack-on-titan-shimeji-pack",
+      "characterCount": 11,
+      "characters": [
+        {
+          "slug": "attack-on-titan-annie-leonhardt",
+          "name": "Annie Leonhardt",
+          "path": "Data\\attackontitan\\annieleonhardt"
+        },
+        {
+          "slug": "attack-on-titan-armin-arlert",
+          "name": "Armin Arlert",
+          "path": "Data\\attackontitan\\arminarlert"
+        },
+        {
+          "slug": "attack-on-titan-connie-springer",
+          "name": "Connie Springer",
+          "path": "Data\\attackontitan\\conniespringer"
+        },
+        {
+          "slug": "attack-on-titan-eren-jaeger",
+          "name": "Eren Jaeger",
+          "path": "Data\\attackontitan\\erenjaeger"
+        },
+        {
+          "slug": "attack-on-titan-hanji-zoe",
+          "name": "Hanji Zoe",
+          "path": "Data\\attackontitan\\hanjizoe"
+        },
+        {
+          "slug": "attack-on-titan-jean-kirschtein",
+          "name": "Jean Kirschtein",
+          "path": "Data\\attackontitan\\jeankirschtein"
+        },
+        {
+          "slug": "attack-on-titan-mikasa-ackerman",
+          "name": "Mikasa Ackerman",
+          "path": "Data\\attackontitan\\mikasaackerman"
+        },
+        {
+          "slug": "attack-on-titan-sasha-braus",
+          "name": "Sasha Braus",
+          "path": "Data\\attackontitan\\sashabraus"
+        },
+        {
+          "slug": "attack-on-titan-ymir",
+          "name": "Ymir",
+          "path": "Data\\attackontitan\\ymir"
+        },
+        {
+          "slug": "attack-on-titan-historia-reiß",
+          "name": "Historia Reiß",
+          "path": "Data\\attackontitan\\historiarei"
+        },
+        {
+          "slug": "attack-on-titan-levi-ackerman-by-斬夜-bk",
+          "name": "Levi Ackerman",
+          "path": "Data\\attackontitan\\leviackermanbybk"
+        }
+      ]
+    },
+    {
+      "groupSlug": "the-avengers",
+      "groupUrl": "https://shimejis.xyz/directory/the-avengers-shimeji-pack",
+      "characterCount": 6,
+      "characters": [
+        {
+          "slug": "the-avengers-bruce-banner",
+          "name": "Bruce Banner",
+          "path": "Data\\theavengers\\brucebanner"
+        },
+        {
+          "slug": "the-avengers-captain-america",
+          "name": "Captain America",
+          "path": "Data\\theavengers\\captainamerica"
+        },
+        {
+          "slug": "the-avengers-hawkeye",
+          "name": "Hawkeye",
+          "path": "Data\\theavengers\\hawkeye"
+        },
+        {
+          "slug": "the-avengers-loki",
+          "name": "Loki",
+          "path": "Data\\theavengers\\loki"
+        },
+        {
+          "slug": "the-avengers-loki-(helmet)",
+          "name": "Loki (helmet)",
+          "path": "Data\\theavengers\\lokihelmet"
+        },
+        {
+          "slug": "the-avengers-tony-stark",
+          "name": "Tony Stark",
+          "path": "Data\\theavengers\\tonystark"
+        }
+      ]
+    },
+    {
+      "groupSlug": "blobs",
+      "groupUrl": "https://shimejis.xyz/directory/blobs-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "blobs-blob-by-reitanna",
+          "name": "Blob",
+          "path": "Data\\blobs\\blobbyreitanna"
+        }
+      ]
+    },
+    {
+      "groupSlug": "bbc-sherlock",
+      "groupUrl": "https://shimejis.xyz/directory/bbc-sherlock-shimeji-pack",
+      "characterCount": 4,
+      "characters": [
+        {
+          "slug": "bbc-sherlock-john-watson",
+          "name": "John Watson",
+          "path": "Data\\bbcsherlock\\johnwatson"
+        },
+        {
+          "slug": "bbc-sherlock-jim-moriarty",
+          "name": "Jim Moriarty",
+          "path": "Data\\bbcsherlock\\jimmoriarty"
+        },
+        {
+          "slug": "bbc-sherlock-mycroft",
+          "name": "Mycroft",
+          "path": "Data\\bbcsherlock\\mycroft"
+        },
+        {
+          "slug": "bbc-sherlock-sherlock",
+          "name": "Sherlock",
+          "path": "Data\\bbcsherlock\\sherlock"
+        }
+      ]
+    },
+    {
+      "groupSlug": "bendy-and-the-ink-machine",
+      "groupUrl": "https://shimejis.xyz/directory/bendy-and-the-ink-machine-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "bendy-and-the-ink-machine-bendy-by-niuniu-nuko",
+          "name": "Bendy",
+          "path": "Data\\bendyandtheinkmachine\\bendybyniuniunuko"
+        }
+      ]
+    },
+    {
+      "groupSlug": "the-beatles",
+      "groupUrl": "https://shimejis.xyz/directory/the-beatles-shimeji-pack",
+      "characterCount": 4,
+      "characters": [
+        {
+          "slug": "the-beatles-george-harrison",
+          "name": "George Harrison",
+          "path": "Data\\thebeatles\\georgeharrison"
+        },
+        {
+          "slug": "the-beatles-john-lennon",
+          "name": "John Lennon",
+          "path": "Data\\thebeatles\\johnlennon"
+        },
+        {
+          "slug": "the-beatles-paul-mccartney",
+          "name": "Paul McCartney",
+          "path": "Data\\thebeatles\\paulmccartney"
+        },
+        {
+          "slug": "the-beatles-ringo-starr",
+          "name": "Ringo Starr",
+          "path": "Data\\thebeatles\\ringostarr"
+        }
+      ]
+    },
+    {
+      "groupSlug": "bioshock",
+      "groupUrl": "https://shimejis.xyz/directory/bioshock-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "bioshock-big-daddy",
+          "name": "Big Daddy",
+          "path": "Data\\bioshock\\bigdaddy"
+        },
+        {
+          "slug": "bioshock-fontaine",
+          "name": "Fontaine",
+          "path": "Data\\bioshock\\fontaine"
+        }
+      ]
+    },
+    {
+      "groupSlug": "black-butler",
+      "groupUrl": "https://shimejis.xyz/directory/black-butler-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "black-butler-alois-trancy-by-necrotic-misery",
+          "name": "Alois Trancy",
+          "path": "Data\\blackbutler\\aloistrancybynecroticmisery"
+        },
+        {
+          "slug": "black-butler-ciel-phantomhive",
+          "name": "Ciel Phantomhive",
+          "path": "Data\\blackbutler\\cielphantomhive"
+        },
+        {
+          "slug": "black-butler-grell",
+          "name": "Grell",
+          "path": "Data\\blackbutler\\grell"
+        },
+        {
+          "slug": "black-butler-maylene",
+          "name": "Maylene",
+          "path": "Data\\blackbutler\\maylene"
+        },
+        {
+          "slug": "black-butler-sebastian-michaelis",
+          "name": "Sebastian Michaelis",
+          "path": "Data\\blackbutler\\sebastianmichaelis"
+        },
+        {
+          "slug": "black-butler-undertaker",
+          "name": "Undertaker",
+          "path": "Data\\blackbutler\\undertaker"
+        },
+        {
+          "slug": "black-butler-william",
+          "name": "William",
+          "path": "Data\\blackbutler\\william"
+        }
+      ]
+    },
+    {
+      "groupSlug": "bleach",
+      "groupUrl": "https://shimejis.xyz/directory/bleach-shimeji-pack",
+      "characterCount": 15,
+      "characters": [
+        {
+          "slug": "bleach-aizen",
+          "name": "Aizen",
+          "path": "Data\\bleach\\aizen"
+        },
+        {
+          "slug": "bleach-byakuya-kuchiki",
+          "name": "Byakuya Kuchiki",
+          "path": "Data\\bleach\\byakuyakuchiki"
+        },
+        {
+          "slug": "bleach-gin-ichimaru",
+          "name": "Gin Ichimaru",
+          "path": "Data\\bleach\\ginichimaru"
+        },
+        {
+          "slug": "bleach-grimmjow",
+          "name": "Grimmjow",
+          "path": "Data\\bleach\\grimmjow"
+        },
+        {
+          "slug": "bleach-hisagi-shuuhei",
+          "name": "Hisagi Shuuhei",
+          "path": "Data\\bleach\\hisagishuuhei"
+        },
+        {
+          "slug": "bleach-ichigo",
+          "name": "Ichigo",
+          "path": "Data\\bleach\\ichigo"
+        },
+        {
+          "slug": "bleach-inoue-orihime",
+          "name": "Inoue Orihime",
+          "path": "Data\\bleach\\inoueorihime"
+        },
+        {
+          "slug": "bleach-jushiro-ukitake",
+          "name": "Jushiro Ukitake",
+          "path": "Data\\bleach\\jushiroukitake"
+        },
+        {
+          "slug": "bleach-renji-abarai",
+          "name": "Renji Abarai",
+          "path": "Data\\bleach\\renjiabarai"
+        },
+        {
+          "slug": "bleach-rukia",
+          "name": "Rukia",
+          "path": "Data\\bleach\\rukia"
+        },
+        {
+          "slug": "bleach-shirosaki-hichigo",
+          "name": "Shirosaki Hichigo",
+          "path": "Data\\bleach\\shirosakihichigo"
+        },
+        {
+          "slug": "bleach-starrk",
+          "name": "Starrk",
+          "path": "Data\\bleach\\starrk"
+        },
+        {
+          "slug": "bleach-szayel-aporro",
+          "name": "Szayel Aporro",
+          "path": "Data\\bleach\\szayelaporro"
+        },
+        {
+          "slug": "bleach-ulquiorra",
+          "name": "Ulquiorra",
+          "path": "Data\\bleach\\ulquiorra"
+        },
+        {
+          "slug": "bleach-uryuu-ishida",
+          "name": "Uryuu Ishida",
+          "path": "Data\\bleach\\uryuuishida"
+        }
+      ]
+    },
+    {
+      "groupSlug": "bts-bangtan-boys",
+      "groupUrl": "https://shimejis.xyz/directory/bts-bangtan-boys-shimeji-pack",
+      "characterCount": 9,
+      "characters": [
+        {
+          "slug": "bts-bangtan-boys-j-hope-hobi-hyyh-by-bidi-0103",
+          "name": "J-Hope - Hobi [hyyh]",
+          "path": "Data\\btsbangtanboys\\jhopehobihyyhbybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-j-hope-hobi-summer-by-aries-0-ram",
+          "name": "J-Hope - Hobi [summer]",
+          "path": "Data\\btsbangtanboys\\jhopehobisummerbyaries0ram"
+        },
+        {
+          "slug": "bts-bangtan-boys-jin-by-bidi-0103",
+          "name": "Jin",
+          "path": "Data\\btsbangtanboys\\jinbybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-jungkook-kookie-baby-by-bidi-0103",
+          "name": "Jungkook - Kookie [baby]",
+          "path": "Data\\btsbangtanboys\\jungkookkookiebabybybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-suga-by-bidi-0103",
+          "name": "Suga",
+          "path": "Data\\btsbangtanboys\\sugabybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-v-tae-tae-not-today-by-bidi-0103",
+          "name": "V - TaeTae [not today]",
+          "path": "Data\\btsbangtanboys\\vtaetaenottodaybybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-v-tae-tae-puppy-by-bidi-0103",
+          "name": "V - TaeTae [puppy]",
+          "path": "Data\\btsbangtanboys\\vtaetaepuppybybidi"
+        },
+        {
+          "slug": "bts-bangtan-boys-jimin-by-wyta-wolf",
+          "name": "Jimin",
+          "path": "Data\\btsbangtanboys\\jiminbywytawolf"
+        },
+        {
+          "slug": "bts-bangtan-boys-jimin-by-bidi-0103",
+          "name": "Jimin",
+          "path": "Data\\btsbangtanboys\\jiminbybidi"
+        }
+      ]
+    },
+    {
+      "groupSlug": "creepypasta",
+      "groupUrl": "https://shimejis.xyz/directory/creepypasta-shimeji-pack",
+      "characterCount": 12,
+      "characters": [
+        {
+          "slug": "creepypasta-ben-drowned",
+          "name": "Ben Drowned",
+          "path": "Data\\creepypasta\\bendrowned"
+        },
+        {
+          "slug": "creepypasta-eyeless-jack",
+          "name": "Eyeless Jack",
+          "path": "Data\\creepypasta\\eyelessjack"
+        },
+        {
+          "slug": "creepypasta-hoody",
+          "name": "Hoody",
+          "path": "Data\\creepypasta\\hoody"
+        },
+        {
+          "slug": "creepypasta-kagekao",
+          "name": "Kagekao",
+          "path": "Data\\creepypasta\\kagekao"
+        },
+        {
+          "slug": "creepypasta-laughing-jack",
+          "name": "Laughing Jack",
+          "path": "Data\\creepypasta\\laughingjack"
+        },
+        {
+          "slug": "creepypasta-lost-silver",
+          "name": "Lost Silver",
+          "path": "Data\\creepypasta\\lostsilver"
+        },
+        {
+          "slug": "creepypasta-masky",
+          "name": "Masky",
+          "path": "Data\\creepypasta\\masky"
+        },
+        {
+          "slug": "creepypasta-rake",
+          "name": "Rake",
+          "path": "Data\\creepypasta\\rake"
+        },
+        {
+          "slug": "creepypasta-ticci-toby",
+          "name": "Ticci Toby",
+          "path": "Data\\creepypasta\\ticcitoby"
+        },
+        {
+          "slug": "creepypasta-zehnder",
+          "name": "Zehnder",
+          "path": "Data\\creepypasta\\zehnder"
+        },
+        {
+          "slug": "creepypasta-jeff-the-killer-by-bluesixxdakota",
+          "name": "Jeff the Killer",
+          "path": "Data\\creepypasta\\jeffthekillerbybluesixxdakota"
+        },
+        {
+          "slug": "creepypasta-jeff-the-killer-by-comickit",
+          "name": "Jeff the Killer",
+          "path": "Data\\creepypasta\\jeffthekillerbycomickit"
+        }
+      ]
+    },
+    {
+      "groupSlug": "danganronpa",
+      "groupUrl": "https://shimejis.xyz/directory/danganronpa-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "danganronpa-kokichi-oma-by-strait-jakk",
+          "name": "Kokichi Oma",
+          "path": "Data\\danganronpa\\kokichiomabystraitjakk"
+        }
+      ]
+    },
+    {
+      "groupSlug": "deathnote",
+      "groupUrl": "https://shimejis.xyz/directory/deathnote-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "deathnote-beyond-birthday",
+          "name": "Beyond Birthday",
+          "path": "Data\\deathnote\\beyondbirthday"
+        },
+        {
+          "slug": "deathnote-matt",
+          "name": "Matt",
+          "path": "Data\\deathnote\\matt"
+        }
+      ]
+    },
+    {
+      "groupSlug": "digimon",
+      "groupUrl": "https://shimejis.xyz/directory/digimon-shimeji-pack",
+      "characterCount": 6,
+      "characters": [
+        {
+          "slug": "digimon-agumon",
+          "name": "Agumon",
+          "path": "Data\\digimon\\agumon"
+        },
+        {
+          "slug": "digimon-culumon",
+          "name": "Culumon",
+          "path": "Data\\digimon\\culumon"
+        },
+        {
+          "slug": "digimon-gatomon",
+          "name": "Gatomon",
+          "path": "Data\\digimon\\gatomon"
+        },
+        {
+          "slug": "digimon-patamon",
+          "name": "Patamon",
+          "path": "Data\\digimon\\patamon"
+        },
+        {
+          "slug": "digimon-tanemon",
+          "name": "Tanemon",
+          "path": "Data\\digimon\\tanemon"
+        },
+        {
+          "slug": "digimon-terriemon",
+          "name": "Terriemon",
+          "path": "Data\\digimon\\terriemon"
+        }
+      ]
+    },
+    {
+      "groupSlug": "disney-movies",
+      "groupUrl": "https://shimejis.xyz/directory/disney-movies-shimeji-pack",
+      "characterCount": 5,
+      "characters": [
+        {
+          "slug": "disney-movies-ariel-and-meg",
+          "name": "Ariel and Meg",
+          "path": "Data\\disneymovies\\arielandmeg"
+        },
+        {
+          "slug": "disney-movies-clopin-trouillefou",
+          "name": "Clopin Trouillefou",
+          "path": "Data\\disneymovies\\clopintrouillefou"
+        },
+        {
+          "slug": "disney-movies-flynn-rider",
+          "name": "Flynn Rider",
+          "path": "Data\\disneymovies\\flynnrider"
+        },
+        {
+          "slug": "disney-movies-rapunzel-braided-hair",
+          "name": "Rapunzel (braided hair)",
+          "path": "Data\\disneymovies\\rapunzelbraidedhair"
+        },
+        {
+          "slug": "disney-movies-rapunzel-brunette",
+          "name": "Rapunzel (brunette)",
+          "path": "Data\\disneymovies\\rapunzelbrunette"
+        }
+      ]
+    },
+    {
+      "groupSlug": "doki-doki-literature-club",
+      "groupUrl": "https://shimejis.xyz/directory/doki-doki-literature-club-shimeji-pack",
+      "characterCount": 4,
+      "characters": [
+        {
+          "slug": "doki-doki-literature-club-monika-by-childish-n",
+          "name": "Monika",
+          "path": "Data\\dokidokiliteratureclub\\monikabychildishn"
+        },
+        {
+          "slug": "doki-doki-literature-club-natsuki-by-childish-n",
+          "name": "Natsuki",
+          "path": "Data\\dokidokiliteratureclub\\natsukibychildishn"
+        },
+        {
+          "slug": "doki-doki-literature-club-sayori-by-childish-n",
+          "name": "Sayori",
+          "path": "Data\\dokidokiliteratureclub\\sayoribychildishn"
+        },
+        {
+          "slug": "doki-doki-literature-club-yuri-by-childish-n",
+          "name": "Yuri",
+          "path": "Data\\dokidokiliteratureclub\\yuribychildishn"
+        }
+      ]
+    },
+    {
+      "groupSlug": "dragon-ball-z",
+      "groupUrl": "https://shimejis.xyz/directory/dragon-ball-z-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "dragon-ball-z-goku-by-aki-1-iniriki",
+          "name": "Goku",
+          "path": "Data\\dragonballz\\gokubyaki1iniriki"
+        },
+        {
+          "slug": "dragon-ball-z-vegeta-by-aki-1-iniriki",
+          "name": "Vegeta",
+          "path": "Data\\dragonballz\\vegetabyaki1iniriki"
+        }
+      ]
+    },
+    {
+      "groupSlug": "dream-smp",
+      "groupUrl": "https://shimejis.xyz/directory/dream-smp-shimeji-pack",
+      "characterCount": 8,
+      "characters": [
+        {
+          "slug": "dream-smp-bad-boy-halo-by-taro-tayo",
+          "name": "BadBoyHalo",
+          "path": "Data\\dreamsmp\\badboyhalobytarotayo"
+        },
+        {
+          "slug": "dream-smp-dream-by-taro-tayo",
+          "name": "Dream",
+          "path": "Data\\dreamsmp\\dreambytarotayo"
+        },
+        {
+          "slug": "dream-smp-fundy-by-taro-tayo",
+          "name": "Fundy",
+          "path": "Data\\dreamsmp\\fundybytarotayo"
+        },
+        {
+          "slug": "dream-smp-george-by-taro-tayo",
+          "name": "George",
+          "path": "Data\\dreamsmp\\georgebytarotayo"
+        },
+        {
+          "slug": "dream-smp-ghostbur-by-taro-tayo",
+          "name": "Ghostbur",
+          "path": "Data\\dreamsmp\\ghostburbytarotayo"
+        },
+        {
+          "slug": "dream-smp-ranboo-by-taro-tayo",
+          "name": "Ranboo",
+          "path": "Data\\dreamsmp\\ranboobytarotayo"
+        },
+        {
+          "slug": "dream-smp-sapnap-by-taro-tayo",
+          "name": "Sapnap",
+          "path": "Data\\dreamsmp\\sapnapbytarotayo"
+        },
+        {
+          "slug": "dream-smp-technoblade-by-taro-tayo",
+          "name": "Technoblade",
+          "path": "Data\\dreamsmp\\technobladebytarotayo"
+        }
+      ]
+    },
+    {
+      "groupSlug": "durarara",
+      "groupUrl": "https://shimejis.xyz/directory/durarara-shimeji-pack",
+      "characterCount": 29,
+      "characters": [
+        {
+          "slug": "durarara-celty-sturluson-01",
+          "name": "Celty Sturluson",
+          "path": "Data\\durarara\\celtysturluson"
+        },
+        {
+          "slug": "durarara-delic-heiwajima-01",
+          "name": "Delic Heiwajima",
+          "path": "Data\\durarara\\delicheiwajima"
+        },
+        {
+          "slug": "durarara-hachimenroppi-orihara-01",
+          "name": "Hachimenroppi Orihara",
+          "path": "Data\\durarara\\hachimenroppiorihara01"
+        },
+        {
+          "slug": "durarara-hachimenroppi-orihara-02",
+          "name": "Hachimenroppi Orihara",
+          "path": "Data\\durarara\\hachimenroppiorihara02"
+        },
+        {
+          "slug": "durarara-hibiya-orihara-01",
+          "name": "Hibiya Orihara",
+          "path": "Data\\durarara\\hibiyaorihara01"
+        },
+        {
+          "slug": "durarara-hibiya-orihara-02",
+          "name": "Hibiya Orihara",
+          "path": "Data\\durarara\\hibiyaorihara02"
+        },
+        {
+          "slug": "durarara-izaya-orihara-01",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara01"
+        },
+        {
+          "slug": "durarara-izaya-orihara-02",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara02"
+        },
+        {
+          "slug": "durarara-izaya-orihara-03",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara03"
+        },
+        {
+          "slug": "durarara-izaya-orihara-04",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara04"
+        },
+        {
+          "slug": "durarara-izaya-orihara-05",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara05"
+        },
+        {
+          "slug": "durarara-izaya-orihara-06",
+          "name": "Izaya Orihara",
+          "path": "Data\\durarara\\izayaorihara06"
+        },
+        {
+          "slug": "durarara-masaomi-kida-01",
+          "name": "Masaomi Kida",
+          "path": "Data\\durarara\\masaomikida01"
+        },
+        {
+          "slug": "durarara-masaomi-kida-02",
+          "name": "Masaomi Kida",
+          "path": "Data\\durarara\\masaomikida02"
+        },
+        {
+          "slug": "durarara-mikado-ryuugamine-01",
+          "name": "Mikado Ryuugamine",
+          "path": "Data\\durarara\\mikadoryuugamine01"
+        },
+        {
+          "slug": "durarara-mikado-ryuugamine-02",
+          "name": "Mikado Ryuugamine",
+          "path": "Data\\durarara\\mikadoryuugamine02"
+        },
+        {
+          "slug": "durarara-mikado-ryuugamine-03",
+          "name": "Mikado Ryuugamine",
+          "path": "Data\\durarara\\mikadoryuugamine03"
+        },
+        {
+          "slug": "durarara-mikado-ryuugamine-04",
+          "name": "Mikado Ryuugamine",
+          "path": "Data\\durarara\\mikadoryuugamine04"
+        },
+        {
+          "slug": "durarara-psyche-orihara-01",
+          "name": "Psyche Orihara",
+          "path": "Data\\durarara\\psycheorihara01"
+        },
+        {
+          "slug": "durarara-psyche-orihara-02",
+          "name": "Psyche Orihara",
+          "path": "Data\\durarara\\psycheorihara02"
+        },
+        {
+          "slug": "durarara-shinra-kishitani-01",
+          "name": "Shinra Kishitani",
+          "path": "Data\\durarara\\shinrakishitani"
+        },
+        {
+          "slug": "durarara-shizuo-hejiwama-02",
+          "name": "Shizuo Hejiwama",
+          "path": "Data\\durarara\\shizuohejiwama02"
+        },
+        {
+          "slug": "durarara-shizuo-hejiwama-03",
+          "name": "Shizuo Hejiwama",
+          "path": "Data\\durarara\\shizuohejiwama03"
+        },
+        {
+          "slug": "durarara-shizuo-hejiwama-04",
+          "name": "Shizuo Hejiwama",
+          "path": "Data\\durarara\\shizuohejiwama04"
+        },
+        {
+          "slug": "durarara-shizuo-hejiwama-05",
+          "name": "Shizuo Hejiwama",
+          "path": "Data\\durarara\\shizuohejiwama05"
+        },
+        {
+          "slug": "durarara-shizuo-hejiwama-by-vectorsmash",
+          "name": "Shizuo Hejiwama",
+          "path": "Data\\durarara\\shizuohejiwamabyvectorsmash"
+        },
+        {
+          "slug": "durarara-shizuo-and-izaya-01",
+          "name": "Shizuo and Izaya",
+          "path": "Data\\durarara\\shizuoandizaya"
+        },
+        {
+          "slug": "durarara-tsugaru-kaikyo-fuyu-geshiki-01",
+          "name": "Tsugaru Kaikyo Fuyu Geshiki",
+          "path": "Data\\durarara\\tsugarukaikyofuyugeshiki01"
+        },
+        {
+          "slug": "durarara-tsugaru-kaikyo-fuyu-geshiki-02",
+          "name": "Tsugaru Kaikyo Fuyu Geshiki",
+          "path": "Data\\durarara\\tsugarukaikyofuyugeshiki02"
+        }
+      ]
+    },
+    {
+      "groupSlug": "eddsworld",
+      "groupUrl": "https://shimejis.xyz/directory/eddsworld-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "eddsworld-edd-by-ludmilabb",
+          "name": "Edd",
+          "path": "Data\\eddsworld\\eddbyludmilabb"
+        },
+        {
+          "slug": "eddsworld-future-edd-by-stanxiety",
+          "name": "Future Edd",
+          "path": "Data\\eddsworld\\futureeddbystanxiety"
+        },
+        {
+          "slug": "eddsworld-matt-by-ludmilabb",
+          "name": "Matt",
+          "path": "Data\\eddsworld\\mattbyludmilabb"
+        },
+        {
+          "slug": "eddsworld-tom-by-windpools-art-hub",
+          "name": "Tom",
+          "path": "Data\\eddsworld\\tombywindpoolsarthub"
+        },
+        {
+          "slug": "eddsworld-tord-by-big-gay",
+          "name": "Tord",
+          "path": "Data\\eddsworld\\tordbybiggay"
+        },
+        {
+          "slug": "eddsworld-jon-by-bread",
+          "name": "Jon",
+          "path": "Data\\eddsworld\\jonbybread"
+        },
+        {
+          "slug": "eddsworld-paul-by-bread",
+          "name": "Paul",
+          "path": "Data\\eddsworld\\paulbybread"
+        }
+      ]
+    },
+    {
+      "groupSlug": "fairy-tail",
+      "groupUrl": "https://shimejis.xyz/directory/fairy-tail-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "fairy-tail-freed",
+          "name": "Freed",
+          "path": "Data\\fairytail\\freed"
+        },
+        {
+          "slug": "fairy-tail-jackal",
+          "name": "Jackal",
+          "path": "Data\\fairytail\\jackal"
+        },
+        {
+          "slug": "fairy-tail-natsu",
+          "name": "Natsu",
+          "path": "Data\\fairytail\\natsu"
+        },
+        {
+          "slug": "fairy-tail-rogue",
+          "name": "Rogue",
+          "path": "Data\\fairytail\\rogue"
+        },
+        {
+          "slug": "fairy-tail-sting",
+          "name": "Sting",
+          "path": "Data\\fairytail\\sting"
+        },
+        {
+          "slug": "fairy-tail-zeref",
+          "name": "Zeref",
+          "path": "Data\\fairytail\\zeref"
+        },
+        {
+          "slug": "fairy-tail-erza-scarlet-by-mundo-shimeji",
+          "name": "Erza Scarlet",
+          "path": "Data\\fairytail\\erzascarletbymundoshimeji"
+        }
+      ]
+    },
+    {
+      "groupSlug": "five-nights-at-freddys",
+      "groupUrl": "https://shimejis.xyz/directory/five-nights-at-freddys-shimeji-pack",
+      "characterCount": 8,
+      "characters": [
+        {
+          "slug": "five-nights-at-freddys-chica-by-axel-878",
+          "name": "Chica",
+          "path": "Data\\fivenightsatfreddys\\chicabyaxel"
+        },
+        {
+          "slug": "five-nights-at-freddys-foxy-by-kaychu-the-gamer",
+          "name": "Foxy",
+          "path": "Data\\fivenightsatfreddys\\foxybykaychuthegamer"
+        },
+        {
+          "slug": "five-nights-at-freddys-mangle-01",
+          "name": "Mangle",
+          "path": "Data\\fivenightsatfreddys\\mangle"
+        },
+        {
+          "slug": "five-nights-at-freddys-purple-guy-by-15-yamiko",
+          "name": "Purple Guy",
+          "path": "Data\\fivenightsatfreddys\\purpleguyby15yamiko"
+        },
+        {
+          "slug": "five-nights-at-freddys-the-puppet-by-transformice-boy-19",
+          "name": "The Puppet",
+          "path": "Data\\fivenightsatfreddys\\thepuppetbytransformiceboy"
+        },
+        {
+          "slug": "five-nights-at-freddys-toy-bonnie-01",
+          "name": "Toy Bonnie",
+          "path": "Data\\fivenightsatfreddys\\toybonnie"
+        },
+        {
+          "slug": "five-nights-at-freddys-toy-bonnie-by-animatronic-bunny",
+          "name": "Toy Bonnie",
+          "path": "Data\\fivenightsatfreddys\\toybonniebyanimatronicbunny"
+        },
+        {
+          "slug": "five-nights-at-freddys-pyro-foxy-01",
+          "name": "Pyro Foxy",
+          "path": "Data\\fivenightsatfreddys\\pyrofoxy"
+        }
+      ]
+    },
+    {
+      "groupSlug": "genshin-impact",
+      "groupUrl": "https://shimejis.xyz/directory/genshin-impact-shimeji-pack",
+      "characterCount": 18,
+      "characters": [
+        {
+          "slug": "genshin-impact-aether-by-tenkotenmeo",
+          "name": "Aether",
+          "path": "Data\\genshinimpact\\aetherbytenkotenmeo"
+        },
+        {
+          "slug": "genshin-impact-albedo-by-uuteki",
+          "name": "Albedo",
+          "path": "Data\\genshinimpact\\albedobyuuteki"
+        },
+        {
+          "slug": "genshin-impact-ayaka-by-uuteki",
+          "name": "Ayaka",
+          "path": "Data\\genshinimpact\\ayakabyuuteki"
+        },
+        {
+          "slug": "genshin-impact-childe-by-nemururin",
+          "name": "Childe",
+          "path": "Data\\genshinimpact\\childebynemururin"
+        },
+        {
+          "slug": "genshin-impact-chongyun-by-uuteki",
+          "name": "Chongyun",
+          "path": "Data\\genshinimpact\\chongyunbyuuteki"
+        },
+        {
+          "slug": "genshin-impact-diluc-by-vol-tuna",
+          "name": "Diluc",
+          "path": "Data\\genshinimpact\\dilucbyvoltuna"
+        },
+        {
+          "slug": "genshin-impact-hu-tao-by-uuteki",
+          "name": "Hu Tao",
+          "path": "Data\\genshinimpact\\hutaobyuuteki"
+        },
+        {
+          "slug": "genshin-impact-kaeya-by-vol-tuna",
+          "name": "Kaeya",
+          "path": "Data\\genshinimpact\\kaeyabyvoltuna"
+        },
+        {
+          "slug": "genshin-impact-kazuha-by-uuteki",
+          "name": "Kazuha",
+          "path": "Data\\genshinimpact\\kazuhabyuuteki"
+        },
+        {
+          "slug": "genshin-impact-klee-by-uuteki",
+          "name": "Klee",
+          "path": "Data\\genshinimpact\\kleebyuuteki"
+        },
+        {
+          "slug": "genshin-impact-lumine-by-marcia",
+          "name": "Lumine",
+          "path": "Data\\genshinimpact\\luminebymarcia"
+        },
+        {
+          "slug": "genshin-impact-razor-by-batsouppe",
+          "name": "Razor",
+          "path": "Data\\genshinimpact\\razorbybatsouppe"
+        },
+        {
+          "slug": "genshin-impact-thoma-by-uuteki",
+          "name": "Thoma",
+          "path": "Data\\genshinimpact\\thomabyuuteki"
+        },
+        {
+          "slug": "genshin-impact-venti-by-uuteki",
+          "name": "Venti",
+          "path": "Data\\genshinimpact\\ventibyuuteki"
+        },
+        {
+          "slug": "genshin-impact-venti-by-sayonara-kuro",
+          "name": "Venti",
+          "path": "Data\\genshinimpact\\ventibysayonarakuro"
+        },
+        {
+          "slug": "genshin-impact-xiao-by-tachi-png",
+          "name": "Xiao",
+          "path": "Data\\genshinimpact\\xiaobytachipng"
+        },
+        {
+          "slug": "genshin-impact-xiao-catboy-by-uuteki",
+          "name": "Xiao Catboy",
+          "path": "Data\\genshinimpact\\xiaocatboybyuuteki"
+        },
+        {
+          "slug": "genshin-impact-zhongli-by-vol-tuna",
+          "name": "Zhongli",
+          "path": "Data\\genshinimpact\\zhonglibyvoltuna"
+        }
+      ]
+    },
+    {
+      "groupSlug": "gravity-falls",
+      "groupUrl": "https://shimejis.xyz/directory/gravity-falls-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "gravity-falls-bill-cipher-01",
+          "name": "Bill Cipher",
+          "path": "Data\\gravityfalls\\billcipher"
+        },
+        {
+          "slug": "gravity-falls-mabel-pines-01",
+          "name": "Mabel Pines",
+          "path": "Data\\gravityfalls\\mabelpines"
+        }
+      ]
+    },
+    {
+      "groupSlug": "group-finity",
+      "groupUrl": "https://shimejis.xyz/directory/group-finity-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "group-finity-blank-guy",
+          "name": "Blank Guy",
+          "path": "Data\\groupfinity\\blankguy"
+        }
+      ]
+    },
+    {
+      "groupSlug": "hetalia",
+      "groupUrl": "https://shimejis.xyz/directory/hetalia-shimeji-pack",
+      "characterCount": 38,
+      "characters": [
+        {
+          "slug": "hetalia-america-by-steph-o-dell",
+          "name": "America",
+          "path": "Data\\hetalia\\americabystephodell"
+        },
+        {
+          "slug": "hetalia-austria-by-tionne-dawnstar",
+          "name": "Austria",
+          "path": "Data\\hetalia\\austriabytionnedawnstar"
+        },
+        {
+          "slug": "hetalia-belarus-by-uncut-adventure",
+          "name": "Belarus",
+          "path": "Data\\hetalia\\belarusbyuncutadventure"
+        },
+        {
+          "slug": "hetalia-belgium-by-cute-corpse-boy",
+          "name": "Belgium",
+          "path": "Data\\hetalia\\belgiumbycutecorpseboy"
+        },
+        {
+          "slug": "hetalia-canada-by-steph-o-dell",
+          "name": "Canada",
+          "path": "Data\\hetalia\\canadabystephodell"
+        },
+        {
+          "slug": "hetalia-china-by-number-11-train",
+          "name": "China",
+          "path": "Data\\hetalia\\chinabynumber11train"
+        },
+        {
+          "slug": "hetalia-denmark",
+          "name": "Denmark",
+          "path": "Data\\hetalia\\denmark"
+        },
+        {
+          "slug": "hetalia-england-by-dolunaylupus",
+          "name": "England",
+          "path": "Data\\hetalia\\englandbydolunaylupus"
+        },
+        {
+          "slug": "hetalia-estonia-by-djiinraidinnae",
+          "name": "Estonia",
+          "path": "Data\\hetalia\\estoniabydjiinraidinnae"
+        },
+        {
+          "slug": "hetalia-finland-by-jorael",
+          "name": "Finland",
+          "path": "Data\\hetalia\\finlandbyjorael"
+        },
+        {
+          "slug": "hetalia-france-by-heta-garnet",
+          "name": "France",
+          "path": "Data\\hetalia\\francebyhetagarnet"
+        },
+        {
+          "slug": "hetalia-germany-by-animatedpretzel",
+          "name": "Germany",
+          "path": "Data\\hetalia\\germanybyanimatedpretzel"
+        },
+        {
+          "slug": "hetalia-greece-by-speed-xaaa",
+          "name": "Greece",
+          "path": "Data\\hetalia\\greecebyspeedxaaa"
+        },
+        {
+          "slug": "hetalia-hre-by-kouga-san",
+          "name": "HRE",
+          "path": "Data\\hetalia\\hrebykougasan"
+        },
+        {
+          "slug": "hetalia-hong-kong-by-azurethe-panda",
+          "name": "Hong Kong",
+          "path": "Data\\hetalia\\hongkongbyazurethepanda"
+        },
+        {
+          "slug": "hetalia-hungary-by-amandy-the-ace",
+          "name": "Hungary",
+          "path": "Data\\hetalia\\hungarybyamandytheace"
+        },
+        {
+          "slug": "hetalia-iceland-by-heta-garnet",
+          "name": "Iceland",
+          "path": "Data\\hetalia\\icelandbyhetagarnet"
+        },
+        {
+          "slug": "hetalia-italy-by-lunatic-mao",
+          "name": "Italy",
+          "path": "Data\\hetalia\\italybylunaticmao"
+        },
+        {
+          "slug": "hetalia-japan",
+          "name": "Japan",
+          "path": "Data\\hetalia\\japan"
+        },
+        {
+          "slug": "hetalia-kugelmugel-by-russia-romano",
+          "name": "Kugelmugel",
+          "path": "Data\\hetalia\\kugelmugelbyrussiaromano"
+        },
+        {
+          "slug": "hetalia-latvia-by-russia-romano",
+          "name": "Latvia",
+          "path": "Data\\hetalia\\latviabyrussiaromano"
+        },
+        {
+          "slug": "hetalia-liechtenstein",
+          "name": "Liechtenstein",
+          "path": "Data\\hetalia\\liechtenstein"
+        },
+        {
+          "slug": "hetalia-lithuania-by-othila-131",
+          "name": "Lithuania",
+          "path": "Data\\hetalia\\lithuaniabyothila"
+        },
+        {
+          "slug": "hetalia-netherlands-by-uncut-adventure",
+          "name": "Netherlands",
+          "path": "Data\\hetalia\\netherlandsbyuncutadventure"
+        },
+        {
+          "slug": "hetalia-norway-by-heta-garnet",
+          "name": "Norway",
+          "path": "Data\\hetalia\\norwaybyhetagarnet"
+        },
+        {
+          "slug": "hetalia-poland-by-heta-garnet",
+          "name": "Poland",
+          "path": "Data\\hetalia\\polandbyhetagarnet"
+        },
+        {
+          "slug": "hetalia-prussia-by-achros",
+          "name": "Prussia",
+          "path": "Data\\hetalia\\prussiabyachros"
+        },
+        {
+          "slug": "hetalia-romano-by-enigmaecstatic",
+          "name": "Romano",
+          "path": "Data\\hetalia\\romanobyenigmaecstatic"
+        },
+        {
+          "slug": "hetalia-russia-by-setsu-sama",
+          "name": "Russia",
+          "path": "Data\\hetalia\\russiabysetsusama"
+        },
+        {
+          "slug": "hetalia-scotland-by-swallow-no-tsubasa",
+          "name": "Scotland",
+          "path": "Data\\hetalia\\scotlandbyswallownotsubasa"
+        },
+        {
+          "slug": "hetalia-sealand-by-mew-cherrii",
+          "name": "Sealand",
+          "path": "Data\\hetalia\\sealandbymewcherrii"
+        },
+        {
+          "slug": "hetalia-seychelles-by-chocosrawloid",
+          "name": "Seychelles",
+          "path": "Data\\hetalia\\seychellesbychocosrawloid"
+        },
+        {
+          "slug": "hetalia-south-korea-by-naka-baka-chan",
+          "name": "South Korea",
+          "path": "Data\\hetalia\\southkoreabynakabakachan"
+        },
+        {
+          "slug": "hetalia-spain-by-orochimaru-666",
+          "name": "Spain",
+          "path": "Data\\hetalia\\spainbyorochimaru"
+        },
+        {
+          "slug": "hetalia-sweden-by-jacyll",
+          "name": "Sweden",
+          "path": "Data\\hetalia\\swedenbyjacyll"
+        },
+        {
+          "slug": "hetalia-switzerland-by-chibi-spain",
+          "name": "Switzerland",
+          "path": "Data\\hetalia\\switzerlandbychibispain"
+        },
+        {
+          "slug": "hetalia-thailand-by-zilchat",
+          "name": "Thailand",
+          "path": "Data\\hetalia\\thailandbyzilchat"
+        },
+        {
+          "slug": "hetalia-vietnam",
+          "name": "Vietnam",
+          "path": "Data\\hetalia\\vietnam"
+        }
+      ]
+    },
+    {
+      "groupSlug": "homestuck",
+      "groupUrl": "https://shimejis.xyz/directory/homestuck-shimeji-pack",
+      "characterCount": 9,
+      "characters": [
+        {
+          "slug": "homestuck-dave-strider",
+          "name": "Dave Strider",
+          "path": "Data\\homestuck\\davestrider"
+        },
+        {
+          "slug": "homestuck-equius",
+          "name": "Equius",
+          "path": "Data\\homestuck\\equius"
+        },
+        {
+          "slug": "homestuck-eridan",
+          "name": "Eridan",
+          "path": "Data\\homestuck\\eridan"
+        },
+        {
+          "slug": "homestuck-feferi",
+          "name": "Feferi",
+          "path": "Data\\homestuck\\feferi"
+        },
+        {
+          "slug": "homestuck-kanaya",
+          "name": "Kanaya",
+          "path": "Data\\homestuck\\kanaya"
+        },
+        {
+          "slug": "homestuck-sollux",
+          "name": "Sollux",
+          "path": "Data\\homestuck\\sollux"
+        },
+        {
+          "slug": "homestuck-terezi",
+          "name": "Terezi",
+          "path": "Data\\homestuck\\terezi"
+        },
+        {
+          "slug": "homestuck-vriska",
+          "name": "Vriska",
+          "path": "Data\\homestuck\\vriska"
+        },
+        {
+          "slug": "homestuck-gamzee-makara-by-minicow",
+          "name": "Gamzee Makara",
+          "path": "Data\\homestuck\\gamzeemakarabyminicow"
+        }
+      ]
+    },
+    {
+      "groupSlug": "hunter-x-hunter",
+      "groupUrl": "https://shimejis.xyz/directory/hunter-x-hunter-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "hunter-x-hunter-killua",
+          "name": "Killua",
+          "path": "Data\\hunterxhunter\\killua"
+        }
+      ]
+    },
+    {
+      "groupSlug": "it-2017",
+      "groupUrl": "https://shimejis.xyz/directory/it-2017-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "it-2017-pennywise-by-spider-toast",
+          "name": "Pennywise",
+          "path": "Data\\it2017\\pennywisebyspidertoast"
+        }
+      ]
+    },
+    {
+      "groupSlug": "jojos-bizarre-adventure",
+      "groupUrl": "https://shimejis.xyz/directory/jojos-bizarre-adventure-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "jojos-bizarre-adventure-dio-01",
+          "name": "Dio",
+          "path": "Data\\jojosbizarreadventure\\dio"
+        },
+        {
+          "slug": "jojos-bizarre-adventure-kakyoin-noriaki-by-kibstar",
+          "name": "Kakyoin Noriaki",
+          "path": "Data\\jojosbizarreadventure\\kakyoinnoriakibykibstar"
+        }
+      ]
+    },
+    {
+      "groupSlug": "kingdom-hearts",
+      "groupUrl": "https://shimejis.xyz/directory/kingdom-hearts-shimeji-pack",
+      "characterCount": 10,
+      "characters": [
+        {
+          "slug": "kingdom-hearts-aqua",
+          "name": "Aqua",
+          "path": "Data\\kingdomhearts\\aqua"
+        },
+        {
+          "slug": "kingdom-hearts-axel",
+          "name": "Axel",
+          "path": "Data\\kingdomhearts\\axel"
+        },
+        {
+          "slug": "kingdom-hearts-demyx",
+          "name": "Demyx",
+          "path": "Data\\kingdomhearts\\demyx"
+        },
+        {
+          "slug": "kingdom-hearts-ienzo",
+          "name": "Ienzo",
+          "path": "Data\\kingdomhearts\\ienzo"
+        },
+        {
+          "slug": "kingdom-hearts-riku",
+          "name": "Riku",
+          "path": "Data\\kingdomhearts\\riku"
+        },
+        {
+          "slug": "kingdom-hearts-roxas",
+          "name": "Roxas",
+          "path": "Data\\kingdomhearts\\roxas"
+        },
+        {
+          "slug": "kingdom-hearts-sora",
+          "name": "Sora",
+          "path": "Data\\kingdomhearts\\sora"
+        },
+        {
+          "slug": "kingdom-hearts-terra",
+          "name": "Terra",
+          "path": "Data\\kingdomhearts\\terra"
+        },
+        {
+          "slug": "kingdom-hearts-vanitas",
+          "name": "Vanitas",
+          "path": "Data\\kingdomhearts\\vanitas"
+        },
+        {
+          "slug": "kingdom-hearts-xemnas",
+          "name": "Xemnas",
+          "path": "Data\\kingdomhearts\\xemnas"
+        }
+      ]
+    },
+    {
+      "groupSlug": "mario",
+      "groupUrl": "https://shimejis.xyz/directory/mario-shimeji-pack",
+      "characterCount": 5,
+      "characters": [
+        {
+          "slug": "mario-bowser-by-diva-don",
+          "name": "Bowser",
+          "path": "Data\\mario\\bowserbydivadon"
+        },
+        {
+          "slug": "mario-mario-by-diva-don",
+          "name": "Mario",
+          "path": "Data\\mario\\mariobydivadon"
+        },
+        {
+          "slug": "mario-peach-by-diva-don",
+          "name": "Peach",
+          "path": "Data\\mario\\peachbydivadon"
+        },
+        {
+          "slug": "mario-yoshi-by-cachomon",
+          "name": "Yoshi",
+          "path": "Data\\mario\\yoshibycachomon"
+        },
+        {
+          "slug": "mario-luigi-by-your-local-gamer",
+          "name": "Luigi",
+          "path": "Data\\mario\\luigibyyourlocalgamer"
+        }
+      ]
+    },
+    {
+      "groupSlug": "megaman",
+      "groupUrl": "https://shimejis.xyz/directory/megaman-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "megaman-megaman-by-nicola-maria-young",
+          "name": "Megaman",
+          "path": "Data\\megaman\\megamanbynicolamariayoung"
+        }
+      ]
+    },
+    {
+      "groupSlug": "miraculous",
+      "groupUrl": "https://shimejis.xyz/directory/miraculous-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "miraculous-cat-noir-by-dragonz-whisperer",
+          "name": "Cat Noir",
+          "path": "Data\\miraculous\\catnoirbydragonzwhisperer"
+        },
+        {
+          "slug": "miraculous-ladybug-by-kicoma",
+          "name": "Ladybug",
+          "path": "Data\\miraculous\\ladybugbykicoma"
+        }
+      ]
+    },
+    {
+      "groupSlug": "my-chemical-romance",
+      "groupUrl": "https://shimejis.xyz/directory/my-chemical-romance-shimeji-pack",
+      "characterCount": 5,
+      "characters": [
+        {
+          "slug": "my-chemical-romance-bob-bryar-by-floorsucker",
+          "name": "Bob Bryar",
+          "path": "Data\\mychemicalromance\\bobbryarbyfloorsucker"
+        },
+        {
+          "slug": "my-chemical-romance-frank-iero-by-floorsucker",
+          "name": "Frank Iero",
+          "path": "Data\\mychemicalromance\\frankierobyfloorsucker"
+        },
+        {
+          "slug": "my-chemical-romance-gerard-way-by-floorsucker",
+          "name": "Gerard Way",
+          "path": "Data\\mychemicalromance\\gerardwaybyfloorsucker"
+        },
+        {
+          "slug": "my-chemical-romance-mikey-way-by-floorsucker",
+          "name": "Mikey Way",
+          "path": "Data\\mychemicalromance\\mikeywaybyfloorsucker"
+        },
+        {
+          "slug": "my-chemical-romance-ray-toro-by-floorsucker",
+          "name": "Ray Toro",
+          "path": "Data\\mychemicalromance\\raytorobyfloorsucker"
+        }
+      ]
+    },
+    {
+      "groupSlug": "my-hero-academia",
+      "groupUrl": "https://shimejis.xyz/directory/my-hero-academia-shimeji-pack",
+      "characterCount": 6,
+      "characters": [
+        {
+          "slug": "my-hero-academia-katsuki-bakugo-kacchan-by-superevey",
+          "name": "Katsuki Bakugo (Kacchan)",
+          "path": "Data\\myheroacademia\\katsukibakugokacchanbysuperevey"
+        },
+        {
+          "slug": "my-hero-academia-keigo-takami-wing-hero-hawks-by-kadeart",
+          "name": "Keigo Takami (Wing Hero Hawks)",
+          "path": "Data\\myheroacademia\\keigotakamiwingherohawksbykadeart"
+        },
+        {
+          "slug": "my-hero-academia-ochako-uraraka-uravity-by-superevey",
+          "name": "Ochako Uraraka (Uravity)",
+          "path": "Data\\myheroacademia\\ochakourarakauravitybysuperevey"
+        },
+        {
+          "slug": "my-hero-academia-shota-aizawa-eraser-head-by-quietsilenceus",
+          "name": "Shota Aizawa (Eraser Head)",
+          "path": "Data\\myheroacademia\\shotaaizawaeraserheadbyquietsilenceus"
+        },
+        {
+          "slug": "my-hero-academia-tenko-shimura-tomura-shigaraki-by-millky-toons",
+          "name": "Tenko Shimura (Tomura Shigaraki)",
+          "path": "Data\\myheroacademia\\tenkoshimuratomurashigarakibymillkytoons"
+        },
+        {
+          "slug": "my-hero-academia-toshinori-yagi-all-might-by-michi",
+          "name": "Toshinori Yagi (All Might)",
+          "path": "Data\\myheroacademia\\toshinoriyagiallmightbymichi"
+        }
+      ]
+    },
+    {
+      "groupSlug": "mystic-messenger",
+      "groupUrl": "https://shimejis.xyz/directory/mystic-messenger-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "mystic-messenger-707-by-ember-cl",
+          "name": "707",
+          "path": "Data\\mysticmessenger\\707byembercl"
+        },
+        {
+          "slug": "mystic-messenger-707-by-hzokkiart",
+          "name": "707",
+          "path": "Data\\mysticmessenger\\707byhzokkiart"
+        }
+      ]
+    },
+    {
+      "groupSlug": "naruto",
+      "groupUrl": "https://shimejis.xyz/directory/naruto-shimeji-pack",
+      "characterCount": 10,
+      "characters": [
+        {
+          "slug": "naruto-naruto-uzumaki",
+          "name": "Naruto Uzumaki",
+          "path": "Data\\naruto\\narutouzumaki"
+        },
+        {
+          "slug": "naruto-deidara",
+          "name": "Deidara",
+          "path": "Data\\naruto\\deidara"
+        },
+        {
+          "slug": "naruto-gaara",
+          "name": "Gaara",
+          "path": "Data\\naruto\\gaara"
+        },
+        {
+          "slug": "naruto-kakashi",
+          "name": "Kakashi",
+          "path": "Data\\naruto\\kakashi"
+        },
+        {
+          "slug": "naruto-sasori",
+          "name": "Sasori",
+          "path": "Data\\naruto\\sasori"
+        },
+        {
+          "slug": "naruto-hidan",
+          "name": "Hidan",
+          "path": "Data\\naruto\\hidan"
+        },
+        {
+          "slug": "naruto-hinata",
+          "name": "Hinata",
+          "path": "Data\\naruto\\hinata"
+        },
+        {
+          "slug": "naruto-neji",
+          "name": "Neji",
+          "path": "Data\\naruto\\neji"
+        },
+        {
+          "slug": "naruto-pein",
+          "name": "Pein",
+          "path": "Data\\naruto\\pein"
+        },
+        {
+          "slug": "naruto-sasuke",
+          "name": "Sasuke",
+          "path": "Data\\naruto\\sasuke"
+        }
+      ]
+    },
+    {
+      "groupSlug": "night-in-the-woods",
+      "groupUrl": "https://shimejis.xyz/directory/night-in-the-woods-shimeji-pack",
+      "characterCount": 4,
+      "characters": [
+        {
+          "slug": "night-in-the-woods-angus-by-foxofnope",
+          "name": "Angus",
+          "path": "Data\\nightinthewoods\\angusbyfoxofnope"
+        },
+        {
+          "slug": "night-in-the-woods-bea-by-foxofnope",
+          "name": "Bea",
+          "path": "Data\\nightinthewoods\\beabyfoxofnope"
+        },
+        {
+          "slug": "night-in-the-woods-gregg-by-foxofnope",
+          "name": "Gregg",
+          "path": "Data\\nightinthewoods\\greggbyfoxofnope"
+        },
+        {
+          "slug": "night-in-the-woods-mae-by-foxofnope",
+          "name": "Mae",
+          "path": "Data\\nightinthewoods\\maebyfoxofnope"
+        }
+      ]
+    },
+    {
+      "groupSlug": "one-piece",
+      "groupUrl": "https://shimejis.xyz/directory/one-piece-shimeji-pack",
+      "characterCount": 12,
+      "characters": [
+        {
+          "slug": "one-piece-ace-01",
+          "name": "Ace",
+          "path": "Data\\onepiece\\ace"
+        },
+        {
+          "slug": "one-piece-bepo-01",
+          "name": "Bepo",
+          "path": "Data\\onepiece\\bepo"
+        },
+        {
+          "slug": "one-piece-cass-01",
+          "name": "Cass",
+          "path": "Data\\onepiece\\cass"
+        },
+        {
+          "slug": "one-piece-croc-01",
+          "name": "Croc",
+          "path": "Data\\onepiece\\croc"
+        },
+        {
+          "slug": "one-piece-dofla-01",
+          "name": "Dofla",
+          "path": "Data\\onepiece\\dofla"
+        },
+        {
+          "slug": "one-piece-kidd-01",
+          "name": "Kidd",
+          "path": "Data\\onepiece\\kidd"
+        },
+        {
+          "slug": "one-piece-law-01",
+          "name": "Law",
+          "path": "Data\\onepiece\\law"
+        },
+        {
+          "slug": "one-piece-lucci-01",
+          "name": "Lucci",
+          "path": "Data\\onepiece\\lucci"
+        },
+        {
+          "slug": "one-piece-luffy-01",
+          "name": "Luffy",
+          "path": "Data\\onepiece\\luffy"
+        },
+        {
+          "slug": "one-piece-marco-01",
+          "name": "Marco",
+          "path": "Data\\onepiece\\marco"
+        },
+        {
+          "slug": "one-piece-mihawk-01",
+          "name": "Mihawk",
+          "path": "Data\\onepiece\\mihawk"
+        },
+        {
+          "slug": "one-piece-zoro-01",
+          "name": "Zoro",
+          "path": "Data\\onepiece\\zoro"
+        }
+      ]
+    },
+    {
+      "groupSlug": "one-punch-man",
+      "groupUrl": "https://shimejis.xyz/directory/one-punch-man-shimeji-pack",
+      "characterCount": 3,
+      "characters": [
+        {
+          "slug": "one-punch-man-genos-01",
+          "name": "Genos",
+          "path": "Data\\onepunchman\\genos"
+        },
+        {
+          "slug": "one-punch-man-saitama-01",
+          "name": "Saitama",
+          "path": "Data\\onepunchman\\saitama"
+        },
+        {
+          "slug": "one-punch-man-sonic-01",
+          "name": "Sonic",
+          "path": "Data\\onepunchman\\sonic"
+        }
+      ]
+    },
+    {
+      "groupSlug": "osomatsu-san",
+      "groupUrl": "https://shimejis.xyz/directory/osomatsu-san-shimeji-pack",
+      "characterCount": 6,
+      "characters": [
+        {
+          "slug": "osomatsu-san-choromatsu-matsuno-by-emmmm",
+          "name": "Choromatsu Matsuno",
+          "path": "Data\\osomatsusan\\choromatsumatsunobyemmmm"
+        },
+        {
+          "slug": "osomatsu-san-ichimatsu-matsuno-by-emmmm",
+          "name": "Ichimatsu Matsuno",
+          "path": "Data\\osomatsusan\\ichimatsumatsunobyemmmm"
+        },
+        {
+          "slug": "osomatsu-san-jyuushimatsu-matsuno-by-emmmm",
+          "name": "Jyuushimatsu Matsuno",
+          "path": "Data\\osomatsusan\\jyuushimatsumatsunobyemmmm"
+        },
+        {
+          "slug": "osomatsu-san-karamatsu-matsuno-by-emmmm",
+          "name": "Karamatsu Matsuno",
+          "path": "Data\\osomatsusan\\karamatsumatsunobyemmmm"
+        },
+        {
+          "slug": "osomatsu-san-osomatsu-matsuno-by-emmmm",
+          "name": "Osomatsu Matsuno",
+          "path": "Data\\osomatsusan\\osomatsumatsunobyemmmm"
+        },
+        {
+          "slug": "osomatsu-san-todomatsu-matsuno-by-emmmm",
+          "name": "Todomatsu Matsuno",
+          "path": "Data\\osomatsusan\\todomatsumatsunobyemmmm"
+        }
+      ]
+    },
+    {
+      "groupSlug": "persons",
+      "groupUrl": "https://shimejis.xyz/directory/persons-shimeji-pack",
+      "characterCount": 7,
+      "characters": [
+        {
+          "slug": "persons-jacksepticeye-by-zyrvix",
+          "name": "Jacksepticeye",
+          "path": "Data\\persons\\jacksepticeyebyzyrvix"
+        },
+        {
+          "slug": "persons-markiplier-by-soapy-pnutwaffle",
+          "name": "Markiplier",
+          "path": "Data\\persons\\markiplierbysoapypnutwaffle"
+        },
+        {
+          "slug": "persons-daniel-howell-01",
+          "name": "Daniel howell",
+          "path": "Data\\persons\\danielhowell"
+        },
+        {
+          "slug": "persons-pew-die-pie-by-hexakowka",
+          "name": "PewDiePie",
+          "path": "Data\\persons\\pewdiepiebyhexakowka"
+        },
+        {
+          "slug": "persons-phil-lester-01",
+          "name": "Phil lester",
+          "path": "Data\\persons\\phillester"
+        },
+        {
+          "slug": "persons-link-by-jannelle-o",
+          "name": "Link",
+          "path": "Data\\persons\\linkbyjannelleo"
+        },
+        {
+          "slug": "persons-rhett-by-jannelle-o",
+          "name": "Rhett",
+          "path": "Data\\persons\\rhettbyjannelleo"
+        }
+      ]
+    },
+    {
+      "groupSlug": "pokemon",
+      "groupUrl": "https://shimejis.xyz/directory/pokemon-shimeji-pack",
+      "characterCount": 48,
+      "characters": [
+        {
+          "slug": "pokemon-ampharos-by-krokus-00",
+          "name": "Ampharos",
+          "path": "Data\\pokemon\\ampharosbykrokus"
+        },
+        {
+          "slug": "pokemon-archen-by-mandar-the-mousey",
+          "name": "Archen",
+          "path": "Data\\pokemon\\archenbymandarthemousey"
+        },
+        {
+          "slug": "pokemon-armaldo-by-dead-end-king",
+          "name": "Armaldo",
+          "path": "Data\\pokemon\\armaldobydeadendking"
+        },
+        {
+          "slug": "pokemon-chandelure-by-rozen-maiden-girl",
+          "name": "Chandelure",
+          "path": "Data\\pokemon\\chandelurebyrozenmaidengirl"
+        },
+        {
+          "slug": "pokemon-charmander-by-cachomon",
+          "name": "Charmander",
+          "path": "Data\\pokemon\\charmanderbycachomon"
+        },
+        {
+          "slug": "pokemon-clefable-by-sparkus",
+          "name": "Clefable",
+          "path": "Data\\pokemon\\clefablebysparkus"
+        },
+        {
+          "slug": "pokemon-crobat-by-sparkus-thunderbolt",
+          "name": "Crobat",
+          "path": "Data\\pokemon\\crobatbysparkusthunderbolt"
+        },
+        {
+          "slug": "pokemon-cumceon-by-cachomon",
+          "name": "Cumceon",
+          "path": "Data\\pokemon\\cumceonbycachomon"
+        },
+        {
+          "slug": "pokemon-dewott-by-wupar",
+          "name": "Dewott",
+          "path": "Data\\pokemon\\dewottbywupar"
+        },
+        {
+          "slug": "pokemon-drifloon-by-tomatebleuet",
+          "name": "Drifloon",
+          "path": "Data\\pokemon\\drifloonbytomatebleuet"
+        },
+        {
+          "slug": "pokemon-eevee-by-cachomon",
+          "name": "Eevee",
+          "path": "Data\\pokemon\\eeveebycachomon"
+        },
+        {
+          "slug": "pokemon-eevee-by-stormgale",
+          "name": "Eevee",
+          "path": "Data\\pokemon\\eeveebystormgale"
+        },
+        {
+          "slug": "pokemon-feraligatr-by-sparkus",
+          "name": "Feraligatr",
+          "path": "Data\\pokemon\\feraligatrbysparkus"
+        },
+        {
+          "slug": "pokemon-flygon-by-niicchan",
+          "name": "Flygon",
+          "path": "Data\\pokemon\\flygonbyniicchan"
+        },
+        {
+          "slug": "pokemon-gardevoir-by-dead-end-king",
+          "name": "Gardevoir",
+          "path": "Data\\pokemon\\gardevoirbydeadendking"
+        },
+        {
+          "slug": "pokemon-gastly-by-sabisaotome",
+          "name": "Gastly",
+          "path": "Data\\pokemon\\gastlybysabisaotome"
+        },
+        {
+          "slug": "pokemon-jolteon-by-green-feline-777",
+          "name": "Jolteon",
+          "path": "Data\\pokemon\\jolteonbygreenfeline"
+        },
+        {
+          "slug": "pokemon-kyurem-by-mazeyelle",
+          "name": "Kyurem",
+          "path": "Data\\pokemon\\kyurembymazeyelle"
+        },
+        {
+          "slug": "pokemon-larvitar-by-cachomon",
+          "name": "Larvitar",
+          "path": "Data\\pokemon\\larvitarbycachomon"
+        },
+        {
+          "slug": "pokemon-litwick-by-cachomon",
+          "name": "Litwick",
+          "path": "Data\\pokemon\\litwickbycachomon"
+        },
+        {
+          "slug": "pokemon-mew-by-cachomon",
+          "name": "Mew",
+          "path": "Data\\pokemon\\mewbycachomon"
+        },
+        {
+          "slug": "pokemon-misdreavus-by-dead-end-king",
+          "name": "Misdreavus",
+          "path": "Data\\pokemon\\misdreavusbydeadendking"
+        },
+        {
+          "slug": "pokemon-mudkip-by-niicchan",
+          "name": "Mudkip",
+          "path": "Data\\pokemon\\mudkipbyniicchan"
+        },
+        {
+          "slug": "pokemon-only-slowpoke-by-mizyin",
+          "name": "OnlySlowpoke",
+          "path": "Data\\pokemon\\onlyslowpokebymizyin"
+        },
+        {
+          "slug": "pokemon-oshawott-by-mewgal",
+          "name": "Oshawott",
+          "path": "Data\\pokemon\\oshawottbymewgal"
+        },
+        {
+          "slug": "pokemon-pikachu-by-stormgale",
+          "name": "Pikachu",
+          "path": "Data\\pokemon\\pikachubystormgale"
+        },
+        {
+          "slug": "pokemon-pikachu-by-headbutt-of-love",
+          "name": "Pikachu",
+          "path": "Data\\pokemon\\pikachubyheadbuttoflove"
+        },
+        {
+          "slug": "pokemon-purrloin-by-cachomon",
+          "name": "Purrloin",
+          "path": "Data\\pokemon\\purrloinbycachomon"
+        },
+        {
+          "slug": "pokemon-raichu-by-niicchan",
+          "name": "Raichu",
+          "path": "Data\\pokemon\\raichubyniicchan"
+        },
+        {
+          "slug": "pokemon-raichu-by-sparkus",
+          "name": "Raichu",
+          "path": "Data\\pokemon\\raichubysparkus"
+        },
+        {
+          "slug": "pokemon-reshriram-by-mazeyelle",
+          "name": "Reshriram",
+          "path": "Data\\pokemon\\reshrirambymazeyelle"
+        },
+        {
+          "slug": "pokemon-sewaddle-by-kina-maaka",
+          "name": "Sewaddle",
+          "path": "Data\\pokemon\\sewaddlebykinamaaka"
+        },
+        {
+          "slug": "pokemon-shedinja-by-icantjoinfacebook",
+          "name": "Shedinja",
+          "path": "Data\\pokemon\\shedinjabyicantjoinfacebook"
+        },
+        {
+          "slug": "pokemon-snivy-by-tsutaja",
+          "name": "Snivy",
+          "path": "Data\\pokemon\\snivybytsutaja"
+        },
+        {
+          "slug": "pokemon-sparker-by-dead-end-king",
+          "name": "Sparker",
+          "path": "Data\\pokemon\\sparkerbydeadendking"
+        },
+        {
+          "slug": "pokemon-squirtle-01",
+          "name": "Squirtle",
+          "path": "Data\\pokemon\\squirtle"
+        },
+        {
+          "slug": "pokemon-suicune-by-niicchan",
+          "name": "Suicune",
+          "path": "Data\\pokemon\\suicunebyniicchan"
+        },
+        {
+          "slug": "pokemon-surfachu-by-akizakura-16",
+          "name": "Surfachu",
+          "path": "Data\\pokemon\\surfachubyakizakura"
+        },
+        {
+          "slug": "pokemon-swablu-by-cachomon",
+          "name": "Swablu",
+          "path": "Data\\pokemon\\swablubycachomon"
+        },
+        {
+          "slug": "pokemon-tepig-by-spyroflame-0487",
+          "name": "Tepig",
+          "path": "Data\\pokemon\\tepigbyspyroflame"
+        },
+        {
+          "slug": "pokemon-togekiss-by-sparkus",
+          "name": "Togekiss",
+          "path": "Data\\pokemon\\togekissbysparkus"
+        },
+        {
+          "slug": "pokemon-tyranitar-by-sparkus",
+          "name": "Tyranitar",
+          "path": "Data\\pokemon\\tyranitarbysparkus"
+        },
+        {
+          "slug": "pokemon-umbreon-by-cachomon",
+          "name": "Umbreon",
+          "path": "Data\\pokemon\\umbreonbycachomon"
+        },
+        {
+          "slug": "pokemon-umbreon-by-sparkus",
+          "name": "Umbreon",
+          "path": "Data\\pokemon\\umbreonbysparkus"
+        },
+        {
+          "slug": "pokemon-umbreon-shiny-by-cachomon",
+          "name": "Umbreon Shiny",
+          "path": "Data\\pokemon\\umbreonshinybycachomon"
+        },
+        {
+          "slug": "pokemon-zangoose-by-icantjoinfacebook",
+          "name": "Zangoose",
+          "path": "Data\\pokemon\\zangoosebyicantjoinfacebook"
+        },
+        {
+          "slug": "pokemon-zorua-by-stabicon",
+          "name": "Zorua",
+          "path": "Data\\pokemon\\zoruabystabicon"
+        },
+        {
+          "slug": "pokemon-zweilous-by-dead-end-king",
+          "name": "Zweilous",
+          "path": "Data\\pokemon\\zweilousbydeadendking"
+        }
+      ]
+    },
+    {
+      "groupSlug": "pusheen",
+      "groupUrl": "https://shimejis.xyz/directory/pusheen-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "pusheen-pusheen-the-cat-by-crystal-clear-cc",
+          "name": "Pusheen the cat",
+          "path": "Data\\pusheen\\pusheenthecatbycrystalclearcc"
+        }
+      ]
+    },
+    {
+      "groupSlug": "rick-and-morty",
+      "groupUrl": "https://shimejis.xyz/directory/rick-and-morty-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "rick-and-morty-rick-by-starrii-chan",
+          "name": "Rick",
+          "path": "Data\\rickandmorty\\rickbystarriichan"
+        }
+      ]
+    },
+    {
+      "groupSlug": "sonic",
+      "groupUrl": "https://shimejis.xyz/directory/sonic-shimeji-pack",
+      "characterCount": 3,
+      "characters": [
+        {
+          "slug": "sonic-sonic-by-myly14",
+          "name": "Sonic",
+          "path": "Data\\sonic\\sonicbymyly14"
+        },
+        {
+          "slug": "sonic-sonic",
+          "name": "Sonic",
+          "path": "Data\\sonic\\sonic"
+        },
+        {
+          "slug": "sonic-tails",
+          "name": "Tails",
+          "path": "Data\\sonic\\tails"
+        }
+      ]
+    },
+    {
+      "groupSlug": "south-park",
+      "groupUrl": "https://shimejis.xyz/directory/south-park-shimeji-pack",
+      "characterCount": 9,
+      "characters": [
+        {
+          "slug": "south-park-butters-stotch",
+          "name": "Butters Stotch",
+          "path": "Data\\southpark\\buttersstotch"
+        },
+        {
+          "slug": "south-park-cartman",
+          "name": "Cartman",
+          "path": "Data\\southpark\\cartman"
+        },
+        {
+          "slug": "south-park-craig-by-x-no-wherex",
+          "name": "Craig",
+          "path": "Data\\southpark\\craigbyxnowherex"
+        },
+        {
+          "slug": "south-park-kenny-by-x-no-wherex",
+          "name": "Kenny",
+          "path": "Data\\southpark\\kennybyxnowherex"
+        },
+        {
+          "slug": "south-park-kenny-zombie-by-x-no-wherex",
+          "name": "Kenny [zombie]",
+          "path": "Data\\southpark\\kennyzombiebyxnowherex"
+        },
+        {
+          "slug": "south-park-kyle",
+          "name": "Kyle",
+          "path": "Data\\southpark\\kyle"
+        },
+        {
+          "slug": "south-park-mysterion-by-x-no-wherex",
+          "name": "Mysterion",
+          "path": "Data\\southpark\\mysterionbyxnowherex"
+        },
+        {
+          "slug": "south-park-stan-by-x-no-wherex",
+          "name": "Stan",
+          "path": "Data\\southpark\\stanbyxnowherex"
+        },
+        {
+          "slug": "south-park-tweek",
+          "name": "Tweek",
+          "path": "Data\\southpark\\tweek"
+        }
+      ]
+    },
+    {
+      "groupSlug": "sponge-bob-square-pants",
+      "groupUrl": "https://shimejis.xyz/directory/sponge-bob-square-pants-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "sponge-bob-square-pants-sponge-bob-by-sojia",
+          "name": "SpongeBob",
+          "path": "Data\\spongebobsquarepants\\spongebobbysojia"
+        }
+      ]
+    },
+    {
+      "groupSlug": "steven-universe",
+      "groupUrl": "https://shimejis.xyz/directory/steven-universe-shimeji-pack",
+      "characterCount": 5,
+      "characters": [
+        {
+          "slug": "steven-universe-garnet-by-s-brucket",
+          "name": "Garnet",
+          "path": "Data\\stevenuniverse\\garnetbysbrucket"
+        },
+        {
+          "slug": "steven-universe-lapis-lazuli-by-oskilll",
+          "name": "Lapis Lazuli",
+          "path": "Data\\stevenuniverse\\lapislazulibyoskilll"
+        },
+        {
+          "slug": "steven-universe-pearl-by-analostan",
+          "name": "Pearl",
+          "path": "Data\\stevenuniverse\\pearlbyanalostan"
+        },
+        {
+          "slug": "steven-universe-peridot-by-heta-garnet",
+          "name": "Peridot",
+          "path": "Data\\stevenuniverse\\peridotbyhetagarnet"
+        },
+        {
+          "slug": "steven-universe-ruby-by-junn-boi",
+          "name": "Ruby",
+          "path": "Data\\stevenuniverse\\rubybyjunnboi"
+        }
+      ]
+    },
+    {
+      "groupSlug": "tokyo-ghoul",
+      "groupUrl": "https://shimejis.xyz/directory/tokyo-ghoul-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "tokyo-ghoul-shuu-tsukiyama-by-kervanos",
+          "name": "Shuu Tsukiyama",
+          "path": "Data\\tokyoghoul\\shuutsukiyamabykervanos"
+        }
+      ]
+    },
+    {
+      "groupSlug": "undertale",
+      "groupUrl": "https://shimejis.xyz/directory/undertale-shimeji-pack",
+      "characterCount": 27,
+      "characters": [
+        {
+          "slug": "undertale-napstablook",
+          "name": "Napstablook",
+          "path": "Data\\undertale\\napstablook"
+        },
+        {
+          "slug": "undertale-asriel",
+          "name": "Asriel",
+          "path": "Data\\undertale\\asriel"
+        },
+        {
+          "slug": "undertale-blueberry-by-kaweii",
+          "name": "Blueberry",
+          "path": "Data\\undertale\\blueberrybykaweii"
+        },
+        {
+          "slug": "undertale-flowey",
+          "name": "Flowey",
+          "path": "Data\\undertale\\flowey"
+        },
+        {
+          "slug": "undertale-frisk",
+          "name": "Frisk",
+          "path": "Data\\undertale\\frisk"
+        },
+        {
+          "slug": "undertale-papyrus",
+          "name": "Papyrus",
+          "path": "Data\\undertale\\papyrus"
+        },
+        {
+          "slug": "undertale-sans",
+          "name": "Sans",
+          "path": "Data\\undertale\\sans"
+        },
+        {
+          "slug": "undertale-soriel",
+          "name": "Soriel",
+          "path": "Data\\undertale\\soriel"
+        },
+        {
+          "slug": "undertale-undyne",
+          "name": "Undyne",
+          "path": "Data\\undertale\\undyne"
+        },
+        {
+          "slug": "undertale-chara",
+          "name": "Chara",
+          "path": "Data\\undertale\\chara"
+        },
+        {
+          "slug": "undertale-alphys",
+          "name": "Alphys",
+          "path": "Data\\undertale\\alphys"
+        },
+        {
+          "slug": "undertale-asylum-sans-by-niuniu-nuko",
+          "name": "Asylum Sans",
+          "path": "Data\\undertale\\asylumsansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-birdtale-sans-by-niuniu-nuko",
+          "name": "Birdtale Sans",
+          "path": "Data\\undertale\\birdtalesansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-dreamtale-sans-by-niuniu-nuko",
+          "name": "Dreamtale Sans",
+          "path": "Data\\undertale\\dreamtalesansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-dust-sans-by-niuniu-nuko",
+          "name": "Dust Sans",
+          "path": "Data\\undertale\\dustsansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-dusty-sansy-by-niuniu-nuko",
+          "name": "Dusty Sansy",
+          "path": "Data\\undertale\\dustysansybyniuniunuko"
+        },
+        {
+          "slug": "undertale-error-sans-by-loverofpiggies",
+          "name": "Error Sans",
+          "path": "Data\\undertale\\errorsansbyloverofpiggies"
+        },
+        {
+          "slug": "undertale-horror-sans-by-beld-craft",
+          "name": "Horror Sans",
+          "path": "Data\\undertale\\horrorsansbybeldcraft"
+        },
+        {
+          "slug": "undertale-flower-fell-sans-by-niuniu-nuko",
+          "name": "FlowerFell Sans",
+          "path": "Data\\undertale\\flowerfellsansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-fresh-sans-by-niuniu-nuko",
+          "name": "Fresh Sans",
+          "path": "Data\\undertale\\freshsansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-gaster-sans-by-niuniu-nuko",
+          "name": "Gaster Sans",
+          "path": "Data\\undertale\\gastersansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-ink-sans-by-niuniu-nuko",
+          "name": "Ink Sans",
+          "path": "Data\\undertale\\inksansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-nightmare-sans-by-niuniu-nuko",
+          "name": "Nightmare Sans",
+          "path": "Data\\undertale\\nightmaresansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-reaper-sans-by-niuniu-nuko",
+          "name": "Reaper Sans",
+          "path": "Data\\undertale\\reapersansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-sans-by-niuniu-nuko",
+          "name": "Sans",
+          "path": "Data\\undertale\\sansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-underfell-sans-by-niuniu-nuko",
+          "name": "Underfell Sans",
+          "path": "Data\\undertale\\underfellsansbyniuniunuko"
+        },
+        {
+          "slug": "undertale-underswap-sans-by-niuniu-nuko",
+          "name": "Underswap Sans",
+          "path": "Data\\undertale\\underswapsansbyniuniunuko"
+        }
+      ]
+    },
+    {
+      "groupSlug": "vocaloid",
+      "groupUrl": "https://shimejis.xyz/directory/vocaloid-shimeji-pack",
+      "characterCount": 9,
+      "characters": [
+        {
+          "slug": "vocaloid-hatsune-miku",
+          "name": "Hatsune Miku",
+          "path": "Data\\vocaloid\\hatsunemiku"
+        },
+        {
+          "slug": "vocaloid-kagamine-len",
+          "name": "Kagamine Len",
+          "path": "Data\\vocaloid\\kagaminelen"
+        },
+        {
+          "slug": "vocaloid-kagamine-rin",
+          "name": "Kagamine Rin",
+          "path": "Data\\vocaloid\\kagaminerin"
+        },
+        {
+          "slug": "vocaloid-oliver",
+          "name": "Oliver",
+          "path": "Data\\vocaloid\\oliver"
+        },
+        {
+          "slug": "vocaloid-gakupo",
+          "name": "Gakupo",
+          "path": "Data\\vocaloid\\gakupo"
+        },
+        {
+          "slug": "vocaloid-ia",
+          "name": "IA",
+          "path": "Data\\vocaloid\\ia"
+        },
+        {
+          "slug": "vocaloid-kaito",
+          "name": "Kaito",
+          "path": "Data\\vocaloid\\kaito"
+        },
+        {
+          "slug": "vocaloid-luka",
+          "name": "Luka",
+          "path": "Data\\vocaloid\\luka"
+        },
+        {
+          "slug": "vocaloid-mikuo",
+          "name": "Mikuo",
+          "path": "Data\\vocaloid\\mikuo"
+        }
+      ]
+    },
+    {
+      "groupSlug": "voltron",
+      "groupUrl": "https://shimejis.xyz/directory/voltron-shimeji-pack",
+      "characterCount": 2,
+      "characters": [
+        {
+          "slug": "voltron-keith-by-mel-meiko-mei-ling",
+          "name": "Keith",
+          "path": "Data\\voltron\\keithbymelmeikomeiling"
+        },
+        {
+          "slug": "voltron-pidge-by-neko-rawr-meow",
+          "name": "Pidge",
+          "path": "Data\\voltron\\pidgebynekorawrmeow"
+        }
+      ]
+    },
+    {
+      "groupSlug": "x-men",
+      "groupUrl": "https://shimejis.xyz/directory/x-men-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "x-men-deadpool-by-cake-doom",
+          "name": "Deadpool",
+          "path": "Data\\xmen\\deadpoolbycakedoom"
+        }
+      ]
+    },
+    {
+      "groupSlug": "yu-gi-oh",
+      "groupUrl": "https://shimejis.xyz/directory/yu-gi-oh-shimeji-pack",
+      "characterCount": 10,
+      "characters": [
+        {
+          "slug": "yu-gi-oh-blue-eyes-by-burakbir",
+          "name": "Blue eyes",
+          "path": "Data\\yugioh\\blueeyesbyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-dark-magician-by-burakbir",
+          "name": "Dark magician",
+          "path": "Data\\yugioh\\darkmagicianbyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-kiribo-by-burakbir",
+          "name": "Kiribo",
+          "path": "Data\\yugioh\\kiribobyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-new-bakura-by-burakbir",
+          "name": "New Bakura",
+          "path": "Data\\yugioh\\newbakurabyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-new-yugi-by-burakbir",
+          "name": "New Yugi",
+          "path": "Data\\yugioh\\newyugibyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-old-bakura-by-burakbir",
+          "name": "Old Bakura",
+          "path": "Data\\yugioh\\oldbakurabyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-rex-raptor-by-burakbir",
+          "name": "Rex Raptor",
+          "path": "Data\\yugioh\\rexraptorbyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-seto-kaiba-by-burakbir",
+          "name": "Seto Kaiba",
+          "path": "Data\\yugioh\\setokaibabyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-weevil-underwood-by-burakbir",
+          "name": "Weevil Underwood",
+          "path": "Data\\yugioh\\weevilunderwoodbyburakbir"
+        },
+        {
+          "slug": "yu-gi-oh-yugi-by-burakbir",
+          "name": "Yugi",
+          "path": "Data\\yugioh\\yugibyburakbir"
+        }
+      ]
+    },
+    {
+      "groupSlug": "yuri-on-ice",
+      "groupUrl": "https://shimejis.xyz/directory/yuri-on-ice-shimeji-pack",
+      "characterCount": 1,
+      "characters": [
+        {
+          "slug": "yuri-on-ice-viktor-by-ero-pinku",
+          "name": "Viktor",
+          "path": "Data\\yurionice\\viktorbyeropinku"
+        }
+      ]
+    }
+  ],
+  "failed": []
+}

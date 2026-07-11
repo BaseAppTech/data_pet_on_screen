@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "osomatsu-san",
+  "groupName": "Osomatsu-san",
+  "groupUrl": "https://shimejis.xyz/directory/osomatsu-san-shimeji-pack",
+  "shimeji": "osomatsu-san-todomatsu-matsuno-by-emmmm",
+  "shimejiName": "Todomatsu Matsuno",
+  "sourceUrl": "https://www.pixiv.net/member_illust.php?mode=medium&illust_id=53802885",
+  "artistName": "Emmmm",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "Walk",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "Run",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "SitAndDangleLegs",
+      "frames": 4
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "Creep",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "Falling",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "Bouncing",
+      "frames": 2
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "ClimbWall",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "ClimbCeiling",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "Pinched",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "PullUpShimeji1",
+      "frames": 5
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "ThrowIe",
+      "frames": 1
+    }
+  }
+}

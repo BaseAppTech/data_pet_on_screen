@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "my-hero-academia",
+  "groupName": "My Hero Academia",
+  "groupUrl": "https://shimejis.xyz/directory/my-hero-academia-shimeji-pack",
+  "shimeji": "my-hero-academia-tenko-shimura-tomura-shigaraki-by-millky-toons",
+  "shimejiName": "Tenko Shimura (Tomura Shigaraki)",
+  "sourceUrl": "https://www.deviantart.com/millkytoons/art/SHIGARAKI-TOMURA-SHIMEJI-794493608",
+  "artistName": "MillkyToons",
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "Walk",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "Run",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "SitAndDangleLegs",
+      "frames": 4
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "Creep",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "Falling",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "Bouncing",
+      "frames": 2
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "ClimbWall",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "ClimbCeiling",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "Pinched",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "PullUpShimeji1",
+      "frames": 5
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "ThrowIe",
+      "frames": 1
+    }
+  }
+}

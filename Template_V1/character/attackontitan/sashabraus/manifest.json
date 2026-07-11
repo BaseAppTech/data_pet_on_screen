@@ -1,0 +1,67 @@
+{
+  "source": "https://shimejis.xyz/directory",
+  "group": "attack-on-titan",
+  "groupName": "Attack on Titan",
+  "groupUrl": "https://shimejis.xyz/directory/attack-on-titan-shimeji-pack",
+  "shimeji": "attack-on-titan-sasha-braus",
+  "shimejiName": "Sasha Braus",
+  "sourceUrl": "http://www.mediafire.com/file/bk030y0io915iru/SnK+Shimejis%282%29.zip",
+  "artistName": null,
+  "actions": {
+    "walk": {
+      "ok": true,
+      "source_action": "歩く",
+      "frames": 4
+    },
+    "run": {
+      "ok": true,
+      "source_action": "走る",
+      "frames": 4
+    },
+    "sit": {
+      "ok": true,
+      "source_action": "足をぶらぶらさせる",
+      "frames": 6
+    },
+    "sleep": {
+      "ok": true,
+      "source_action": "ずりずり",
+      "frames": 5
+    },
+    "fall": {
+      "ok": true,
+      "source_action": "落ちる",
+      "frames": 1
+    },
+    "fly": {
+      "ok": true,
+      "source_action": "跳ねる",
+      "frames": 1
+    },
+    "climb": {
+      "ok": true,
+      "source_action": "壁を登る",
+      "frames": 8
+    },
+    "top": {
+      "ok": true,
+      "source_action": "天井を伝う",
+      "frames": 8
+    },
+    "drag": {
+      "ok": true,
+      "source_action": "つままれる",
+      "frames": 1
+    },
+    "tap": {
+      "ok": true,
+      "source_action": "跳ねる",
+      "frames": 1
+    },
+    "snap": {
+      "ok": true,
+      "source_action": "IEを投げる",
+      "frames": 1
+    }
+  }
+}
