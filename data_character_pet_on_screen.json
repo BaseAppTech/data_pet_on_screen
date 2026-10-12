@@ -1,6 +1,7 @@
 [
  {
   "character": "beemo",
+  "name": "BMO",
   "thumbnail": "Template_V1/character/adventuretime/beemo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/beemo/climb/climb.gif",
@@ -101,6 +102,7 @@
  },
  {
   "character": "finn",
+  "name": "Finn",
   "thumbnail": "Template_V1/character/adventuretime/finn/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/finn/climb/climb.gif",
@@ -204,6 +206,7 @@
  },
  {
   "character": "fionna",
+  "name": "Fionna",
   "thumbnail": "Template_V1/character/adventuretime/fionna/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/fionna/climb/climb.gif",
@@ -304,6 +307,7 @@
  },
  {
   "character": "jake",
+  "name": "Jake",
   "thumbnail": "Template_V1/character/adventuretime/jake/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/jake/climb/climb.gif",
@@ -404,6 +408,7 @@
  },
  {
   "character": "lumpyspaceprincess",
+  "name": "Lumpy Space Princess",
   "thumbnail": "Template_V1/character/adventuretime/lumpyspaceprincess/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/lumpyspaceprincess/climb/climb.gif",
@@ -507,6 +512,7 @@
  },
  {
   "character": "marceline",
+  "name": "Marceline",
   "thumbnail": "Template_V1/character/adventuretime/marceline/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/marceline/climb/climb.gif",
@@ -610,6 +616,7 @@
  },
  {
   "character": "marshalllee",
+  "name": "Marshall Lee",
   "thumbnail": "Template_V1/character/adventuretime/marshalllee/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/adventuretime/marshalllee/climb/climb.gif",
@@ -707,6 +714,7 @@
  },
  {
   "character": "aliceinthecountryofhearts_ace",
+  "name": "Ace",
   "thumbnail": "Template_V1/character/aliceinthecountryofhearts/ace/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/aliceinthecountryofhearts/ace/climb/climb.gif",
@@ -807,6 +815,7 @@
  },
  {
   "character": "boris",
+  "name": "Boris Airay",
   "thumbnail": "Template_V1/character/aliceinthecountryofhearts/boris/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/aliceinthecountryofhearts/boris/climb/climb.gif",
@@ -907,6 +916,7 @@
  },
  {
   "character": "julius",
+  "name": "Julius Monrey",
   "thumbnail": "Template_V1/character/aliceinthecountryofhearts/julius/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/aliceinthecountryofhearts/julius/climb/climb.gif",
@@ -1007,6 +1017,7 @@
  },
  {
   "character": "bangalorebythekittlekat",
+  "name": "Bangalore",
   "thumbnail": "Template_V1/character/apexlegends/bangalorebythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/bangalorebythekittlekat/climb/climb.gif",
@@ -1118,6 +1129,7 @@
  },
  {
   "character": "bloodhoundbythekittlekat",
+  "name": "Bloodhound",
   "thumbnail": "Template_V1/character/apexlegends/bloodhoundbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/bloodhoundbythekittlekat/climb/climb.gif",
@@ -1229,6 +1241,7 @@
  },
  {
   "character": "causticbythekittlekat",
+  "name": "Caustic",
   "thumbnail": "Template_V1/character/apexlegends/causticbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/causticbythekittlekat/climb/climb.gif",
@@ -1340,6 +1353,7 @@
  },
  {
   "character": "cryptobythekittlekat",
+  "name": "Crypto",
   "thumbnail": "Template_V1/character/apexlegends/cryptobythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/cryptobythekittlekat/climb/climb.gif",
@@ -1451,6 +1465,7 @@
  },
  {
   "character": "lifelinebythekittlekat",
+  "name": "Lifeline",
   "thumbnail": "Template_V1/character/apexlegends/lifelinebythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/lifelinebythekittlekat/climb/climb.gif",
@@ -1562,6 +1577,7 @@
  },
  {
   "character": "lobabythekittlekat",
+  "name": "Loba",
   "thumbnail": "Template_V1/character/apexlegends/lobabythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/lobabythekittlekat/climb/climb.gif",
@@ -1673,6 +1689,7 @@
  },
  {
   "character": "octanebythekittlekat",
+  "name": "Octane",
   "thumbnail": "Template_V1/character/apexlegends/octanebythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/octanebythekittlekat/climb/climb.gif",
@@ -1784,6 +1801,7 @@
  },
  {
   "character": "pathfinderbythekittlekat",
+  "name": "Pathfinder",
   "thumbnail": "Template_V1/character/apexlegends/pathfinderbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/pathfinderbythekittlekat/climb/climb.gif",
@@ -1895,6 +1913,7 @@
  },
  {
   "character": "revenantbythekittlekat",
+  "name": "Revenant",
   "thumbnail": "Template_V1/character/apexlegends/revenantbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/revenantbythekittlekat/climb/climb.gif",
@@ -2006,6 +2025,7 @@
  },
  {
   "character": "wattsonbythekittlekat",
+  "name": "Wattson",
   "thumbnail": "Template_V1/character/apexlegends/wattsonbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/wattsonbythekittlekat/climb/climb.gif",
@@ -2117,6 +2137,7 @@
  },
  {
   "character": "wraithbythekittlekat",
+  "name": "Wraith",
   "thumbnail": "Template_V1/character/apexlegends/wraithbythekittlekat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/apexlegends/wraithbythekittlekat/climb/climb.gif",
@@ -2228,6 +2249,7 @@
  },
  {
   "character": "cesare",
+  "name": "Cesare Borgia",
   "thumbnail": "Template_V1/character/assassinscreed/cesare/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/cesare/climb/climb.gif",
@@ -2328,6 +2350,7 @@
  },
  {
   "character": "desmond",
+  "name": "Desmond Miles",
   "thumbnail": "Template_V1/character/assassinscreed/desmond/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/desmond/climb/climb.gif",
@@ -2428,6 +2451,7 @@
  },
  {
   "character": "ezio",
+  "name": "Ezio Auditore",
   "thumbnail": "Template_V1/character/assassinscreed/ezio/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/ezio/climb/climb.gif",
@@ -2528,6 +2552,7 @@
  },
  {
   "character": "kadar",
+  "name": "Kadar Al-Sayf",
   "thumbnail": "Template_V1/character/assassinscreed/kadar/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/kadar/climb/climb.gif",
@@ -2628,6 +2653,7 @@
  },
  {
   "character": "leonardodavinci",
+  "name": "Leonardo da Vinci",
   "thumbnail": "Template_V1/character/assassinscreed/leonardodavinci/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/leonardodavinci/climb/climb.gif",
@@ -2728,6 +2754,7 @@
  },
  {
   "character": "malik",
+  "name": "Malik Al-Sayf",
   "thumbnail": "Template_V1/character/assassinscreed/malik/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/malik/climb/climb.gif",
@@ -2828,6 +2855,7 @@
  },
  {
   "character": "yusuf",
+  "name": "Yusuf Tazim",
   "thumbnail": "Template_V1/character/assassinscreed/yusuf/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/assassinscreed/yusuf/climb/climb.gif",
@@ -2928,6 +2956,7 @@
  },
  {
   "character": "annieleonhardt",
+  "name": "Annie Leonhart",
   "thumbnail": "Template_V1/character/attackontitan/annieleonhardt/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/annieleonhardt/climb/climb.gif",
@@ -3028,6 +3057,7 @@
  },
  {
   "character": "arminarlert",
+  "name": "Armin Arlert",
   "thumbnail": "Template_V1/character/attackontitan/arminarlert/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/arminarlert/climb/climb.gif",
@@ -3128,6 +3158,7 @@
  },
  {
   "character": "conniespringer",
+  "name": "Connie Springer",
   "thumbnail": "Template_V1/character/attackontitan/conniespringer/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/conniespringer/climb/climb.gif",
@@ -3228,6 +3259,7 @@
  },
  {
   "character": "erenjaeger",
+  "name": "Eren Jaeger",
   "thumbnail": "Template_V1/character/attackontitan/erenjaeger/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/erenjaeger/climb/climb.gif",
@@ -3328,6 +3360,7 @@
  },
  {
   "character": "hanjizoe",
+  "name": "Hange Zoe",
   "thumbnail": "Template_V1/character/attackontitan/hanjizoe/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/hanjizoe/climb/climb.gif",
@@ -3428,6 +3461,7 @@
  },
  {
   "character": "historiarei",
+  "name": "Historia Reiss",
   "thumbnail": "Template_V1/character/attackontitan/historiarei/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/historiarei/climb/climb.gif",
@@ -3528,6 +3562,7 @@
  },
  {
   "character": "jeankirschtein",
+  "name": "Jean Kirstein",
   "thumbnail": "Template_V1/character/attackontitan/jeankirschtein/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/jeankirschtein/climb/climb.gif",
@@ -3628,6 +3663,7 @@
  },
  {
   "character": "leviackermanbybk",
+  "name": "Levi Ackerman",
   "thumbnail": "Template_V1/character/attackontitan/leviackermanbybk/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/leviackermanbybk/climb/climb.gif",
@@ -3728,6 +3764,7 @@
  },
  {
   "character": "mikasaackerman",
+  "name": "Mikasa Ackerman",
   "thumbnail": "Template_V1/character/attackontitan/mikasaackerman/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/mikasaackerman/climb/climb.gif",
@@ -3828,6 +3865,7 @@
  },
  {
   "character": "sashabraus",
+  "name": "Sasha Braus",
   "thumbnail": "Template_V1/character/attackontitan/sashabraus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/sashabraus/climb/climb.gif",
@@ -3928,6 +3966,7 @@
  },
  {
   "character": "ymir",
+  "name": "Ymir",
   "thumbnail": "Template_V1/character/attackontitan/ymir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/attackontitan/ymir/climb/climb.gif",
@@ -4028,6 +4067,7 @@
  },
  {
   "character": "jimmoriarty",
+  "name": "Jim Moriarty",
   "thumbnail": "Template_V1/character/bbcsherlock/jimmoriarty/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bbcsherlock/jimmoriarty/climb/climb.gif",
@@ -4128,6 +4168,7 @@
  },
  {
   "character": "johnwatson",
+  "name": "John Watson",
   "thumbnail": "Template_V1/character/bbcsherlock/johnwatson/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bbcsherlock/johnwatson/climb/climb.gif",
@@ -4228,6 +4269,7 @@
  },
  {
   "character": "mycroft",
+  "name": "Mycroft Holmes",
   "thumbnail": "Template_V1/character/bbcsherlock/mycroft/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bbcsherlock/mycroft/climb/climb.gif",
@@ -4328,6 +4370,7 @@
  },
  {
   "character": "sherlock",
+  "name": "Sherlock Holmes",
   "thumbnail": "Template_V1/character/bbcsherlock/sherlock/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bbcsherlock/sherlock/climb/climb.gif",
@@ -4428,6 +4471,7 @@
  },
  {
   "character": "bendybyniuniunuko",
+  "name": "Bendy",
   "thumbnail": "Template_V1/character/bendyandtheinkmachine/bendybyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bendyandtheinkmachine/bendybyniuniunuko/climb/climb.gif",
@@ -4531,6 +4575,7 @@
  },
  {
   "character": "bigdaddy",
+  "name": "Big Daddy",
   "thumbnail": "Template_V1/character/bioshock/bigdaddy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bioshock/bigdaddy/climb/climb.gif",
@@ -4631,6 +4676,7 @@
  },
  {
   "character": "fontaine",
+  "name": "Frank Fontaine",
   "thumbnail": "Template_V1/character/bioshock/fontaine/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bioshock/fontaine/climb/climb.gif",
@@ -4734,6 +4780,7 @@
  },
  {
   "character": "aloistrancybynecroticmisery",
+  "name": "Alois Trancy",
   "thumbnail": "Template_V1/character/blackbutler/aloistrancybynecroticmisery/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/aloistrancybynecroticmisery/climb/climb.gif",
@@ -4837,6 +4884,7 @@
  },
  {
   "character": "cielphantomhive",
+  "name": "Ciel Phantomhive",
   "thumbnail": "Template_V1/character/blackbutler/cielphantomhive/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/cielphantomhive/climb/climb.gif",
@@ -4940,6 +4988,7 @@
  },
  {
   "character": "grell",
+  "name": "Grell Sutcliff",
   "thumbnail": "Template_V1/character/blackbutler/grell/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/grell/climb/climb.gif",
@@ -5043,6 +5092,7 @@
  },
  {
   "character": "maylene",
+  "name": "Mey-Rin",
   "thumbnail": "Template_V1/character/blackbutler/maylene/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/maylene/climb/climb.gif",
@@ -5143,6 +5193,7 @@
  },
  {
   "character": "sebastianmichaelis",
+  "name": "Sebastian Michaelis",
   "thumbnail": "Template_V1/character/blackbutler/sebastianmichaelis/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/sebastianmichaelis/climb/climb.gif",
@@ -5243,6 +5294,7 @@
  },
  {
   "character": "undertaker",
+  "name": "Undertaker",
   "thumbnail": "Template_V1/character/blackbutler/undertaker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/undertaker/climb/climb.gif",
@@ -5343,6 +5395,7 @@
  },
  {
   "character": "william",
+  "name": "William T. Spears",
   "thumbnail": "Template_V1/character/blackbutler/william/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blackbutler/william/climb/climb.gif",
@@ -5446,6 +5499,7 @@
  },
  {
   "character": "aizen",
+  "name": "Sosuke Aizen",
   "thumbnail": "Template_V1/character/bleach/aizen/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/aizen/climb/climb.gif",
@@ -5546,6 +5600,7 @@
  },
  {
   "character": "byakuyakuchiki",
+  "name": "Byakuya Kuchiki",
   "thumbnail": "Template_V1/character/bleach/byakuyakuchiki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/byakuyakuchiki/climb/climb.gif",
@@ -5649,6 +5704,7 @@
  },
  {
   "character": "ginichimaru",
+  "name": "Gin Ichimaru",
   "thumbnail": "Template_V1/character/bleach/ginichimaru/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/ginichimaru/climb/climb.gif",
@@ -5749,6 +5805,7 @@
  },
  {
   "character": "grimmjow",
+  "name": "Grimmjow",
   "thumbnail": "Template_V1/character/bleach/grimmjow/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/grimmjow/climb/climb.gif",
@@ -5849,6 +5906,7 @@
  },
  {
   "character": "hisagishuuhei",
+  "name": "Shuhei Hisagi",
   "thumbnail": "Template_V1/character/bleach/hisagishuuhei/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/hisagishuuhei/climb/climb.gif",
@@ -5949,6 +6007,7 @@
  },
  {
   "character": "ichigo",
+  "name": "Ichigo Kurosaki",
   "thumbnail": "Template_V1/character/bleach/ichigo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/ichigo/climb/climb.gif",
@@ -6049,6 +6108,7 @@
  },
  {
   "character": "inoueorihime",
+  "name": "Orihime Inoue",
   "thumbnail": "Template_V1/character/bleach/inoueorihime/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/inoueorihime/climb/climb.gif",
@@ -6149,6 +6209,7 @@
  },
  {
   "character": "jushiroukitake",
+  "name": "Jushiro Ukitake",
   "thumbnail": "Template_V1/character/bleach/jushiroukitake/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/jushiroukitake/climb/climb.gif",
@@ -6252,6 +6313,7 @@
  },
  {
   "character": "renjiabarai",
+  "name": "Renji Abarai",
   "thumbnail": "Template_V1/character/bleach/renjiabarai/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/renjiabarai/climb/climb.gif",
@@ -6352,6 +6414,7 @@
  },
  {
   "character": "rukia",
+  "name": "Rukia Kuchiki",
   "thumbnail": "Template_V1/character/bleach/rukia/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/rukia/climb/climb.gif",
@@ -6452,6 +6515,7 @@
  },
  {
   "character": "shirosakihichigo",
+  "name": "Shirosaki Hichigo",
   "thumbnail": "Template_V1/character/bleach/shirosakihichigo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/shirosakihichigo/climb/climb.gif",
@@ -6552,6 +6616,7 @@
  },
  {
   "character": "starrk",
+  "name": "Coyote Starrk",
   "thumbnail": "Template_V1/character/bleach/starrk/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/starrk/climb/climb.gif",
@@ -6652,6 +6717,7 @@
  },
  {
   "character": "szayelaporro",
+  "name": "Szayelaporro Granz",
   "thumbnail": "Template_V1/character/bleach/szayelaporro/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/szayelaporro/climb/climb.gif",
@@ -6752,6 +6818,7 @@
  },
  {
   "character": "ulquiorra",
+  "name": "Ulquiorra Cifer",
   "thumbnail": "Template_V1/character/bleach/ulquiorra/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/ulquiorra/climb/climb.gif",
@@ -6852,6 +6919,7 @@
  },
  {
   "character": "uryuuishida",
+  "name": "Uryu Ishida",
   "thumbnail": "Template_V1/character/bleach/uryuuishida/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/bleach/uryuuishida/climb/climb.gif",
@@ -6952,6 +7020,7 @@
  },
  {
   "character": "blobbyreitanna",
+  "name": "Blobby Reitanna",
   "thumbnail": "Template_V1/character/blobs/blobbyreitanna/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/blobs/blobbyreitanna/climb/climb.gif",
@@ -7055,6 +7124,7 @@
  },
  {
   "character": "jhopehobihyyhbybidi",
+  "name": "J-Hope",
   "thumbnail": "Template_V1/character/btsbangtanboys/jhopehobihyyhbybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jhopehobihyyhbybidi/climb/climb.gif",
@@ -7158,6 +7228,7 @@
  },
  {
   "character": "jhopehobisummerbyaries0ram",
+  "name": "J-Hope (Summer)",
   "thumbnail": "Template_V1/character/btsbangtanboys/jhopehobisummerbyaries0ram/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jhopehobisummerbyaries0ram/climb/climb.gif",
@@ -7261,6 +7332,7 @@
  },
  {
   "character": "jiminbybidi",
+  "name": "Jimin",
   "thumbnail": "Template_V1/character/btsbangtanboys/jiminbybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jiminbybidi/climb/climb.gif",
@@ -7364,6 +7436,7 @@
  },
  {
   "character": "jiminbywytawolf",
+  "name": "Jimin (Alt)",
   "thumbnail": "Template_V1/character/btsbangtanboys/jiminbywytawolf/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jiminbywytawolf/climb/climb.gif",
@@ -7467,6 +7540,7 @@
  },
  {
   "character": "jinbybidi",
+  "name": "Jin",
   "thumbnail": "Template_V1/character/btsbangtanboys/jinbybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jinbybidi/climb/climb.gif",
@@ -7570,6 +7644,7 @@
  },
  {
   "character": "jungkookkookiebabybybidi",
+  "name": "Jungkook (Kookie)",
   "thumbnail": "Template_V1/character/btsbangtanboys/jungkookkookiebabybybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/jungkookkookiebabybybidi/climb/climb.gif",
@@ -7673,6 +7748,7 @@
  },
  {
   "character": "sugabybidi",
+  "name": "Suga",
   "thumbnail": "Template_V1/character/btsbangtanboys/sugabybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/sugabybidi/climb/climb.gif",
@@ -7776,6 +7852,7 @@
  },
  {
   "character": "vtaetaenottodaybybidi",
+  "name": "V (Not Today)",
   "thumbnail": "Template_V1/character/btsbangtanboys/vtaetaenottodaybybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/vtaetaenottodaybybidi/climb/climb.gif",
@@ -7879,6 +7956,7 @@
  },
  {
   "character": "vtaetaepuppybybidi",
+  "name": "V (Puppy)",
   "thumbnail": "Template_V1/character/btsbangtanboys/vtaetaepuppybybidi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/btsbangtanboys/vtaetaepuppybybidi/climb/climb.gif",
@@ -7982,6 +8060,7 @@
  },
  {
   "character": "bendrowned",
+  "name": "BEN Drowned",
   "thumbnail": "Template_V1/character/creepypasta/bendrowned/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/bendrowned/climb/climb.gif",
@@ -8082,6 +8161,7 @@
  },
  {
   "character": "eyelessjack",
+  "name": "Eyeless Jack",
   "thumbnail": "Template_V1/character/creepypasta/eyelessjack/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/eyelessjack/climb/climb.gif",
@@ -8182,6 +8262,7 @@
  },
  {
   "character": "hoody",
+  "name": "Hoodie",
   "thumbnail": "Template_V1/character/creepypasta/hoody/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/hoody/climb/climb.gif",
@@ -8282,6 +8363,7 @@
  },
  {
   "character": "jeffthekillerbybluesixxdakota",
+  "name": "Jeff the Killer",
   "thumbnail": "Template_V1/character/creepypasta/jeffthekillerbybluesixxdakota/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/jeffthekillerbybluesixxdakota/climb/climb.gif",
@@ -8385,6 +8467,7 @@
  },
  {
   "character": "jeffthekillerbycomickit",
+  "name": "Jeff the Killer (Alt)",
   "thumbnail": "Template_V1/character/creepypasta/jeffthekillerbycomickit/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/jeffthekillerbycomickit/climb/climb.gif",
@@ -8484,6 +8567,7 @@
  },
  {
   "character": "kagekao",
+  "name": "Kagekao",
   "thumbnail": "Template_V1/character/creepypasta/kagekao/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/kagekao/climb/climb.gif",
@@ -8584,6 +8668,7 @@
  },
  {
   "character": "laughingjack",
+  "name": "Laughing Jack",
   "thumbnail": "Template_V1/character/creepypasta/laughingjack/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/laughingjack/climb/climb.gif",
@@ -8684,6 +8769,7 @@
  },
  {
   "character": "lostsilver",
+  "name": "Lost Silver",
   "thumbnail": "Template_V1/character/creepypasta/lostsilver/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/lostsilver/climb/climb.gif",
@@ -8784,6 +8870,7 @@
  },
  {
   "character": "masky",
+  "name": "Masky",
   "thumbnail": "Template_V1/character/creepypasta/masky/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/masky/climb/climb.gif",
@@ -8884,6 +8971,7 @@
  },
  {
   "character": "rake",
+  "name": "The Rake",
   "thumbnail": "Template_V1/character/creepypasta/rake/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/rake/climb/climb.gif",
@@ -8984,6 +9072,7 @@
  },
  {
   "character": "ticcitoby",
+  "name": "Ticci Toby",
   "thumbnail": "Template_V1/character/creepypasta/ticcitoby/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/ticcitoby/climb/climb.gif",
@@ -9084,6 +9173,7 @@
  },
  {
   "character": "zehnder",
+  "name": "Zehnder",
   "thumbnail": "Template_V1/character/creepypasta/zehnder/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/creepypasta/zehnder/climb/climb.gif",
@@ -9184,6 +9274,7 @@
  },
  {
   "character": "kokichiomabystraitjakk",
+  "name": "Kokichi Oma",
   "thumbnail": "Template_V1/character/danganronpa/kokichiomabystraitjakk/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/danganronpa/kokichiomabystraitjakk/climb/climb.gif",
@@ -9287,6 +9378,7 @@
  },
  {
   "character": "beyondbirthday",
+  "name": "Beyond Birthday",
   "thumbnail": "Template_V1/character/deathnote/beyondbirthday/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/deathnote/beyondbirthday/climb/climb.gif",
@@ -9387,6 +9479,7 @@
  },
  {
   "character": "matt",
+  "name": "Matt",
   "thumbnail": "Template_V1/character/deathnote/matt/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/deathnote/matt/climb/climb.gif",
@@ -9487,6 +9580,7 @@
  },
  {
   "character": "agumon",
+  "name": "Agumon",
   "thumbnail": "Template_V1/character/digimon/agumon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/agumon/climb/climb.gif",
@@ -9590,6 +9684,7 @@
  },
  {
   "character": "culumon",
+  "name": "Culumon",
   "thumbnail": "Template_V1/character/digimon/culumon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/culumon/climb/climb.gif",
@@ -9690,6 +9785,7 @@
  },
  {
   "character": "gatomon",
+  "name": "Gatomon",
   "thumbnail": "Template_V1/character/digimon/gatomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/gatomon/climb/climb.gif",
@@ -9790,6 +9886,7 @@
  },
  {
   "character": "patamon",
+  "name": "Patamon",
   "thumbnail": "Template_V1/character/digimon/patamon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/patamon/climb/climb.gif",
@@ -9893,6 +9990,7 @@
  },
  {
   "character": "tanemon",
+  "name": "Tanemon",
   "thumbnail": "Template_V1/character/digimon/tanemon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/tanemon/climb/climb.gif",
@@ -9993,6 +10091,7 @@
  },
  {
   "character": "terriemon",
+  "name": "Terriermon",
   "thumbnail": "Template_V1/character/digimon/terriemon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/digimon/terriemon/climb/climb.gif",
@@ -10093,6 +10192,7 @@
  },
  {
   "character": "arielandmeg",
+  "name": "Ariel and Meg",
   "thumbnail": "Template_V1/character/disneymovies/arielandmeg/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/disneymovies/arielandmeg/climb/climb.gif",
@@ -10193,6 +10293,7 @@
  },
  {
   "character": "clopintrouillefou",
+  "name": "Clopin",
   "thumbnail": "Template_V1/character/disneymovies/clopintrouillefou/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/disneymovies/clopintrouillefou/climb/climb.gif",
@@ -10296,6 +10397,7 @@
  },
  {
   "character": "flynnrider",
+  "name": "Flynn Rider",
   "thumbnail": "Template_V1/character/disneymovies/flynnrider/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/disneymovies/flynnrider/climb/climb.gif",
@@ -10396,6 +10498,7 @@
  },
  {
   "character": "rapunzelbraidedhair",
+  "name": "Rapunzel (Braided)",
   "thumbnail": "Template_V1/character/disneymovies/rapunzelbraidedhair/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/disneymovies/rapunzelbraidedhair/climb/climb.gif",
@@ -10496,6 +10599,7 @@
  },
  {
   "character": "rapunzelbrunette",
+  "name": "Rapunzel (Brunette)",
   "thumbnail": "Template_V1/character/disneymovies/rapunzelbrunette/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/disneymovies/rapunzelbrunette/climb/climb.gif",
@@ -10596,6 +10700,7 @@
  },
  {
   "character": "monikabychildishn",
+  "name": "Monika",
   "thumbnail": "Template_V1/character/dokidokiliteratureclub/monikabychildishn/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dokidokiliteratureclub/monikabychildishn/climb/climb.gif",
@@ -10687,6 +10792,7 @@
  },
  {
   "character": "natsukibychildishn",
+  "name": "Natsuki",
   "thumbnail": "Template_V1/character/dokidokiliteratureclub/natsukibychildishn/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dokidokiliteratureclub/natsukibychildishn/climb/climb.gif",
@@ -10778,6 +10884,7 @@
  },
  {
   "character": "sayoribychildishn",
+  "name": "Sayori",
   "thumbnail": "Template_V1/character/dokidokiliteratureclub/sayoribychildishn/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dokidokiliteratureclub/sayoribychildishn/climb/climb.gif",
@@ -10869,6 +10976,7 @@
  },
  {
   "character": "yuribychildishn",
+  "name": "Yuri",
   "thumbnail": "Template_V1/character/dokidokiliteratureclub/yuribychildishn/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dokidokiliteratureclub/yuribychildishn/climb/climb.gif",
@@ -10960,6 +11068,7 @@
  },
  {
   "character": "gokubyaki1iniriki",
+  "name": "Goku",
   "thumbnail": "Template_V1/character/dragonballz/gokubyaki1iniriki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dragonballz/gokubyaki1iniriki/climb/climb.gif",
@@ -11063,6 +11172,7 @@
  },
  {
   "character": "vegetabyaki1iniriki",
+  "name": "Vegeta",
   "thumbnail": "Template_V1/character/dragonballz/vegetabyaki1iniriki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dragonballz/vegetabyaki1iniriki/climb/climb.gif",
@@ -11166,6 +11276,7 @@
  },
  {
   "character": "badboyhalobytarotayo",
+  "name": "BadBoyHalo",
   "thumbnail": "Template_V1/character/dreamsmp/badboyhalobytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/badboyhalobytarotayo/climb/climb.gif",
@@ -11269,6 +11380,7 @@
  },
  {
   "character": "dreambytarotayo",
+  "name": "Dream",
   "thumbnail": "Template_V1/character/dreamsmp/dreambytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/dreambytarotayo/climb/climb.gif",
@@ -11372,6 +11484,7 @@
  },
  {
   "character": "fundybytarotayo",
+  "name": "Fundy",
   "thumbnail": "Template_V1/character/dreamsmp/fundybytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/fundybytarotayo/climb/climb.gif",
@@ -11475,6 +11588,7 @@
  },
  {
   "character": "georgebytarotayo",
+  "name": "George",
   "thumbnail": "Template_V1/character/dreamsmp/georgebytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/georgebytarotayo/climb/climb.gif",
@@ -11578,6 +11692,7 @@
  },
  {
   "character": "ghostburbytarotayo",
+  "name": "Ghostbur",
   "thumbnail": "Template_V1/character/dreamsmp/ghostburbytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/ghostburbytarotayo/climb/climb.gif",
@@ -11681,6 +11796,7 @@
  },
  {
   "character": "ranboobytarotayo",
+  "name": "Ranboo",
   "thumbnail": "Template_V1/character/dreamsmp/ranboobytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/ranboobytarotayo/climb/climb.gif",
@@ -11784,6 +11900,7 @@
  },
  {
   "character": "sapnapbytarotayo",
+  "name": "Sapnap",
   "thumbnail": "Template_V1/character/dreamsmp/sapnapbytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/sapnapbytarotayo/climb/climb.gif",
@@ -11887,6 +12004,7 @@
  },
  {
   "character": "technobladebytarotayo",
+  "name": "Technoblade",
   "thumbnail": "Template_V1/character/dreamsmp/technobladebytarotayo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/dreamsmp/technobladebytarotayo/climb/climb.gif",
@@ -11990,6 +12108,7 @@
  },
  {
   "character": "celtysturluson",
+  "name": "Celty Sturluson",
   "thumbnail": "Template_V1/character/durarara/celtysturluson/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/celtysturluson/climb/climb.gif",
@@ -12090,6 +12209,7 @@
  },
  {
   "character": "delicheiwajima",
+  "name": "Delic Heiwajima",
   "thumbnail": "Template_V1/character/durarara/delicheiwajima/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/delicheiwajima/climb/climb.gif",
@@ -12190,6 +12310,7 @@
  },
  {
   "character": "hachimenroppiorihara01",
+  "name": "Hachimenroppi",
   "thumbnail": "Template_V1/character/durarara/hachimenroppiorihara01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/hachimenroppiorihara01/climb/climb.gif",
@@ -12290,6 +12411,7 @@
  },
  {
   "character": "hachimenroppiorihara02",
+  "name": "Hachimenroppi (2)",
   "thumbnail": "Template_V1/character/durarara/hachimenroppiorihara02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/hachimenroppiorihara02/climb/climb.gif",
@@ -12390,6 +12512,7 @@
  },
  {
   "character": "hibiyaorihara01",
+  "name": "Hibiya Orihara",
   "thumbnail": "Template_V1/character/durarara/hibiyaorihara01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/hibiyaorihara01/climb/climb.gif",
@@ -12490,6 +12613,7 @@
  },
  {
   "character": "hibiyaorihara02",
+  "name": "Hibiya Orihara (2)",
   "thumbnail": "Template_V1/character/durarara/hibiyaorihara02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/hibiyaorihara02/climb/climb.gif",
@@ -12596,6 +12720,7 @@
  },
  {
   "character": "izayaorihara01",
+  "name": "Izaya Orihara",
   "thumbnail": "Template_V1/character/durarara/izayaorihara01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara01/climb/climb.gif",
@@ -12696,6 +12821,7 @@
  },
  {
   "character": "izayaorihara02",
+  "name": "Izaya Orihara (2)",
   "thumbnail": "Template_V1/character/durarara/izayaorihara02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara02/climb/climb.gif",
@@ -12796,6 +12922,7 @@
  },
  {
   "character": "izayaorihara03",
+  "name": "Izaya Orihara (3)",
   "thumbnail": "Template_V1/character/durarara/izayaorihara03/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara03/climb/climb.gif",
@@ -12896,6 +13023,7 @@
  },
  {
   "character": "izayaorihara04",
+  "name": "Izaya Orihara (4)",
   "thumbnail": "Template_V1/character/durarara/izayaorihara04/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara04/climb/climb.gif",
@@ -12996,6 +13124,7 @@
  },
  {
   "character": "izayaorihara05",
+  "name": "Izaya Orihara (5)",
   "thumbnail": "Template_V1/character/durarara/izayaorihara05/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara05/climb/climb.gif",
@@ -13096,6 +13225,7 @@
  },
  {
   "character": "izayaorihara06",
+  "name": "Izaya Orihara (6)",
   "thumbnail": "Template_V1/character/durarara/izayaorihara06/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/izayaorihara06/climb/climb.gif",
@@ -13196,6 +13326,7 @@
  },
  {
   "character": "masaomikida01",
+  "name": "Masaomi Kida",
   "thumbnail": "Template_V1/character/durarara/masaomikida01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/masaomikida01/climb/climb.gif",
@@ -13296,6 +13427,7 @@
  },
  {
   "character": "masaomikida02",
+  "name": "Masaomi Kida (2)",
   "thumbnail": "Template_V1/character/durarara/masaomikida02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/masaomikida02/climb/climb.gif",
@@ -13399,6 +13531,7 @@
  },
  {
   "character": "mikadoryuugamine01",
+  "name": "Mikado Ryuugamine",
   "thumbnail": "Template_V1/character/durarara/mikadoryuugamine01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/mikadoryuugamine01/climb/climb.gif",
@@ -13499,6 +13632,7 @@
  },
  {
   "character": "mikadoryuugamine02",
+  "name": "Mikado Ryuugamine (2)",
   "thumbnail": "Template_V1/character/durarara/mikadoryuugamine02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/mikadoryuugamine02/climb/climb.gif",
@@ -13599,6 +13733,7 @@
  },
  {
   "character": "mikadoryuugamine03",
+  "name": "Mikado Ryuugamine (3)",
   "thumbnail": "Template_V1/character/durarara/mikadoryuugamine03/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/mikadoryuugamine03/climb/climb.gif",
@@ -13699,6 +13834,7 @@
  },
  {
   "character": "mikadoryuugamine04",
+  "name": "Mikado Ryuugamine (4)",
   "thumbnail": "Template_V1/character/durarara/mikadoryuugamine04/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/mikadoryuugamine04/climb/climb.gif",
@@ -13801,6 +13937,7 @@
  },
  {
   "character": "psycheorihara01",
+  "name": "Psyche Orihara",
   "thumbnail": "Template_V1/character/durarara/psycheorihara01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/psycheorihara01/climb/climb.gif",
@@ -13905,6 +14042,7 @@
  },
  {
   "character": "psycheorihara02",
+  "name": "Psyche Orihara (2)",
   "thumbnail": "Template_V1/character/durarara/psycheorihara02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/psycheorihara02/climb/climb.gif",
@@ -14005,6 +14143,7 @@
  },
  {
   "character": "shinrakishitani",
+  "name": "Shinra Kishitani",
   "thumbnail": "Template_V1/character/durarara/shinrakishitani/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shinrakishitani/climb/climb.gif",
@@ -14105,6 +14244,7 @@
  },
  {
   "character": "shizuoandizaya",
+  "name": "Shizuo and Izaya",
   "thumbnail": "Template_V1/character/durarara/shizuoandizaya/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuoandizaya/climb/climb.gif",
@@ -14205,6 +14345,7 @@
  },
  {
   "character": "shizuohejiwama02",
+  "name": "Shizuo Heiwajima",
   "thumbnail": "Template_V1/character/durarara/shizuohejiwama02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuohejiwama02/climb/climb.gif",
@@ -14305,6 +14446,7 @@
  },
  {
   "character": "shizuohejiwama03",
+  "name": "Shizuo Heiwajima (2)",
   "thumbnail": "Template_V1/character/durarara/shizuohejiwama03/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuohejiwama03/climb/climb.gif",
@@ -14405,6 +14547,7 @@
  },
  {
   "character": "shizuohejiwama04",
+  "name": "Shizuo Heiwajima (3)",
   "thumbnail": "Template_V1/character/durarara/shizuohejiwama04/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuohejiwama04/climb/climb.gif",
@@ -14505,6 +14648,7 @@
  },
  {
   "character": "shizuohejiwama05",
+  "name": "Shizuo Heiwajima (4)",
   "thumbnail": "Template_V1/character/durarara/shizuohejiwama05/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuohejiwama05/climb/climb.gif",
@@ -14605,6 +14749,7 @@
  },
  {
   "character": "shizuohejiwamabyvectorsmash",
+  "name": "Shizuo Heiwajima (Vec)",
   "thumbnail": "Template_V1/character/durarara/shizuohejiwamabyvectorsmash/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/shizuohejiwamabyvectorsmash/climb/climb.gif",
@@ -14705,6 +14850,7 @@
  },
  {
   "character": "tsugarukaikyofuyugeshiki01",
+  "name": "Tsugaru",
   "thumbnail": "Template_V1/character/durarara/tsugarukaikyofuyugeshiki01/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/tsugarukaikyofuyugeshiki01/climb/climb.gif",
@@ -14805,6 +14951,7 @@
  },
  {
   "character": "tsugarukaikyofuyugeshiki02",
+  "name": "Tsugaru (2)",
   "thumbnail": "Template_V1/character/durarara/tsugarukaikyofuyugeshiki02/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/durarara/tsugarukaikyofuyugeshiki02/climb/climb.gif",
@@ -14909,6 +15056,7 @@
  },
  {
   "character": "eddbyludmilabb",
+  "name": "Edd",
   "thumbnail": "Template_V1/character/eddsworld/eddbyludmilabb/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/eddbyludmilabb/climb/climb.gif",
@@ -15012,6 +15160,7 @@
  },
  {
   "character": "futureeddbystanxiety",
+  "name": "Edd (Future)",
   "thumbnail": "Template_V1/character/eddsworld/futureeddbystanxiety/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/futureeddbystanxiety/climb/climb.gif",
@@ -15115,6 +15264,7 @@
  },
  {
   "character": "jonbybread",
+  "name": "Jon",
   "thumbnail": "Template_V1/character/eddsworld/jonbybread/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/jonbybread/climb/climb.gif",
@@ -15218,6 +15368,7 @@
  },
  {
   "character": "mattbyludmilabb",
+  "name": "Matt",
   "thumbnail": "Template_V1/character/eddsworld/mattbyludmilabb/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/mattbyludmilabb/climb/climb.gif",
@@ -15321,6 +15472,7 @@
  },
  {
   "character": "paulbybread",
+  "name": "Paul",
   "thumbnail": "Template_V1/character/eddsworld/paulbybread/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/paulbybread/climb/climb.gif",
@@ -15424,6 +15576,7 @@
  },
  {
   "character": "tombywindpoolsarthub",
+  "name": "Tom",
   "thumbnail": "Template_V1/character/eddsworld/tombywindpoolsarthub/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/tombywindpoolsarthub/climb/climb.gif",
@@ -15527,6 +15680,7 @@
  },
  {
   "character": "tordbybiggay",
+  "name": "Tord",
   "thumbnail": "Template_V1/character/eddsworld/tordbybiggay/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/eddsworld/tordbybiggay/climb/climb.gif",
@@ -15630,6 +15784,7 @@
  },
  {
   "character": "erzascarletbymundoshimeji",
+  "name": "Erza Scarlet",
   "thumbnail": "Template_V1/character/fairytail/erzascarletbymundoshimeji/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/erzascarletbymundoshimeji/climb/climb.gif",
@@ -15729,6 +15884,7 @@
  },
  {
   "character": "freed",
+  "name": "Freed",
   "thumbnail": "Template_V1/character/fairytail/freed/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/freed/climb/climb.gif",
@@ -15832,6 +15988,7 @@
  },
  {
   "character": "jackal",
+  "name": "Jackal",
   "thumbnail": "Template_V1/character/fairytail/jackal/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/jackal/climb/climb.gif",
@@ -15932,6 +16089,7 @@
  },
  {
   "character": "natsu",
+  "name": "Natsu",
   "thumbnail": "Template_V1/character/fairytail/natsu/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/natsu/climb/climb.gif",
@@ -16035,6 +16193,7 @@
  },
  {
   "character": "rogue",
+  "name": "Rogue",
   "thumbnail": "Template_V1/character/fairytail/rogue/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/rogue/climb/climb.gif",
@@ -16135,6 +16294,7 @@
  },
  {
   "character": "sting",
+  "name": "Sting",
   "thumbnail": "Template_V1/character/fairytail/sting/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/sting/climb/climb.gif",
@@ -16235,6 +16395,7 @@
  },
  {
   "character": "zeref",
+  "name": "Zeref",
   "thumbnail": "Template_V1/character/fairytail/zeref/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fairytail/zeref/climb/climb.gif",
@@ -16335,6 +16496,7 @@
  },
  {
   "character": "chicabyaxel",
+  "name": "Chica",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/chicabyaxel/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/chicabyaxel/climb/climb.gif",
@@ -16435,6 +16597,7 @@
  },
  {
   "character": "foxybykaychuthegamer",
+  "name": "Foxy",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/foxybykaychuthegamer/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/foxybykaychuthegamer/climb/climb.gif",
@@ -16538,6 +16701,7 @@
  },
  {
   "character": "mangle",
+  "name": "Mangle",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/mangle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/mangle/climb/climb.gif",
@@ -16641,6 +16805,7 @@
  },
  {
   "character": "purpleguyby15yamiko",
+  "name": "Purple Guy",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/purpleguyby15yamiko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/purpleguyby15yamiko/climb/climb.gif",
@@ -16741,6 +16906,7 @@
  },
  {
   "character": "pyrofoxy",
+  "name": "Pyro Foxy",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/pyrofoxy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/pyrofoxy/climb/climb.gif",
@@ -16844,6 +17010,7 @@
  },
  {
   "character": "thepuppetbytransformiceboy",
+  "name": "The Puppet",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/thepuppetbytransformiceboy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/thepuppetbytransformiceboy/climb/climb.gif",
@@ -16947,6 +17114,7 @@
  },
  {
   "character": "toybonnie",
+  "name": "Toy Bonnie",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/toybonnie/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/toybonnie/climb/climb.gif",
@@ -17050,6 +17218,7 @@
  },
  {
   "character": "toybonniebyanimatronicbunny",
+  "name": "Toy Bonnie (Alt)",
   "thumbnail": "Template_V1/character/fivenightsatfreddys/toybonniebyanimatronicbunny/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/fivenightsatfreddys/toybonniebyanimatronicbunny/climb/climb.gif",
@@ -17150,6 +17319,7 @@
  },
  {
   "character": "aetherbytenkotenmeo",
+  "name": "Aether",
   "thumbnail": "Template_V1/character/genshinimpact/aetherbytenkotenmeo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/aetherbytenkotenmeo/climb/climb.gif",
@@ -17253,6 +17423,7 @@
  },
  {
   "character": "albedobyuuteki",
+  "name": "Albedo",
   "thumbnail": "Template_V1/character/genshinimpact/albedobyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/albedobyuuteki/climb/climb.gif",
@@ -17356,6 +17527,7 @@
  },
  {
   "character": "ayakabyuuteki",
+  "name": "Ayaka",
   "thumbnail": "Template_V1/character/genshinimpact/ayakabyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/ayakabyuuteki/climb/climb.gif",
@@ -17459,6 +17631,7 @@
  },
  {
   "character": "childebynemururin",
+  "name": "Childe",
   "thumbnail": "Template_V1/character/genshinimpact/childebynemururin/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/childebynemururin/climb/climb.gif",
@@ -17562,6 +17735,7 @@
  },
  {
   "character": "chongyunbyuuteki",
+  "name": "Chongyun",
   "thumbnail": "Template_V1/character/genshinimpact/chongyunbyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/chongyunbyuuteki/climb/climb.gif",
@@ -17665,6 +17839,7 @@
  },
  {
   "character": "dilucbyvoltuna",
+  "name": "Diluc",
   "thumbnail": "Template_V1/character/genshinimpact/dilucbyvoltuna/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/dilucbyvoltuna/climb/climb.gif",
@@ -17768,6 +17943,7 @@
  },
  {
   "character": "hutaobyuuteki",
+  "name": "Hu Tao",
   "thumbnail": "Template_V1/character/genshinimpact/hutaobyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/hutaobyuuteki/climb/climb.gif",
@@ -17871,6 +18047,7 @@
  },
  {
   "character": "kaeyabyvoltuna",
+  "name": "Kaeya",
   "thumbnail": "Template_V1/character/genshinimpact/kaeyabyvoltuna/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/kaeyabyvoltuna/climb/climb.gif",
@@ -17974,6 +18151,7 @@
  },
  {
   "character": "kazuhabyuuteki",
+  "name": "Kazuha",
   "thumbnail": "Template_V1/character/genshinimpact/kazuhabyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/kazuhabyuuteki/climb/climb.gif",
@@ -18077,6 +18255,7 @@
  },
  {
   "character": "kleebyuuteki",
+  "name": "Klee",
   "thumbnail": "Template_V1/character/genshinimpact/kleebyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/kleebyuuteki/climb/climb.gif",
@@ -18180,6 +18359,7 @@
  },
  {
   "character": "luminebymarcia",
+  "name": "Lumine",
   "thumbnail": "Template_V1/character/genshinimpact/luminebymarcia/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/luminebymarcia/climb/climb.gif",
@@ -18283,6 +18463,7 @@
  },
  {
   "character": "razorbybatsouppe",
+  "name": "Razor",
   "thumbnail": "Template_V1/character/genshinimpact/razorbybatsouppe/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/razorbybatsouppe/climb/climb.gif",
@@ -18386,6 +18567,7 @@
  },
  {
   "character": "thomabyuuteki",
+  "name": "Thoma",
   "thumbnail": "Template_V1/character/genshinimpact/thomabyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/thomabyuuteki/climb/climb.gif",
@@ -18489,6 +18671,7 @@
  },
  {
   "character": "ventibysayonarakuro",
+  "name": "Venti",
   "thumbnail": "Template_V1/character/genshinimpact/ventibysayonarakuro/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/ventibysayonarakuro/climb/climb.gif",
@@ -18592,6 +18775,7 @@
  },
  {
   "character": "ventibyuuteki",
+  "name": "Venti (Alt)",
   "thumbnail": "Template_V1/character/genshinimpact/ventibyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/ventibyuuteki/climb/climb.gif",
@@ -18695,6 +18879,7 @@
  },
  {
   "character": "xiaobytachipng",
+  "name": "Xiao",
   "thumbnail": "Template_V1/character/genshinimpact/xiaobytachipng/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/xiaobytachipng/climb/climb.gif",
@@ -18798,6 +18983,7 @@
  },
  {
   "character": "xiaocatboybyuuteki",
+  "name": "Xiao (Catboy)",
   "thumbnail": "Template_V1/character/genshinimpact/xiaocatboybyuuteki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/xiaocatboybyuuteki/climb/climb.gif",
@@ -18901,6 +19087,7 @@
  },
  {
   "character": "zhonglibyvoltuna",
+  "name": "Zhongli",
   "thumbnail": "Template_V1/character/genshinimpact/zhonglibyvoltuna/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/genshinimpact/zhonglibyvoltuna/climb/climb.gif",
@@ -19004,6 +19191,7 @@
  },
  {
   "character": "billcipher",
+  "name": "Bill Cipher",
   "thumbnail": "Template_V1/character/gravityfalls/billcipher/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/gravityfalls/billcipher/climb/climb.gif",
@@ -19104,6 +19292,7 @@
  },
  {
   "character": "mabelpines",
+  "name": "Mabel Pines",
   "thumbnail": "Template_V1/character/gravityfalls/mabelpines/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/gravityfalls/mabelpines/climb/climb.gif",
@@ -19207,6 +19396,7 @@
  },
  {
   "character": "blankguy",
+  "name": "Blank Guy",
   "thumbnail": "Template_V1/character/groupfinity/blankguy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/groupfinity/blankguy/climb/climb.gif",
@@ -19310,6 +19500,7 @@
  },
  {
   "character": "americabystephodell",
+  "name": "America",
   "thumbnail": "Template_V1/character/hetalia/americabystephodell/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/americabystephodell/climb/climb.gif",
@@ -19413,6 +19604,7 @@
  },
  {
   "character": "austriabytionnedawnstar",
+  "name": "Austria",
   "thumbnail": "Template_V1/character/hetalia/austriabytionnedawnstar/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/austriabytionnedawnstar/climb/climb.gif",
@@ -19513,6 +19705,7 @@
  },
  {
   "character": "belarusbyuncutadventure",
+  "name": "Belarus",
   "thumbnail": "Template_V1/character/hetalia/belarusbyuncutadventure/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/belarusbyuncutadventure/climb/climb.gif",
@@ -19613,6 +19806,7 @@
  },
  {
   "character": "belgiumbycutecorpseboy",
+  "name": "Belgium",
   "thumbnail": "Template_V1/character/hetalia/belgiumbycutecorpseboy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/belgiumbycutecorpseboy/climb/climb.gif",
@@ -19713,6 +19907,7 @@
  },
  {
   "character": "canadabystephodell",
+  "name": "Canada",
   "thumbnail": "Template_V1/character/hetalia/canadabystephodell/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/canadabystephodell/climb/climb.gif",
@@ -19813,6 +20008,7 @@
  },
  {
   "character": "chinabynumber11train",
+  "name": "China",
   "thumbnail": "Template_V1/character/hetalia/chinabynumber11train/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/chinabynumber11train/climb/climb.gif",
@@ -19913,6 +20109,7 @@
  },
  {
   "character": "denmark",
+  "name": "Denmark",
   "thumbnail": "Template_V1/character/hetalia/denmark/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/denmark/climb/climb.gif",
@@ -20013,6 +20210,7 @@
  },
  {
   "character": "englandbydolunaylupus",
+  "name": "England",
   "thumbnail": "Template_V1/character/hetalia/englandbydolunaylupus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/englandbydolunaylupus/climb/climb.gif",
@@ -20113,6 +20311,7 @@
  },
  {
   "character": "estoniabydjiinraidinnae",
+  "name": "Estonia",
   "thumbnail": "Template_V1/character/hetalia/estoniabydjiinraidinnae/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/estoniabydjiinraidinnae/climb/climb.gif",
@@ -20216,6 +20415,7 @@
  },
  {
   "character": "finlandbyjorael",
+  "name": "Finland",
   "thumbnail": "Template_V1/character/hetalia/finlandbyjorael/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/finlandbyjorael/climb/climb.gif",
@@ -20316,6 +20516,7 @@
  },
  {
   "character": "francebyhetagarnet",
+  "name": "France",
   "thumbnail": "Template_V1/character/hetalia/francebyhetagarnet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/francebyhetagarnet/climb/climb.gif",
@@ -20416,6 +20617,7 @@
  },
  {
   "character": "germanybyanimatedpretzel",
+  "name": "Germany",
   "thumbnail": "Template_V1/character/hetalia/germanybyanimatedpretzel/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/germanybyanimatedpretzel/climb/climb.gif",
@@ -20516,6 +20718,7 @@
  },
  {
   "character": "greecebyspeedxaaa",
+  "name": "Greece",
   "thumbnail": "Template_V1/character/hetalia/greecebyspeedxaaa/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/greecebyspeedxaaa/climb/climb.gif",
@@ -20616,6 +20819,7 @@
  },
  {
   "character": "hongkongbyazurethepanda",
+  "name": "Hong Kong",
   "thumbnail": "Template_V1/character/hetalia/hongkongbyazurethepanda/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/hongkongbyazurethepanda/climb/climb.gif",
@@ -20716,6 +20920,7 @@
  },
  {
   "character": "hrebykougasan",
+  "name": "Holy Roman Empire",
   "thumbnail": "Template_V1/character/hetalia/hrebykougasan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/hrebykougasan/climb/climb.gif",
@@ -20816,6 +21021,7 @@
  },
  {
   "character": "hungarybyamandytheace",
+  "name": "Hungary",
   "thumbnail": "Template_V1/character/hetalia/hungarybyamandytheace/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/hungarybyamandytheace/climb/climb.gif",
@@ -20919,6 +21125,7 @@
  },
  {
   "character": "icelandbyhetagarnet",
+  "name": "Iceland",
   "thumbnail": "Template_V1/character/hetalia/icelandbyhetagarnet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/icelandbyhetagarnet/climb/climb.gif",
@@ -21019,6 +21226,7 @@
  },
  {
   "character": "italybylunaticmao",
+  "name": "Italy",
   "thumbnail": "Template_V1/character/hetalia/italybylunaticmao/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/italybylunaticmao/climb/climb.gif",
@@ -21122,6 +21330,7 @@
  },
  {
   "character": "japan",
+  "name": "Japan",
   "thumbnail": "Template_V1/character/hetalia/japan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/japan/climb/climb.gif",
@@ -21222,6 +21431,7 @@
  },
  {
   "character": "kugelmugelbyrussiaromano",
+  "name": "Kugelmugel",
   "thumbnail": "Template_V1/character/hetalia/kugelmugelbyrussiaromano/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/kugelmugelbyrussiaromano/climb/climb.gif",
@@ -21322,6 +21532,7 @@
  },
  {
   "character": "latviabyrussiaromano",
+  "name": "Latvia",
   "thumbnail": "Template_V1/character/hetalia/latviabyrussiaromano/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/latviabyrussiaromano/climb/climb.gif",
@@ -21425,6 +21636,7 @@
  },
  {
   "character": "liechtenstein",
+  "name": "Liechtenstein",
   "thumbnail": "Template_V1/character/hetalia/liechtenstein/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/liechtenstein/climb/climb.gif",
@@ -21525,6 +21737,7 @@
  },
  {
   "character": "lithuaniabyothila",
+  "name": "Lithuania",
   "thumbnail": "Template_V1/character/hetalia/lithuaniabyothila/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/lithuaniabyothila/climb/climb.gif",
@@ -21625,6 +21838,7 @@
  },
  {
   "character": "netherlandsbyuncutadventure",
+  "name": "Netherlands",
   "thumbnail": "Template_V1/character/hetalia/netherlandsbyuncutadventure/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/netherlandsbyuncutadventure/climb/climb.gif",
@@ -21725,6 +21939,7 @@
  },
  {
   "character": "norwaybyhetagarnet",
+  "name": "Norway",
   "thumbnail": "Template_V1/character/hetalia/norwaybyhetagarnet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/norwaybyhetagarnet/climb/climb.gif",
@@ -21825,6 +22040,7 @@
  },
  {
   "character": "polandbyhetagarnet",
+  "name": "Poland",
   "thumbnail": "Template_V1/character/hetalia/polandbyhetagarnet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/polandbyhetagarnet/climb/climb.gif",
@@ -21925,6 +22141,7 @@
  },
  {
   "character": "prussiabyachros",
+  "name": "Prussia",
   "thumbnail": "Template_V1/character/hetalia/prussiabyachros/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/prussiabyachros/climb/climb.gif",
@@ -22025,6 +22242,7 @@
  },
  {
   "character": "romanobyenigmaecstatic",
+  "name": "Romano",
   "thumbnail": "Template_V1/character/hetalia/romanobyenigmaecstatic/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/romanobyenigmaecstatic/climb/climb.gif",
@@ -22128,6 +22346,7 @@
  },
  {
   "character": "russiabysetsusama",
+  "name": "Russia",
   "thumbnail": "Template_V1/character/hetalia/russiabysetsusama/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/russiabysetsusama/climb/climb.gif",
@@ -22228,6 +22447,7 @@
  },
  {
   "character": "scotlandbyswallownotsubasa",
+  "name": "Scotland",
   "thumbnail": "Template_V1/character/hetalia/scotlandbyswallownotsubasa/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/scotlandbyswallownotsubasa/climb/climb.gif",
@@ -22328,6 +22548,7 @@
  },
  {
   "character": "sealandbymewcherrii",
+  "name": "Sealand",
   "thumbnail": "Template_V1/character/hetalia/sealandbymewcherrii/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/sealandbymewcherrii/climb/climb.gif",
@@ -22431,6 +22652,7 @@
  },
  {
   "character": "seychellesbychocosrawloid",
+  "name": "Seychelles",
   "thumbnail": "Template_V1/character/hetalia/seychellesbychocosrawloid/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/seychellesbychocosrawloid/climb/climb.gif",
@@ -22531,6 +22753,7 @@
  },
  {
   "character": "southkoreabynakabakachan",
+  "name": "South Korea",
   "thumbnail": "Template_V1/character/hetalia/southkoreabynakabakachan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/southkoreabynakabakachan/climb/climb.gif",
@@ -22631,6 +22854,7 @@
  },
  {
   "character": "spainbyorochimaru",
+  "name": "Spain",
   "thumbnail": "Template_V1/character/hetalia/spainbyorochimaru/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/spainbyorochimaru/climb/climb.gif",
@@ -22731,6 +22955,7 @@
  },
  {
   "character": "swedenbyjacyll",
+  "name": "Sweden",
   "thumbnail": "Template_V1/character/hetalia/swedenbyjacyll/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/swedenbyjacyll/climb/climb.gif",
@@ -22831,6 +23056,7 @@
  },
  {
   "character": "switzerlandbychibispain",
+  "name": "Switzerland",
   "thumbnail": "Template_V1/character/hetalia/switzerlandbychibispain/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/switzerlandbychibispain/climb/climb.gif",
@@ -22931,6 +23157,7 @@
  },
  {
   "character": "thailandbyzilchat",
+  "name": "Thailand",
   "thumbnail": "Template_V1/character/hetalia/thailandbyzilchat/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/thailandbyzilchat/climb/climb.gif",
@@ -23031,6 +23258,7 @@
  },
  {
   "character": "vietnam",
+  "name": "Vietnam",
   "thumbnail": "Template_V1/character/hetalia/vietnam/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hetalia/vietnam/climb/climb.gif",
@@ -23131,6 +23359,7 @@
  },
  {
   "character": "davestrider",
+  "name": "Dave Strider",
   "thumbnail": "Template_V1/character/homestuck/davestrider/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/davestrider/climb/climb.gif",
@@ -23231,6 +23460,7 @@
  },
  {
   "character": "equius",
+  "name": "Equius",
   "thumbnail": "Template_V1/character/homestuck/equius/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/equius/climb/climb.gif",
@@ -23331,6 +23561,7 @@
  },
  {
   "character": "eridan",
+  "name": "Eridan",
   "thumbnail": "Template_V1/character/homestuck/eridan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/eridan/climb/climb.gif",
@@ -23431,6 +23662,7 @@
  },
  {
   "character": "feferi",
+  "name": "Feferi",
   "thumbnail": "Template_V1/character/homestuck/feferi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/feferi/climb/climb.gif",
@@ -23531,6 +23763,7 @@
  },
  {
   "character": "gamzeemakarabyminicow",
+  "name": "Gamzee",
   "thumbnail": "Template_V1/character/homestuck/gamzeemakarabyminicow/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/gamzeemakarabyminicow/climb/climb.gif",
@@ -23634,6 +23867,7 @@
  },
  {
   "character": "kanaya",
+  "name": "Kanaya",
   "thumbnail": "Template_V1/character/homestuck/kanaya/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/kanaya/climb/climb.gif",
@@ -23734,6 +23968,7 @@
  },
  {
   "character": "sollux",
+  "name": "Sollux",
   "thumbnail": "Template_V1/character/homestuck/sollux/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/sollux/climb/climb.gif",
@@ -23834,6 +24069,7 @@
  },
  {
   "character": "terezi",
+  "name": "Terezi",
   "thumbnail": "Template_V1/character/homestuck/terezi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/terezi/climb/climb.gif",
@@ -23937,6 +24173,7 @@
  },
  {
   "character": "vriska",
+  "name": "Vriska",
   "thumbnail": "Template_V1/character/homestuck/vriska/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/homestuck/vriska/climb/climb.gif",
@@ -24037,6 +24274,7 @@
  },
  {
   "character": "killua",
+  "name": "Killua",
   "thumbnail": "Template_V1/character/hunterxhunter/killua/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/hunterxhunter/killua/climb/climb.gif",
@@ -24141,6 +24379,7 @@
  },
  {
   "character": "pennywisebyspidertoast",
+  "name": "Pennywise",
   "thumbnail": "Template_V1/character/it2017/pennywisebyspidertoast/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/it2017/pennywisebyspidertoast/climb/climb.gif",
@@ -24246,6 +24485,7 @@
  },
  {
   "character": "dio",
+  "name": "Dio",
   "thumbnail": "Template_V1/character/jojosbizarreadventure/dio/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/jojosbizarreadventure/dio/climb/climb.gif",
@@ -24346,6 +24586,7 @@
  },
  {
   "character": "kakyoinnoriakibykibstar",
+  "name": "Kakyoin",
   "thumbnail": "Template_V1/character/jojosbizarreadventure/kakyoinnoriakibykibstar/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/jojosbizarreadventure/kakyoinnoriakibykibstar/climb/climb.gif",
@@ -24449,6 +24690,7 @@
  },
  {
   "character": "aqua",
+  "name": "Aqua",
   "thumbnail": "Template_V1/character/kingdomhearts/aqua/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/aqua/climb/climb.gif",
@@ -24549,6 +24791,7 @@
  },
  {
   "character": "axel",
+  "name": "Axel",
   "thumbnail": "Template_V1/character/kingdomhearts/axel/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/axel/climb/climb.gif",
@@ -24652,6 +24895,7 @@
  },
  {
   "character": "demyx",
+  "name": "Demyx",
   "thumbnail": "Template_V1/character/kingdomhearts/demyx/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/demyx/climb/climb.gif",
@@ -24755,6 +24999,7 @@
  },
  {
   "character": "ienzo",
+  "name": "Ienzo",
   "thumbnail": "Template_V1/character/kingdomhearts/ienzo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/ienzo/climb/climb.gif",
@@ -24855,6 +25100,7 @@
  },
  {
   "character": "riku",
+  "name": "Riku",
   "thumbnail": "Template_V1/character/kingdomhearts/riku/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/riku/climb/climb.gif",
@@ -24955,6 +25201,7 @@
  },
  {
   "character": "roxas",
+  "name": "Roxas",
   "thumbnail": "Template_V1/character/kingdomhearts/roxas/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/roxas/climb/climb.gif",
@@ -25055,6 +25302,7 @@
  },
  {
   "character": "sora",
+  "name": "Sora",
   "thumbnail": "Template_V1/character/kingdomhearts/sora/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/sora/climb/climb.gif",
@@ -25168,6 +25416,7 @@
  },
  {
   "character": "terra",
+  "name": "Terra",
   "thumbnail": "Template_V1/character/kingdomhearts/terra/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/terra/climb/climb.gif",
@@ -25268,6 +25517,7 @@
  },
  {
   "character": "vanitas",
+  "name": "Vanitas",
   "thumbnail": "Template_V1/character/kingdomhearts/vanitas/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/vanitas/climb/climb.gif",
@@ -25368,6 +25618,7 @@
  },
  {
   "character": "xemnas",
+  "name": "Xemnas",
   "thumbnail": "Template_V1/character/kingdomhearts/xemnas/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/kingdomhearts/xemnas/climb/climb.gif",
@@ -25468,6 +25719,7 @@
  },
  {
   "character": "bowserbydivadon",
+  "name": "Bowser",
   "thumbnail": "Template_V1/character/mario/bowserbydivadon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mario/bowserbydivadon/climb/climb.gif",
@@ -25571,6 +25823,7 @@
  },
  {
   "character": "luigibyyourlocalgamer",
+  "name": "Luigi",
   "thumbnail": "Template_V1/character/mario/luigibyyourlocalgamer/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mario/luigibyyourlocalgamer/climb/climb.gif",
@@ -25674,6 +25927,7 @@
  },
  {
   "character": "mariobydivadon",
+  "name": "Mario",
   "thumbnail": "Template_V1/character/mario/mariobydivadon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mario/mariobydivadon/climb/climb.gif",
@@ -25777,6 +26031,7 @@
  },
  {
   "character": "peachbydivadon",
+  "name": "Peach",
   "thumbnail": "Template_V1/character/mario/peachbydivadon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mario/peachbydivadon/climb/climb.gif",
@@ -25880,6 +26135,7 @@
  },
  {
   "character": "yoshibycachomon",
+  "name": "Yoshi",
   "thumbnail": "Template_V1/character/mario/yoshibycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mario/yoshibycachomon/climb/climb.gif",
@@ -25983,6 +26239,7 @@
  },
  {
   "character": "megamanbynicolamariayoung",
+  "name": "Mega Man",
   "thumbnail": "Template_V1/character/megaman/megamanbynicolamariayoung/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/megaman/megamanbynicolamariayoung/climb/climb.gif",
@@ -26112,6 +26369,7 @@
  },
  {
   "character": "catnoirbydragonzwhisperer",
+  "name": "Cat Noir",
   "thumbnail": "Template_V1/character/miraculous/catnoirbydragonzwhisperer/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/miraculous/catnoirbydragonzwhisperer/climb/climb.gif",
@@ -26215,6 +26473,7 @@
  },
  {
   "character": "ladybugbykicoma",
+  "name": "Ladybug",
   "thumbnail": "Template_V1/character/miraculous/ladybugbykicoma/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/miraculous/ladybugbykicoma/climb/climb.gif",
@@ -26318,6 +26577,7 @@
  },
  {
   "character": "bobbryarbyfloorsucker",
+  "name": "Bob Bryar",
   "thumbnail": "Template_V1/character/mychemicalromance/bobbryarbyfloorsucker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mychemicalromance/bobbryarbyfloorsucker/climb/climb.gif",
@@ -26434,6 +26694,7 @@
  },
  {
   "character": "frankierobyfloorsucker",
+  "name": "Frank Iero",
   "thumbnail": "Template_V1/character/mychemicalromance/frankierobyfloorsucker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mychemicalromance/frankierobyfloorsucker/climb/climb.gif",
@@ -26550,6 +26811,7 @@
  },
  {
   "character": "gerardwaybyfloorsucker",
+  "name": "Gerard Way",
   "thumbnail": "Template_V1/character/mychemicalromance/gerardwaybyfloorsucker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mychemicalromance/gerardwaybyfloorsucker/climb/climb.gif",
@@ -26665,6 +26927,7 @@
  },
  {
   "character": "mikeywaybyfloorsucker",
+  "name": "Mikey Way",
   "thumbnail": "Template_V1/character/mychemicalromance/mikeywaybyfloorsucker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mychemicalromance/mikeywaybyfloorsucker/climb/climb.gif",
@@ -26781,6 +27044,7 @@
  },
  {
   "character": "raytorobyfloorsucker",
+  "name": "Ray Toro",
   "thumbnail": "Template_V1/character/mychemicalromance/raytorobyfloorsucker/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mychemicalromance/raytorobyfloorsucker/climb/climb.gif",
@@ -26897,6 +27161,7 @@
  },
  {
   "character": "katsukibakugokacchanbysuperevey",
+  "name": "Katsuki Bakugo",
   "thumbnail": "Template_V1/character/myheroacademia/katsukibakugokacchanbysuperevey/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/katsukibakugokacchanbysuperevey/climb/climb.gif",
@@ -27014,6 +27279,7 @@
  },
  {
   "character": "keigotakamiwingherohawksbykadeart",
+  "name": "Hawks",
   "thumbnail": "Template_V1/character/myheroacademia/keigotakamiwingherohawksbykadeart/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/keigotakamiwingherohawksbykadeart/climb/climb.gif",
@@ -27117,6 +27383,7 @@
  },
  {
   "character": "ochakourarakauravitybysuperevey",
+  "name": "Ochaco Uraraka",
   "thumbnail": "Template_V1/character/myheroacademia/ochakourarakauravitybysuperevey/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/ochakourarakauravitybysuperevey/climb/climb.gif",
@@ -27228,6 +27495,7 @@
  },
  {
   "character": "shotaaizawaeraserheadbyquietsilenceus",
+  "name": "Eraser Head",
   "thumbnail": "Template_V1/character/myheroacademia/shotaaizawaeraserheadbyquietsilenceus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/shotaaizawaeraserheadbyquietsilenceus/climb/climb.gif",
@@ -27331,6 +27599,7 @@
  },
  {
   "character": "tenkoshimuratomurashigarakibymillkytoons",
+  "name": "Tomura Shigaraki",
   "thumbnail": "Template_V1/character/myheroacademia/tenkoshimuratomurashigarakibymillkytoons/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/tenkoshimuratomurashigarakibymillkytoons/climb/climb.gif",
@@ -27434,6 +27703,7 @@
  },
  {
   "character": "toshinoriyagiallmightbymichi",
+  "name": "All Might",
   "thumbnail": "Template_V1/character/myheroacademia/toshinoriyagiallmightbymichi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/myheroacademia/toshinoriyagiallmightbymichi/climb/climb.gif",
@@ -27537,6 +27807,7 @@
  },
  {
   "character": "707byembercl",
+  "name": "707",
   "thumbnail": "Template_V1/character/mysticmessenger/707byembercl/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mysticmessenger/707byembercl/climb/climb.gif",
@@ -27637,6 +27908,7 @@
  },
  {
   "character": "707byhzokkiart",
+  "name": "707 (Alt)",
   "thumbnail": "Template_V1/character/mysticmessenger/707byhzokkiart/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/mysticmessenger/707byhzokkiart/climb/climb.gif",
@@ -27740,6 +28012,7 @@
  },
  {
   "character": "deidara",
+  "name": "Deidara",
   "thumbnail": "Template_V1/character/naruto/deidara/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/deidara/climb/climb.gif",
@@ -27840,6 +28113,7 @@
  },
  {
   "character": "gaara",
+  "name": "Gaara",
   "thumbnail": "Template_V1/character/naruto/gaara/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/gaara/climb/climb.gif",
@@ -27943,6 +28217,7 @@
  },
  {
   "character": "hidan",
+  "name": "Hidan",
   "thumbnail": "Template_V1/character/naruto/hidan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/hidan/climb/climb.gif",
@@ -28046,6 +28321,7 @@
  },
  {
   "character": "hinata",
+  "name": "Hinata",
   "thumbnail": "Template_V1/character/naruto/hinata/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/hinata/climb/climb.gif",
@@ -28146,6 +28422,7 @@
  },
  {
   "character": "kakashi",
+  "name": "Kakashi",
   "thumbnail": "Template_V1/character/naruto/kakashi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/kakashi/climb/climb.gif",
@@ -28246,6 +28523,7 @@
  },
  {
   "character": "narutouzumaki",
+  "name": "Naruto Uzumaki",
   "thumbnail": "Template_V1/character/naruto/narutouzumaki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/narutouzumaki/climb/climb.gif",
@@ -28349,6 +28627,7 @@
  },
  {
   "character": "neji",
+  "name": "Neji",
   "thumbnail": "Template_V1/character/naruto/neji/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/neji/climb/climb.gif",
@@ -28458,6 +28737,7 @@
  },
  {
   "character": "pein",
+  "name": "Pain",
   "thumbnail": "Template_V1/character/naruto/pein/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/pein/climb/climb.gif",
@@ -28558,6 +28838,7 @@
  },
  {
   "character": "sasori",
+  "name": "Sasori",
   "thumbnail": "Template_V1/character/naruto/sasori/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/sasori/climb/climb.gif",
@@ -28658,6 +28939,7 @@
  },
  {
   "character": "sasuke",
+  "name": "Sasuke",
   "thumbnail": "Template_V1/character/naruto/sasuke/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/naruto/sasuke/climb/climb.gif",
@@ -28761,6 +29043,7 @@
  },
  {
   "character": "angusbyfoxofnope",
+  "name": "Angus",
   "thumbnail": "Template_V1/character/nightinthewoods/angusbyfoxofnope/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/nightinthewoods/angusbyfoxofnope/climb/climb.gif",
@@ -28864,6 +29147,7 @@
  },
  {
   "character": "beabyfoxofnope",
+  "name": "Bea",
   "thumbnail": "Template_V1/character/nightinthewoods/beabyfoxofnope/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/nightinthewoods/beabyfoxofnope/climb/climb.gif",
@@ -28967,6 +29251,7 @@
  },
  {
   "character": "greggbyfoxofnope",
+  "name": "Gregg",
   "thumbnail": "Template_V1/character/nightinthewoods/greggbyfoxofnope/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/nightinthewoods/greggbyfoxofnope/climb/climb.gif",
@@ -29070,6 +29355,7 @@
  },
  {
   "character": "maebyfoxofnope",
+  "name": "Mae",
   "thumbnail": "Template_V1/character/nightinthewoods/maebyfoxofnope/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/nightinthewoods/maebyfoxofnope/climb/climb.gif",
@@ -29173,6 +29459,7 @@
  },
  {
   "character": "onepiece_ace",
+  "name": "Ace",
   "thumbnail": "Template_V1/character/onepiece/ace/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/ace/climb/climb.gif",
@@ -29273,6 +29560,7 @@
  },
  {
   "character": "bepo",
+  "name": "Bepo",
   "thumbnail": "Template_V1/character/onepiece/bepo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/bepo/climb/climb.gif",
@@ -29373,6 +29661,7 @@
  },
  {
   "character": "cass",
+  "name": "Cass",
   "thumbnail": "Template_V1/character/onepiece/cass/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/cass/climb/climb.gif",
@@ -29473,6 +29762,7 @@
  },
  {
   "character": "croc",
+  "name": "Crocodile",
   "thumbnail": "Template_V1/character/onepiece/croc/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/croc/climb/climb.gif",
@@ -29573,6 +29863,7 @@
  },
  {
   "character": "dofla",
+  "name": "Doflamingo",
   "thumbnail": "Template_V1/character/onepiece/dofla/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/dofla/climb/climb.gif",
@@ -29673,6 +29964,7 @@
  },
  {
   "character": "kidd",
+  "name": "Eustass Kid",
   "thumbnail": "Template_V1/character/onepiece/kidd/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/kidd/climb/climb.gif",
@@ -29773,6 +30065,7 @@
  },
  {
   "character": "law",
+  "name": "Trafalgar Law",
   "thumbnail": "Template_V1/character/onepiece/law/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/law/climb/climb.gif",
@@ -29873,6 +30166,7 @@
  },
  {
   "character": "lucci",
+  "name": "Rob Lucci",
   "thumbnail": "Template_V1/character/onepiece/lucci/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/lucci/climb/climb.gif",
@@ -29973,6 +30267,7 @@
  },
  {
   "character": "luffy",
+  "name": "Luffy",
   "thumbnail": "Template_V1/character/onepiece/luffy/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/luffy/climb/climb.gif",
@@ -30073,6 +30368,7 @@
  },
  {
   "character": "marco",
+  "name": "Marco",
   "thumbnail": "Template_V1/character/onepiece/marco/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/marco/climb/climb.gif",
@@ -30173,6 +30469,7 @@
  },
  {
   "character": "mihawk",
+  "name": "Mihawk",
   "thumbnail": "Template_V1/character/onepiece/mihawk/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/mihawk/climb/climb.gif",
@@ -30273,6 +30570,7 @@
  },
  {
   "character": "zoro",
+  "name": "Zoro",
   "thumbnail": "Template_V1/character/onepiece/zoro/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepiece/zoro/climb/climb.gif",
@@ -30373,6 +30671,7 @@
  },
  {
   "character": "genos",
+  "name": "Genos",
   "thumbnail": "Template_V1/character/onepunchman/genos/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepunchman/genos/climb/climb.gif",
@@ -30473,6 +30772,7 @@
  },
  {
   "character": "saitama",
+  "name": "Saitama",
   "thumbnail": "Template_V1/character/onepunchman/saitama/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepunchman/saitama/climb/climb.gif",
@@ -30573,6 +30873,7 @@
  },
  {
   "character": "onepunchman_sonic",
+  "name": "Speed-of-Sound Sonic",
   "thumbnail": "Template_V1/character/onepunchman/sonic/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/onepunchman/sonic/climb/climb.gif",
@@ -30673,6 +30974,7 @@
  },
  {
   "character": "choromatsumatsunobyemmmm",
+  "name": "Choromatsu",
   "thumbnail": "Template_V1/character/osomatsusan/choromatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/choromatsumatsunobyemmmm/climb/climb.gif",
@@ -30776,6 +31078,7 @@
  },
  {
   "character": "ichimatsumatsunobyemmmm",
+  "name": "Ichimatsu",
   "thumbnail": "Template_V1/character/osomatsusan/ichimatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/ichimatsumatsunobyemmmm/climb/climb.gif",
@@ -30879,6 +31182,7 @@
  },
  {
   "character": "jyuushimatsumatsunobyemmmm",
+  "name": "Jyushimatsu",
   "thumbnail": "Template_V1/character/osomatsusan/jyuushimatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/jyuushimatsumatsunobyemmmm/climb/climb.gif",
@@ -30982,6 +31286,7 @@
  },
  {
   "character": "karamatsumatsunobyemmmm",
+  "name": "Karamatsu",
   "thumbnail": "Template_V1/character/osomatsusan/karamatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/karamatsumatsunobyemmmm/climb/climb.gif",
@@ -31085,6 +31390,7 @@
  },
  {
   "character": "osomatsumatsunobyemmmm",
+  "name": "Osomatsu",
   "thumbnail": "Template_V1/character/osomatsusan/osomatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/osomatsumatsunobyemmmm/climb/climb.gif",
@@ -31188,6 +31494,7 @@
  },
  {
   "character": "todomatsumatsunobyemmmm",
+  "name": "Todomatsu",
   "thumbnail": "Template_V1/character/osomatsusan/todomatsumatsunobyemmmm/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/osomatsusan/todomatsumatsunobyemmmm/climb/climb.gif",
@@ -31291,6 +31598,7 @@
  },
  {
   "character": "danielhowell",
+  "name": "Daniel Howell",
   "thumbnail": "Template_V1/character/persons/danielhowell/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/danielhowell/climb/climb.gif",
@@ -31407,6 +31715,7 @@
  },
  {
   "character": "jacksepticeyebyzyrvix",
+  "name": "Jacksepticeye",
   "thumbnail": "Template_V1/character/persons/jacksepticeyebyzyrvix/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/jacksepticeyebyzyrvix/climb/climb.gif",
@@ -31510,6 +31819,7 @@
  },
  {
   "character": "linkbyjannelleo",
+  "name": "Link Neal",
   "thumbnail": "Template_V1/character/persons/linkbyjannelleo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/linkbyjannelleo/climb/climb.gif",
@@ -31613,6 +31923,7 @@
  },
  {
   "character": "markiplierbysoapypnutwaffle",
+  "name": "Markiplier",
   "thumbnail": "Template_V1/character/persons/markiplierbysoapypnutwaffle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/markiplierbysoapypnutwaffle/climb/climb.gif",
@@ -31713,6 +32024,7 @@
  },
  {
   "character": "pewdiepiebyhexakowka",
+  "name": "PewDiePie",
   "thumbnail": "Template_V1/character/persons/pewdiepiebyhexakowka/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/pewdiepiebyhexakowka/climb/climb.gif",
@@ -31813,6 +32125,7 @@
  },
  {
   "character": "phillester",
+  "name": "Phil Lester",
   "thumbnail": "Template_V1/character/persons/phillester/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/phillester/climb/climb.gif",
@@ -31929,6 +32242,7 @@
  },
  {
   "character": "rhettbyjannelleo",
+  "name": "Rhett McLaughlin",
   "thumbnail": "Template_V1/character/persons/rhettbyjannelleo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/persons/rhettbyjannelleo/climb/climb.gif",
@@ -32032,6 +32346,7 @@
  },
  {
   "character": "ampharosbykrokus",
+  "name": "Ampharos",
   "thumbnail": "Template_V1/character/pokemon/ampharosbykrokus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/ampharosbykrokus/climb/climb.gif",
@@ -32132,6 +32447,7 @@
  },
  {
   "character": "archenbymandarthemousey",
+  "name": "Archen",
   "thumbnail": "Template_V1/character/pokemon/archenbymandarthemousey/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/archenbymandarthemousey/climb/climb.gif",
@@ -32235,6 +32551,7 @@
  },
  {
   "character": "armaldobydeadendking",
+  "name": "Armaldo",
   "thumbnail": "Template_V1/character/pokemon/armaldobydeadendking/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/armaldobydeadendking/climb/climb.gif",
@@ -32338,6 +32655,7 @@
  },
  {
   "character": "chandelurebyrozenmaidengirl",
+  "name": "Chandelure",
   "thumbnail": "Template_V1/character/pokemon/chandelurebyrozenmaidengirl/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/chandelurebyrozenmaidengirl/climb/climb.gif",
@@ -32444,6 +32762,7 @@
  },
  {
   "character": "charmanderbycachomon",
+  "name": "Charmander",
   "thumbnail": "Template_V1/character/pokemon/charmanderbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/charmanderbycachomon/climb/climb.gif",
@@ -32547,6 +32866,7 @@
  },
  {
   "character": "clefablebysparkus",
+  "name": "Clefable",
   "thumbnail": "Template_V1/character/pokemon/clefablebysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/clefablebysparkus/climb/climb.gif",
@@ -32647,6 +32967,7 @@
  },
  {
   "character": "crobatbysparkusthunderbolt",
+  "name": "Crobat",
   "thumbnail": "Template_V1/character/pokemon/crobatbysparkusthunderbolt/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/crobatbysparkusthunderbolt/climb/climb.gif",
@@ -32747,6 +33068,7 @@
  },
  {
   "character": "cumceonbycachomon",
+  "name": "Cumceon",
   "thumbnail": "Template_V1/character/pokemon/cumceonbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/cumceonbycachomon/climb/climb.gif",
@@ -32850,6 +33172,7 @@
  },
  {
   "character": "dewottbywupar",
+  "name": "Dewott",
   "thumbnail": "Template_V1/character/pokemon/dewottbywupar/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/dewottbywupar/climb/climb.gif",
@@ -32953,6 +33276,7 @@
  },
  {
   "character": "drifloonbytomatebleuet",
+  "name": "Drifloon",
   "thumbnail": "Template_V1/character/pokemon/drifloonbytomatebleuet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/drifloonbytomatebleuet/climb/climb.gif",
@@ -33059,6 +33383,7 @@
  },
  {
   "character": "eeveebycachomon",
+  "name": "Eevee",
   "thumbnail": "Template_V1/character/pokemon/eeveebycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/eeveebycachomon/climb/climb.gif",
@@ -33162,6 +33487,7 @@
  },
  {
   "character": "eeveebystormgale",
+  "name": "Eevee (Alt)",
   "thumbnail": "Template_V1/character/pokemon/eeveebystormgale/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/eeveebystormgale/climb/climb.gif",
@@ -33262,6 +33588,7 @@
  },
  {
   "character": "feraligatrbysparkus",
+  "name": "Feraligatr",
   "thumbnail": "Template_V1/character/pokemon/feraligatrbysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/feraligatrbysparkus/climb/climb.gif",
@@ -33362,6 +33689,7 @@
  },
  {
   "character": "flygonbyniicchan",
+  "name": "Flygon",
   "thumbnail": "Template_V1/character/pokemon/flygonbyniicchan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/flygonbyniicchan/climb/climb.gif",
@@ -33468,6 +33796,7 @@
  },
  {
   "character": "gardevoirbydeadendking",
+  "name": "Gardevoir",
   "thumbnail": "Template_V1/character/pokemon/gardevoirbydeadendking/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/gardevoirbydeadendking/climb/climb.gif",
@@ -33571,6 +33900,7 @@
  },
  {
   "character": "gastlybysabisaotome",
+  "name": "Gastly",
   "thumbnail": "Template_V1/character/pokemon/gastlybysabisaotome/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/gastlybysabisaotome/climb/climb.gif",
@@ -33684,6 +34014,7 @@
  },
  {
   "character": "jolteonbygreenfeline",
+  "name": "Jolteon",
   "thumbnail": "Template_V1/character/pokemon/jolteonbygreenfeline/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/jolteonbygreenfeline/climb/climb.gif",
@@ -33787,6 +34118,7 @@
  },
  {
   "character": "kyurembymazeyelle",
+  "name": "Kyurem",
   "thumbnail": "Template_V1/character/pokemon/kyurembymazeyelle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/kyurembymazeyelle/climb/climb.gif",
@@ -33887,6 +34219,7 @@
  },
  {
   "character": "larvitarbycachomon",
+  "name": "Larvitar",
   "thumbnail": "Template_V1/character/pokemon/larvitarbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/larvitarbycachomon/climb/climb.gif",
@@ -33990,6 +34323,7 @@
  },
  {
   "character": "litwickbycachomon",
+  "name": "Litwick",
   "thumbnail": "Template_V1/character/pokemon/litwickbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/litwickbycachomon/climb/climb.gif",
@@ -34093,6 +34427,7 @@
  },
  {
   "character": "mewbycachomon",
+  "name": "Mew",
   "thumbnail": "Template_V1/character/pokemon/mewbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/mewbycachomon/climb/climb.gif",
@@ -34196,6 +34531,7 @@
  },
  {
   "character": "misdreavusbydeadendking",
+  "name": "Misdreavus",
   "thumbnail": "Template_V1/character/pokemon/misdreavusbydeadendking/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/misdreavusbydeadendking/climb/climb.gif",
@@ -34299,6 +34635,7 @@
  },
  {
   "character": "mudkipbyniicchan",
+  "name": "Mudkip",
   "thumbnail": "Template_V1/character/pokemon/mudkipbyniicchan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/mudkipbyniicchan/climb/climb.gif",
@@ -34399,6 +34736,7 @@
  },
  {
   "character": "onlyslowpokebymizyin",
+  "name": "Slowpoke",
   "thumbnail": "Template_V1/character/pokemon/onlyslowpokebymizyin/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/onlyslowpokebymizyin/climb/climb.gif",
@@ -34499,6 +34837,7 @@
  },
  {
   "character": "oshawottbymewgal",
+  "name": "Oshawott",
   "thumbnail": "Template_V1/character/pokemon/oshawottbymewgal/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/oshawottbymewgal/climb/climb.gif",
@@ -34599,6 +34938,7 @@
  },
  {
   "character": "pikachubyheadbuttoflove",
+  "name": "Pikachu",
   "thumbnail": "Template_V1/character/pokemon/pikachubyheadbuttoflove/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/pikachubyheadbuttoflove/climb/climb.gif",
@@ -34699,6 +35039,7 @@
  },
  {
   "character": "pikachubystormgale",
+  "name": "Pikachu (Alt)",
   "thumbnail": "Template_V1/character/pokemon/pikachubystormgale/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/pikachubystormgale/climb/climb.gif",
@@ -34809,6 +35150,7 @@
  },
  {
   "character": "purrloinbycachomon",
+  "name": "Purrloin",
   "thumbnail": "Template_V1/character/pokemon/purrloinbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/purrloinbycachomon/climb/climb.gif",
@@ -34912,6 +35254,7 @@
  },
  {
   "character": "raichubyniicchan",
+  "name": "Raichu",
   "thumbnail": "Template_V1/character/pokemon/raichubyniicchan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/raichubyniicchan/climb/climb.gif",
@@ -35012,6 +35355,7 @@
  },
  {
   "character": "raichubysparkus",
+  "name": "Raichu (Alt)",
   "thumbnail": "Template_V1/character/pokemon/raichubysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/raichubysparkus/climb/climb.gif",
@@ -35112,6 +35456,7 @@
  },
  {
   "character": "reshrirambymazeyelle",
+  "name": "Reshiram",
   "thumbnail": "Template_V1/character/pokemon/reshrirambymazeyelle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/reshrirambymazeyelle/climb/climb.gif",
@@ -35212,6 +35557,7 @@
  },
  {
   "character": "sewaddlebykinamaaka",
+  "name": "Sewaddle",
   "thumbnail": "Template_V1/character/pokemon/sewaddlebykinamaaka/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/sewaddlebykinamaaka/climb/climb.gif",
@@ -35333,6 +35679,7 @@
  },
  {
   "character": "shedinjabyicantjoinfacebook",
+  "name": "Shedinja",
   "thumbnail": "Template_V1/character/pokemon/shedinjabyicantjoinfacebook/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/shedinjabyicantjoinfacebook/climb/climb.gif",
@@ -35436,6 +35783,7 @@
  },
  {
   "character": "snivybytsutaja",
+  "name": "Snivy",
   "thumbnail": "Template_V1/character/pokemon/snivybytsutaja/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/snivybytsutaja/climb/climb.gif",
@@ -35536,6 +35884,7 @@
  },
  {
   "character": "sparkerbydeadendking",
+  "name": "Sparker",
   "thumbnail": "Template_V1/character/pokemon/sparkerbydeadendking/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/sparkerbydeadendking/climb/climb.gif",
@@ -35639,6 +35988,7 @@
  },
  {
   "character": "squirtle",
+  "name": "Squirtle",
   "thumbnail": "Template_V1/character/pokemon/squirtle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/squirtle/climb/climb.gif",
@@ -35742,6 +36092,7 @@
  },
  {
   "character": "suicunebyniicchan",
+  "name": "Suicune",
   "thumbnail": "Template_V1/character/pokemon/suicunebyniicchan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/suicunebyniicchan/climb/climb.gif",
@@ -35842,6 +36193,7 @@
  },
  {
   "character": "surfachubyakizakura",
+  "name": "Surfachu",
   "thumbnail": "Template_V1/character/pokemon/surfachubyakizakura/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/surfachubyakizakura/climb/climb.gif",
@@ -35972,6 +36324,7 @@
  },
  {
   "character": "swablubycachomon",
+  "name": "Swablu",
   "thumbnail": "Template_V1/character/pokemon/swablubycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/swablubycachomon/climb/climb.gif",
@@ -36075,6 +36428,7 @@
  },
  {
   "character": "tepigbyspyroflame",
+  "name": "Tepig",
   "thumbnail": "Template_V1/character/pokemon/tepigbyspyroflame/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/tepigbyspyroflame/climb/climb.gif",
@@ -36175,6 +36529,7 @@
  },
  {
   "character": "togekissbysparkus",
+  "name": "Togekiss",
   "thumbnail": "Template_V1/character/pokemon/togekissbysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/togekissbysparkus/climb/climb.gif",
@@ -36275,6 +36630,7 @@
  },
  {
   "character": "tyranitarbysparkus",
+  "name": "Tyranitar",
   "thumbnail": "Template_V1/character/pokemon/tyranitarbysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/tyranitarbysparkus/climb/climb.gif",
@@ -36375,6 +36731,7 @@
  },
  {
   "character": "umbreonbycachomon",
+  "name": "Umbreon",
   "thumbnail": "Template_V1/character/pokemon/umbreonbycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/umbreonbycachomon/climb/climb.gif",
@@ -36478,6 +36835,7 @@
  },
  {
   "character": "umbreonbysparkus",
+  "name": "Umbreon (Alt)",
   "thumbnail": "Template_V1/character/pokemon/umbreonbysparkus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/umbreonbysparkus/climb/climb.gif",
@@ -36578,6 +36936,7 @@
  },
  {
   "character": "umbreonshinybycachomon",
+  "name": "Umbreon (Shiny)",
   "thumbnail": "Template_V1/character/pokemon/umbreonshinybycachomon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/umbreonshinybycachomon/climb/climb.gif",
@@ -36681,6 +37040,7 @@
  },
  {
   "character": "zangoosebyicantjoinfacebook",
+  "name": "Zangoose",
   "thumbnail": "Template_V1/character/pokemon/zangoosebyicantjoinfacebook/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/zangoosebyicantjoinfacebook/climb/climb.gif",
@@ -36784,6 +37144,7 @@
  },
  {
   "character": "zoruabystabicon",
+  "name": "Zorua",
   "thumbnail": "Template_V1/character/pokemon/zoruabystabicon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/zoruabystabicon/climb/climb.gif",
@@ -36884,6 +37245,7 @@
  },
  {
   "character": "zweilousbydeadendking",
+  "name": "Zweilous",
   "thumbnail": "Template_V1/character/pokemon/zweilousbydeadendking/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pokemon/zweilousbydeadendking/climb/climb.gif",
@@ -36987,6 +37349,7 @@
  },
  {
   "character": "pusheenthecatbycrystalclearcc",
+  "name": "Pusheen",
   "thumbnail": "Template_V1/character/pusheen/pusheenthecatbycrystalclearcc/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/pusheen/pusheenthecatbycrystalclearcc/climb/climb.gif",
@@ -37087,6 +37450,7 @@
  },
  {
   "character": "rickbystarriichan",
+  "name": "Rick Sanchez",
   "thumbnail": "Template_V1/character/rickandmorty/rickbystarriichan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/rickandmorty/rickbystarriichan/climb/climb.gif",
@@ -37190,6 +37554,7 @@
  },
  {
   "character": "sonic_sonic",
+  "name": "Sonic",
   "thumbnail": "Template_V1/character/sonic/sonic/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/sonic/sonic/climb/climb.gif",
@@ -37292,6 +37657,7 @@
  },
  {
   "character": "sonicbymyly14",
+  "name": "Sonic (Alt)",
   "thumbnail": "Template_V1/character/sonic/sonicbymyly14/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/sonic/sonicbymyly14/climb/climb.gif",
@@ -37395,6 +37761,7 @@
  },
  {
   "character": "tails",
+  "name": "Tails",
   "thumbnail": "Template_V1/character/sonic/tails/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/sonic/tails/climb/climb.gif",
@@ -37495,6 +37862,7 @@
  },
  {
   "character": "buttersstotch",
+  "name": "Butters",
   "thumbnail": "Template_V1/character/southpark/buttersstotch/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/buttersstotch/climb/climb.gif",
@@ -37598,6 +37966,7 @@
  },
  {
   "character": "cartman",
+  "name": "Eric Cartman",
   "thumbnail": "Template_V1/character/southpark/cartman/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/cartman/climb/climb.gif",
@@ -37698,6 +38067,7 @@
  },
  {
   "character": "craigbyxnowherex",
+  "name": "Craig Tucker",
   "thumbnail": "Template_V1/character/southpark/craigbyxnowherex/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/craigbyxnowherex/climb/climb.gif",
@@ -37798,6 +38168,7 @@
  },
  {
   "character": "kennybyxnowherex",
+  "name": "Kenny",
   "thumbnail": "Template_V1/character/southpark/kennybyxnowherex/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/kennybyxnowherex/climb/climb.gif",
@@ -37898,6 +38269,7 @@
  },
  {
   "character": "kennyzombiebyxnowherex",
+  "name": "Kenny (Zombie)",
   "thumbnail": "Template_V1/character/southpark/kennyzombiebyxnowherex/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/kennyzombiebyxnowherex/climb/climb.gif",
@@ -37998,6 +38370,7 @@
  },
  {
   "character": "kyle",
+  "name": "Kyle Broflovski",
   "thumbnail": "Template_V1/character/southpark/kyle/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/kyle/climb/climb.gif",
@@ -38101,6 +38474,7 @@
  },
  {
   "character": "mysterionbyxnowherex",
+  "name": "Mysterion",
   "thumbnail": "Template_V1/character/southpark/mysterionbyxnowherex/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/mysterionbyxnowherex/climb/climb.gif",
@@ -38201,6 +38575,7 @@
  },
  {
   "character": "stanbyxnowherex",
+  "name": "Stan Marsh",
   "thumbnail": "Template_V1/character/southpark/stanbyxnowherex/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/stanbyxnowherex/climb/climb.gif",
@@ -38301,6 +38676,7 @@
  },
  {
   "character": "tweek",
+  "name": "Tweek",
   "thumbnail": "Template_V1/character/southpark/tweek/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/southpark/tweek/climb/climb.gif",
@@ -38401,6 +38777,7 @@
  },
  {
   "character": "spongebobbysojia",
+  "name": "SpongeBob",
   "thumbnail": "Template_V1/character/spongebobsquarepants/spongebobbysojia/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/spongebobsquarepants/spongebobbysojia/climb/climb.gif",
@@ -38504,6 +38881,7 @@
  },
  {
   "character": "garnetbysbrucket",
+  "name": "Garnet",
   "thumbnail": "Template_V1/character/stevenuniverse/garnetbysbrucket/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/stevenuniverse/garnetbysbrucket/climb/climb.gif",
@@ -38607,6 +38985,7 @@
  },
  {
   "character": "lapislazulibyoskilll",
+  "name": "Lapis Lazuli",
   "thumbnail": "Template_V1/character/stevenuniverse/lapislazulibyoskilll/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/stevenuniverse/lapislazulibyoskilll/climb/climb.gif",
@@ -38710,6 +39089,7 @@
  },
  {
   "character": "pearlbyanalostan",
+  "name": "Pearl",
   "thumbnail": "Template_V1/character/stevenuniverse/pearlbyanalostan/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/stevenuniverse/pearlbyanalostan/climb/climb.gif",
@@ -38812,6 +39192,7 @@
  },
  {
   "character": "peridotbyhetagarnet",
+  "name": "Peridot",
   "thumbnail": "Template_V1/character/stevenuniverse/peridotbyhetagarnet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/stevenuniverse/peridotbyhetagarnet/climb/climb.gif",
@@ -38915,6 +39296,7 @@
  },
  {
   "character": "rubybyjunnboi",
+  "name": "Ruby",
   "thumbnail": "Template_V1/character/stevenuniverse/rubybyjunnboi/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/stevenuniverse/rubybyjunnboi/climb/climb.gif",
@@ -39018,6 +39400,7 @@
  },
  {
   "character": "brucebanner",
+  "name": "Bruce Banner",
   "thumbnail": "Template_V1/character/theavengers/brucebanner/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/brucebanner/climb/climb.gif",
@@ -39121,6 +39504,7 @@
  },
  {
   "character": "captainamerica",
+  "name": "Captain America",
   "thumbnail": "Template_V1/character/theavengers/captainamerica/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/captainamerica/climb/climb.gif",
@@ -39221,6 +39605,7 @@
  },
  {
   "character": "hawkeye",
+  "name": "Hawkeye",
   "thumbnail": "Template_V1/character/theavengers/hawkeye/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/hawkeye/climb/climb.gif",
@@ -39321,6 +39706,7 @@
  },
  {
   "character": "loki",
+  "name": "Loki",
   "thumbnail": "Template_V1/character/theavengers/loki/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/loki/climb/climb.gif",
@@ -39421,6 +39807,7 @@
  },
  {
   "character": "lokihelmet",
+  "name": "Loki (Helmet)",
   "thumbnail": "Template_V1/character/theavengers/lokihelmet/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/lokihelmet/climb/climb.gif",
@@ -39521,6 +39908,7 @@
  },
  {
   "character": "tonystark",
+  "name": "Tony Stark",
   "thumbnail": "Template_V1/character/theavengers/tonystark/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/theavengers/tonystark/climb/climb.gif",
@@ -39621,6 +40009,7 @@
  },
  {
   "character": "georgeharrison",
+  "name": "George Harrison",
   "thumbnail": "Template_V1/character/thebeatles/georgeharrison/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/thebeatles/georgeharrison/climb/climb.gif",
@@ -39721,6 +40110,7 @@
  },
  {
   "character": "johnlennon",
+  "name": "John Lennon",
   "thumbnail": "Template_V1/character/thebeatles/johnlennon/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/thebeatles/johnlennon/climb/climb.gif",
@@ -39821,6 +40211,7 @@
  },
  {
   "character": "paulmccartney",
+  "name": "Paul McCartney",
   "thumbnail": "Template_V1/character/thebeatles/paulmccartney/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/thebeatles/paulmccartney/climb/climb.gif",
@@ -39921,6 +40312,7 @@
  },
  {
   "character": "ringostarr",
+  "name": "Ringo Starr",
   "thumbnail": "Template_V1/character/thebeatles/ringostarr/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/thebeatles/ringostarr/climb/climb.gif",
@@ -40021,6 +40413,7 @@
  },
  {
   "character": "shuutsukiyamabykervanos",
+  "name": "Shuu Tsukiyama",
   "thumbnail": "Template_V1/character/tokyoghoul/shuutsukiyamabykervanos/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/tokyoghoul/shuutsukiyamabykervanos/climb/climb.gif",
@@ -40121,6 +40514,7 @@
  },
  {
   "character": "alphys",
+  "name": "Alphys",
   "thumbnail": "Template_V1/character/undertale/alphys/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/alphys/climb/climb.gif",
@@ -40221,6 +40615,7 @@
  },
  {
   "character": "asriel",
+  "name": "Asriel",
   "thumbnail": "Template_V1/character/undertale/asriel/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/asriel/climb/climb.gif",
@@ -40328,6 +40723,7 @@
  },
  {
   "character": "asylumsansbyniuniunuko",
+  "name": "Asylum Sans",
   "thumbnail": "Template_V1/character/undertale/asylumsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/asylumsansbyniuniunuko/climb/climb.gif",
@@ -40431,6 +40827,7 @@
  },
  {
   "character": "birdtalesansbyniuniunuko",
+  "name": "Birdtale Sans",
   "thumbnail": "Template_V1/character/undertale/birdtalesansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/birdtalesansbyniuniunuko/climb/climb.gif",
@@ -40534,6 +40931,7 @@
  },
  {
   "character": "blueberrybykaweii",
+  "name": "Blueberry Sans",
   "thumbnail": "Template_V1/character/undertale/blueberrybykaweii/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/blueberrybykaweii/climb/climb.gif",
@@ -40637,6 +41035,7 @@
  },
  {
   "character": "chara",
+  "name": "Chara",
   "thumbnail": "Template_V1/character/undertale/chara/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/chara/climb/climb.gif",
@@ -40740,6 +41139,7 @@
  },
  {
   "character": "dreamtalesansbyniuniunuko",
+  "name": "Dreamtale Sans",
   "thumbnail": "Template_V1/character/undertale/dreamtalesansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/dreamtalesansbyniuniunuko/climb/climb.gif",
@@ -40843,6 +41243,7 @@
  },
  {
   "character": "dustsansbyniuniunuko",
+  "name": "Dust Sans",
   "thumbnail": "Template_V1/character/undertale/dustsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/dustsansbyniuniunuko/climb/climb.gif",
@@ -40946,6 +41347,7 @@
  },
  {
   "character": "dustysansybyniuniunuko",
+  "name": "Dusty Sans",
   "thumbnail": "Template_V1/character/undertale/dustysansybyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/dustysansybyniuniunuko/climb/climb.gif",
@@ -41049,6 +41451,7 @@
  },
  {
   "character": "errorsansbyloverofpiggies",
+  "name": "Error Sans",
   "thumbnail": "Template_V1/character/undertale/errorsansbyloverofpiggies/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/errorsansbyloverofpiggies/climb/climb.gif",
@@ -41152,6 +41555,7 @@
  },
  {
   "character": "flowerfellsansbyniuniunuko",
+  "name": "Flowerfell Sans",
   "thumbnail": "Template_V1/character/undertale/flowerfellsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/flowerfellsansbyniuniunuko/climb/climb.gif",
@@ -41255,6 +41659,7 @@
  },
  {
   "character": "flowey",
+  "name": "Flowey",
   "thumbnail": "Template_V1/character/undertale/flowey/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/flowey/climb/climb.gif",
@@ -41358,6 +41763,7 @@
  },
  {
   "character": "freshsansbyniuniunuko",
+  "name": "Fresh Sans",
   "thumbnail": "Template_V1/character/undertale/freshsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/freshsansbyniuniunuko/climb/climb.gif",
@@ -41461,6 +41867,7 @@
  },
  {
   "character": "frisk",
+  "name": "Frisk",
   "thumbnail": "Template_V1/character/undertale/frisk/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/frisk/climb/climb.gif",
@@ -41564,6 +41971,7 @@
  },
  {
   "character": "gastersansbyniuniunuko",
+  "name": "Gaster Sans",
   "thumbnail": "Template_V1/character/undertale/gastersansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/gastersansbyniuniunuko/climb/climb.gif",
@@ -41666,6 +42074,7 @@
  },
  {
   "character": "horrorsansbybeldcraft",
+  "name": "Horror Sans",
   "thumbnail": "Template_V1/character/undertale/horrorsansbybeldcraft/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/horrorsansbybeldcraft/climb/climb.gif",
@@ -41766,6 +42175,7 @@
  },
  {
   "character": "inksansbyniuniunuko",
+  "name": "Ink Sans",
   "thumbnail": "Template_V1/character/undertale/inksansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/inksansbyniuniunuko/climb/climb.gif",
@@ -41869,6 +42279,7 @@
  },
  {
   "character": "napstablook",
+  "name": "Napstablook",
   "thumbnail": "Template_V1/character/undertale/napstablook/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/napstablook/climb/climb.gif",
@@ -41972,6 +42383,7 @@
  },
  {
   "character": "nightmaresansbyniuniunuko",
+  "name": "Nightmare Sans",
   "thumbnail": "Template_V1/character/undertale/nightmaresansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/nightmaresansbyniuniunuko/climb/climb.gif",
@@ -42075,6 +42487,7 @@
  },
  {
   "character": "papyrus",
+  "name": "Papyrus",
   "thumbnail": "Template_V1/character/undertale/papyrus/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/papyrus/climb/climb.gif",
@@ -42178,6 +42591,7 @@
  },
  {
   "character": "reapersansbyniuniunuko",
+  "name": "Reaper Sans",
   "thumbnail": "Template_V1/character/undertale/reapersansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/reapersansbyniuniunuko/climb/climb.gif",
@@ -42281,6 +42695,7 @@
  },
  {
   "character": "sans",
+  "name": "Sans",
   "thumbnail": "Template_V1/character/undertale/sans/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/sans/climb/climb.gif",
@@ -42384,6 +42799,7 @@
  },
  {
   "character": "sansbyniuniunuko",
+  "name": "Sans (Alt)",
   "thumbnail": "Template_V1/character/undertale/sansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/sansbyniuniunuko/climb/climb.gif",
@@ -42487,6 +42903,7 @@
  },
  {
   "character": "soriel",
+  "name": "Soriel",
   "thumbnail": "Template_V1/character/undertale/soriel/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/soriel/climb/climb.gif",
@@ -42587,6 +43004,7 @@
  },
  {
   "character": "underfellsansbyniuniunuko",
+  "name": "Underfell Sans",
   "thumbnail": "Template_V1/character/undertale/underfellsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/underfellsansbyniuniunuko/climb/climb.gif",
@@ -42690,6 +43108,7 @@
  },
  {
   "character": "underswapsansbyniuniunuko",
+  "name": "Underswap Sans",
   "thumbnail": "Template_V1/character/undertale/underswapsansbyniuniunuko/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/underswapsansbyniuniunuko/climb/climb.gif",
@@ -42793,6 +43212,7 @@
  },
  {
   "character": "undyne",
+  "name": "Undyne",
   "thumbnail": "Template_V1/character/undertale/undyne/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/undertale/undyne/climb/climb.gif",
@@ -42896,6 +43316,7 @@
  },
  {
   "character": "gakupo",
+  "name": "Gakupo",
   "thumbnail": "Template_V1/character/vocaloid/gakupo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/gakupo/climb/climb.gif",
@@ -42999,6 +43420,7 @@
  },
  {
   "character": "hatsunemiku",
+  "name": "Hatsune Miku",
   "thumbnail": "Template_V1/character/vocaloid/hatsunemiku/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/hatsunemiku/climb/climb.gif",
@@ -43098,6 +43520,7 @@
  },
  {
   "character": "ia",
+  "name": "IA",
   "thumbnail": "Template_V1/character/vocaloid/ia/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/ia/climb/climb.gif",
@@ -43201,6 +43624,7 @@
  },
  {
   "character": "kagaminelen",
+  "name": "Kagamine Len",
   "thumbnail": "Template_V1/character/vocaloid/kagaminelen/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/kagaminelen/climb/climb.gif",
@@ -43301,6 +43725,7 @@
  },
  {
   "character": "kagaminerin",
+  "name": "Kagamine Rin",
   "thumbnail": "Template_V1/character/vocaloid/kagaminerin/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/kagaminerin/climb/climb.gif",
@@ -43403,6 +43828,7 @@
  },
  {
   "character": "kaito",
+  "name": "KAITO",
   "thumbnail": "Template_V1/character/vocaloid/kaito/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/kaito/climb/climb.gif",
@@ -43503,6 +43929,7 @@
  },
  {
   "character": "luka",
+  "name": "Megurine Luka",
   "thumbnail": "Template_V1/character/vocaloid/luka/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/luka/climb/climb.gif",
@@ -43603,6 +44030,7 @@
  },
  {
   "character": "mikuo",
+  "name": "Mikuo",
   "thumbnail": "Template_V1/character/vocaloid/mikuo/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/mikuo/climb/climb.gif",
@@ -43703,6 +44131,7 @@
  },
  {
   "character": "oliver",
+  "name": "Oliver",
   "thumbnail": "Template_V1/character/vocaloid/oliver/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/vocaloid/oliver/climb/climb.gif",
@@ -43803,6 +44232,7 @@
  },
  {
   "character": "keithbymelmeikomeiling",
+  "name": "Keith",
   "thumbnail": "Template_V1/character/voltron/keithbymelmeikomeiling/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/voltron/keithbymelmeikomeiling/climb/climb.gif",
@@ -43903,6 +44333,7 @@
  },
  {
   "character": "pidgebynekorawrmeow",
+  "name": "Pidge",
   "thumbnail": "Template_V1/character/voltron/pidgebynekorawrmeow/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/voltron/pidgebynekorawrmeow/climb/climb.gif",
@@ -44006,6 +44437,7 @@
  },
  {
   "character": "deadpoolbycakedoom",
+  "name": "Deadpool",
   "thumbnail": "Template_V1/character/xmen/deadpoolbycakedoom/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/xmen/deadpoolbycakedoom/climb/climb.gif",
@@ -44106,6 +44538,7 @@
  },
  {
   "character": "blueeyesbyburakbir",
+  "name": "Blue-Eyes White Dragon",
   "thumbnail": "Template_V1/character/yugioh/blueeyesbyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/blueeyesbyburakbir/climb/climb.gif",
@@ -44206,6 +44639,7 @@
  },
  {
   "character": "darkmagicianbyburakbir",
+  "name": "Dark Magician",
   "thumbnail": "Template_V1/character/yugioh/darkmagicianbyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/darkmagicianbyburakbir/climb/climb.gif",
@@ -44306,6 +44740,7 @@
  },
  {
   "character": "kiribobyburakbir",
+  "name": "Kuriboh",
   "thumbnail": "Template_V1/character/yugioh/kiribobyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/kiribobyburakbir/climb/climb.gif",
@@ -44406,6 +44841,7 @@
  },
  {
   "character": "newbakurabyburakbir",
+  "name": "Bakura (New)",
   "thumbnail": "Template_V1/character/yugioh/newbakurabyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/newbakurabyburakbir/climb/climb.gif",
@@ -44506,6 +44942,7 @@
  },
  {
   "character": "newyugibyburakbir",
+  "name": "Yugi (New)",
   "thumbnail": "Template_V1/character/yugioh/newyugibyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/newyugibyburakbir/climb/climb.gif",
@@ -44606,6 +45043,7 @@
  },
  {
   "character": "oldbakurabyburakbir",
+  "name": "Bakura (Old)",
   "thumbnail": "Template_V1/character/yugioh/oldbakurabyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/oldbakurabyburakbir/climb/climb.gif",
@@ -44707,6 +45145,7 @@
  },
  {
   "character": "rexraptorbyburakbir",
+  "name": "Rex Raptor",
   "thumbnail": "Template_V1/character/yugioh/rexraptorbyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/rexraptorbyburakbir/climb/climb.gif",
@@ -44807,6 +45246,7 @@
  },
  {
   "character": "setokaibabyburakbir",
+  "name": "Seto Kaiba",
   "thumbnail": "Template_V1/character/yugioh/setokaibabyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/setokaibabyburakbir/climb/climb.gif",
@@ -44907,6 +45347,7 @@
  },
  {
   "character": "weevilunderwoodbyburakbir",
+  "name": "Weevil Underwood",
   "thumbnail": "Template_V1/character/yugioh/weevilunderwoodbyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/weevilunderwoodbyburakbir/climb/climb.gif",
@@ -45007,6 +45448,7 @@
  },
  {
   "character": "yugibyburakbir",
+  "name": "Yugi",
   "thumbnail": "Template_V1/character/yugioh/yugibyburakbir/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yugioh/yugibyburakbir/climb/climb.gif",
@@ -45107,6 +45549,7 @@
  },
  {
   "character": "viktorbyeropinku",
+  "name": "Viktor Nikiforov",
   "thumbnail": "Template_V1/character/yurionice/viktorbyeropinku/thumbnail.gif",
   "climb": {
    "thumb": "Template_V1/character/yurionice/viktorbyeropinku/climb/climb.gif",
